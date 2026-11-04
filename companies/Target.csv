@@ -1,0 +1,8 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+14,https://leetcode.com/problems/longest-common-prefix/description/,Longest Common Prefix,Easy,"Array, String, Trie",more than 6 months; all time
+53,https://leetcode.com/problems/maximum-subarray/description/,Maximum Subarray,Medium,"Array, Divide and Conquer, Dynamic Programming",more than 6 months; all time
+75,https://leetcode.com/problems/sort-colors/description/,Sort Colors,Medium,"Array, Two Pointers, Sorting, Quicksort, Bubble Sort",more than 6 months; all time
+184,https://leetcode.com/problems/department-highest-salary/description/,Department Highest Salary,Medium,Database,more than 6 months; all time
+451,https://leetcode.com/problems/sort-characters-by-frequency/description/,Sort Characters By Frequency,Medium,"Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting",more than 6 months; all time
+1352,https://leetcode.com/problems/product-of-the-last-k-numbers/description/,Product of the Last K Numbers,Medium,"Array, Math, Design, Data Stream, Prefix Sum",more than 6 months; all time
+2246,https://leetcode.com/problems/longest-path-with-different-adjacent-characters/description/,Longest Path With Different Adjacent Characters,Hard,"Array, String, Tree, Depth-First Search, Graph Theory, Topological Sort",more than 6 months; all time

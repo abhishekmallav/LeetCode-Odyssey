@@ -1,0 +1,16 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+3,https://leetcode.com/problems/longest-substring-without-repeating-characters/description/,Longest Substring Without Repeating Characters,Medium,"Hash Table, String, Sliding Window",more than 6 months; all time
+5,https://leetcode.com/problems/longest-palindromic-substring/description/,Longest Palindromic Substring,Medium,"Two Pointers, String, Dynamic Programming, Manacher",more than 6 months; all time
+42,https://leetcode.com/problems/trapping-rain-water/description/,Trapping Rain Water,Hard,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack",more than 6 months; all time
+84,https://leetcode.com/problems/largest-rectangle-in-histogram/description/,Largest Rectangle in Histogram,Hard,"Array, Stack, Monotonic Stack, Range Minimum/Maximum Query",more than 6 months; all time
+128,https://leetcode.com/problems/longest-consecutive-sequence/description/,Longest Consecutive Sequence,Medium,"Array, Hash Table, Union-Find",more than 6 months; all time
+134,https://leetcode.com/problems/gas-station/description/,Gas Station,Medium,"Array, Greedy",more than 6 months; all time
+146,https://leetcode.com/problems/lru-cache/description/,LRU Cache,Medium,"Hash Table, Linked List, Design, Doubly-Linked List",more than 6 months; all time
+200,https://leetcode.com/problems/number-of-islands/description/,Number of Islands,Medium,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix",more than 6 months; all time
+207,https://leetcode.com/problems/course-schedule/description/,Course Schedule,Medium,"Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort, Directed Acyclic Graph",more than 6 months; all time
+236,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/,Lowest Common Ancestor of a Binary Tree,Medium,"Tree, Depth-First Search, Binary Tree, Binary Lifting, Lowest Common Ancestor",more than 6 months; all time
+340,https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/description/,Longest Substring with At Most K Distinct Characters,Medium,"Hash Table, String, Sliding Window",more than 6 months; all time
+560,https://leetcode.com/problems/subarray-sum-equals-k/description/,Subarray Sum Equals K,Medium,"Array, Hash Table, Prefix Sum",more than 6 months; all time
+815,https://leetcode.com/problems/bus-routes/description/,Bus Routes,Hard,"Array, Hash Table, Breadth-First Search",more than 6 months; all time
+987,https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/description/,Vertical Order Traversal of a Binary Tree,Hard,"Hash Table, Tree, Depth-First Search, Breadth-First Search, Sorting, Binary Tree",all time
+2060,https://leetcode.com/problems/check-if-an-original-string-exists-given-two-encoded-strings/description/,Check if an Original String Exists Given Two Encoded Strings,Hard,"String, Dynamic Programming",more than 6 months; all time

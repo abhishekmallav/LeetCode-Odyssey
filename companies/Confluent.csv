@@ -1,0 +1,11 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+36,https://leetcode.com/problems/valid-sudoku/description/,Valid Sudoku,Medium,"Array, Hash Table, Matrix",last 6 months; more than 6 months; all time
+37,https://leetcode.com/problems/sudoku-solver/description/,Sudoku Solver,Hard,"Array, Hash Table, Backtracking, Matrix, Algorithm X, Dancing Links",last 6 months; more than 6 months; all time
+39,https://leetcode.com/problems/combination-sum/description/,Combination Sum,Medium,"Array, Backtracking",more than 6 months; all time
+146,https://leetcode.com/problems/lru-cache/description/,LRU Cache,Medium,"Hash Table, Linked List, Design, Doubly-Linked List",last 6 months; more than 6 months; all time
+765,https://leetcode.com/problems/couples-holding-hands/description/,Couples Holding Hands,Hard,"Greedy, Depth-First Search, Breadth-First Search, Union-Find, Graph Theory",more than 6 months; all time
+981,https://leetcode.com/problems/time-based-key-value-store/description/,Time Based Key-Value Store,Medium,"Hash Table, String, Binary Search, Design",more than 6 months; all time
+1797,https://leetcode.com/problems/design-authentication-manager/description/,Design Authentication Manager,Medium,"Hash Table, Linked List, Design, Doubly-Linked List",last 6 months; more than 6 months; all time
+2604,https://leetcode.com/problems/minimum-time-to-eat-all-grains/description/,Minimum Time to Eat All Grains,Hard,"Array, Two Pointers, Binary Search, Sorting",more than 6 months; all time
+2622,https://leetcode.com/problems/cache-with-time-limit/description/,Cache With Time Limit,Medium,,more than 6 months; all time
+2627,https://leetcode.com/problems/debounce/description/,Debounce,Medium,,more than 6 months; all time

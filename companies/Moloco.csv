@@ -1,0 +1,17 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+23,https://leetcode.com/problems/merge-k-sorted-lists/description/,Merge k Sorted Lists,Hard,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort, Tournament Sort",all time
+42,https://leetcode.com/problems/trapping-rain-water/description/,Trapping Rain Water,Hard,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack",more than 6 months; all time
+76,https://leetcode.com/problems/minimum-window-substring/description/,Minimum Window Substring,Hard,"Hash Table, String, Sliding Window",last 6 months; more than 6 months; all time
+130,https://leetcode.com/problems/surrounded-regions/description/,Surrounded Regions,Medium,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix",more than 6 months; all time
+146,https://leetcode.com/problems/lru-cache/description/,LRU Cache,Medium,"Hash Table, Linked List, Design, Doubly-Linked List",more than 6 months; all time
+200,https://leetcode.com/problems/number-of-islands/description/,Number of Islands,Medium,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix",more than 6 months; all time
+210,https://leetcode.com/problems/course-schedule-ii/description/,Course Schedule II,Medium,"Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort",last 6 months; more than 6 months; all time
+305,https://leetcode.com/problems/number-of-islands-ii/description/,Number of Islands II,Hard,"Array, Hash Table, Union-Find",all time
+394,https://leetcode.com/problems/decode-string/description/,Decode String,Medium,"String, Stack, Recursion",more than 6 months; all time
+540,https://leetcode.com/problems/single-element-in-a-sorted-array/description/,Single Element in a Sorted Array,Medium,"Array, Binary Search",more than 6 months; all time
+827,https://leetcode.com/problems/making-a-large-island/description/,Making A Large Island,Hard,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix",more than 6 months; all time
+994,https://leetcode.com/problems/rotting-oranges/description/,Rotting Oranges,Medium,"Array, Breadth-First Search, Matrix",last 6 months; all time
+1048,https://leetcode.com/problems/longest-string-chain/description/,Longest String Chain,Medium,"Array, Hash Table, Two Pointers, String, Dynamic Programming, Sorting",more than 6 months; all time
+1381,https://leetcode.com/problems/design-a-stack-with-increment-operation/description/,Design a Stack With Increment Operation,Medium,"Array, Stack, Design",more than 6 months; all time
+1438,https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/description/,Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit,Medium,"Array, Queue, Sliding Window, Heap (Priority Queue), Ordered Set, Monotonic Queue",more than 6 months; all time
+2116,https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/description/,Check if a Parentheses String Can Be Valid,Medium,"String, Stack, Greedy, Bracket Sequences",more than 6 months; all time

@@ -1,0 +1,8 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+126,https://leetcode.com/problems/word-ladder-ii/description/,Word Ladder II,Hard,"Hash Table, String, Backtracking, Breadth-First Search, Bidirectional Search",all time
+127,https://leetcode.com/problems/word-ladder/description/,Word Ladder,Hard,"Hash Table, String, Breadth-First Search, Bidirectional Search",more than 6 months; all time
+189,https://leetcode.com/problems/rotate-array/description/,Rotate Array,Medium,"Array, Math, Two Pointers",last 6 months; more than 6 months; all time
+191,https://leetcode.com/problems/number-of-1-bits/description/,Number of 1 Bits,Easy,"Divide and Conquer, Bit Manipulation",more than 6 months; all time
+684,https://leetcode.com/problems/redundant-connection/description/,Redundant Connection,Medium,"Depth-First Search, Breadth-First Search, Union-Find, Graph Theory",last 3 months; last 6 months; more than 6 months; all time
+692,https://leetcode.com/problems/top-k-frequent-words/description/,Top K Frequent Words,Medium,"Array, Hash Table, String, Trie, Sorting, Heap (Priority Queue), Bucket Sort, Counting",last 6 months; more than 6 months; all time
+965,https://leetcode.com/problems/univalued-binary-tree/description/,Univalued Binary Tree,Easy,"Tree, Depth-First Search, Breadth-First Search, Binary Tree",more than 6 months; all time

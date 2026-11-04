@@ -1,0 +1,26 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+4,https://leetcode.com/problems/median-of-two-sorted-arrays/description/,Median of Two Sorted Arrays,Hard,"Array, Binary Search, Divide and Conquer",more than 6 months; all time
+11,https://leetcode.com/problems/container-with-most-water/description/,Container With Most Water,Medium,"Array, Two Pointers, Greedy",more than 6 months; all time
+49,https://leetcode.com/problems/group-anagrams/description/,Group Anagrams,Medium,"Array, Hash Table, String, Sorting",more than 6 months; all time
+56,https://leetcode.com/problems/merge-intervals/description/,Merge Intervals,Medium,"Array, Sorting, Quicksort",more than 6 months; all time
+79,https://leetcode.com/problems/word-search/description/,Word Search,Medium,"Array, String, Backtracking, Depth-First Search, Matrix",all time
+126,https://leetcode.com/problems/word-ladder-ii/description/,Word Ladder II,Hard,"Hash Table, String, Backtracking, Breadth-First Search, Bidirectional Search",more than 6 months; all time
+127,https://leetcode.com/problems/word-ladder/description/,Word Ladder,Hard,"Hash Table, String, Breadth-First Search, Bidirectional Search",more than 6 months; all time
+128,https://leetcode.com/problems/longest-consecutive-sequence/description/,Longest Consecutive Sequence,Medium,"Array, Hash Table, Union-Find",more than 6 months; all time
+146,https://leetcode.com/problems/lru-cache/description/,LRU Cache,Medium,"Hash Table, Linked List, Design, Doubly-Linked List",more than 6 months; all time
+200,https://leetcode.com/problems/number-of-islands/description/,Number of Islands,Medium,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix",more than 6 months
+238,https://leetcode.com/problems/product-of-array-except-self/description/,Product of Array Except Self,Medium,"Array, Prefix Sum",all time
+269,https://leetcode.com/problems/alien-dictionary/description/,Alien Dictionary,Hard,"Array, String, Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort, Directed Acyclic Graph",last 6 months; all time
+295,https://leetcode.com/problems/find-median-from-data-stream/description/,Find Median from Data Stream,Hard,"Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream",more than 6 months; all time
+304,https://leetcode.com/problems/range-sum-query-2d-immutable/description/,Range Sum Query 2D - Immutable,Medium,"Array, Design, Matrix, Prefix Sum",more than 6 months; all time
+380,https://leetcode.com/problems/insert-delete-getrandom-o1/description/,Insert Delete GetRandom O(1),Medium,"Array, Hash Table, Math, Design, Randomized",last 3 months; last 6 months; more than 6 months; all time
+381,https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/description/,Insert Delete GetRandom O(1) - Duplicates allowed,Hard,"Array, Hash Table, Math, Design, Randomized",last 6 months; all time
+410,https://leetcode.com/problems/split-array-largest-sum/description/,Split Array Largest Sum,Hard,"Array, Binary Search, Dynamic Programming, Greedy, Prefix Sum",all time
+621,https://leetcode.com/problems/task-scheduler/description/,Task Scheduler,Medium,"Array, Hash Table, Greedy, Sorting, Heap (Priority Queue), Counting",more than 6 months; all time
+739,https://leetcode.com/problems/daily-temperatures/description/,Daily Temperatures,Medium,"Array, Stack, Monotonic Stack",more than 6 months
+863,https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/description/,All Nodes Distance K in Binary Tree,Medium,"Hash Table, Tree, Depth-First Search, Breadth-First Search, Binary Tree",more than 6 months; all time
+875,https://leetcode.com/problems/koko-eating-bananas/description/,Koko Eating Bananas,Medium,"Array, Binary Search",more than 6 months; all time
+1190,https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/description/,Reverse Substrings Between Each Pair of Parentheses,Medium,"String, Stack, Bracket Sequences",more than 6 months; all time
+1487,https://leetcode.com/problems/making-file-names-unique/description/,Making File Names Unique,Medium,"Array, Hash Table, String",more than 6 months; all time
+1912,https://leetcode.com/problems/design-movie-rental-system/description/,Design Movie Rental System,Hard,"Array, Hash Table, Design, Heap (Priority Queue), Ordered Set",last 6 months; all time
+2043,https://leetcode.com/problems/simple-bank-system/description/,Simple Bank System,Medium,"Array, Hash Table, Design, Simulation",last 6 months; more than 6 months; all time

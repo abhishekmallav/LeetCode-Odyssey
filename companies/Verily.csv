@@ -1,0 +1,13 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+146,https://leetcode.com/problems/lru-cache/description/,LRU Cache,Medium,"Hash Table, Linked List, Design, Doubly-Linked List",last 6 months; more than 6 months; all time
+239,https://leetcode.com/problems/sliding-window-maximum/description/,Sliding Window Maximum,Hard,"Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue, Range Minimum/Maximum Query",last 3 months; last 6 months; all time
+354,https://leetcode.com/problems/russian-doll-envelopes/description/,Russian Doll Envelopes,Hard,"Array, Binary Search, Dynamic Programming, Sorting, Longest Increasing Subsequence",more than 6 months; all time
+359,https://leetcode.com/problems/logger-rate-limiter/description/,Logger Rate Limiter,Easy,"Hash Table, Design, Data Stream",last 6 months; more than 6 months; all time
+843,https://leetcode.com/problems/guess-the-word/description/,Guess the Word,Hard,"Array, Math, String, Minimax, Interactive, Game Theory",more than 6 months; all time
+939,https://leetcode.com/problems/minimum-area-rectangle/description/,Minimum Area Rectangle,Medium,"Array, Hash Table, Math, Geometry, Sorting",more than 6 months; all time
+963,https://leetcode.com/problems/minimum-area-rectangle-ii/description/,Minimum Area Rectangle II,Medium,"Array, Hash Table, Math, Geometry",more than 6 months; all time
+1024,https://leetcode.com/problems/video-stitching/description/,Video Stitching,Medium,"Array, Dynamic Programming, Greedy",more than 6 months; all time
+1048,https://leetcode.com/problems/longest-string-chain/description/,Longest String Chain,Medium,"Array, Hash Table, Two Pointers, String, Dynamic Programming, Sorting",more than 6 months; all time
+1197,https://leetcode.com/problems/minimum-knight-moves/description/,Minimum Knight Moves,Medium,"Breadth-First Search, Heuristic Search, Bidirectional Search, A* Search",more than 6 months; all time
+2007,https://leetcode.com/problems/find-original-array-from-doubled-array/description/,Find Original Array From Doubled Array,Medium,"Array, Hash Table, Greedy, Sorting",more than 6 months; all time
+2115,https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/description/,Find All Possible Recipes from Given Supplies,Medium,"Array, Hash Table, String, Graph Theory, Topological Sort, Directed Acyclic Graph",more than 6 months; all time

@@ -1,0 +1,8 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+16,https://leetcode.com/problems/3sum-closest/description/,3Sum Closest,Medium,"Array, Two Pointers, Sorting",more than 6 months; all time
+41,https://leetcode.com/problems/first-missing-positive/description/,First Missing Positive,Hard,"Array, Hash Table",more than 6 months; all time
+76,https://leetcode.com/problems/minimum-window-substring/description/,Minimum Window Substring,Hard,"Hash Table, String, Sliding Window",more than 6 months; all time
+146,https://leetcode.com/problems/lru-cache/description/,LRU Cache,Medium,"Hash Table, Linked List, Design, Doubly-Linked List",all time
+395,https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/description/,Longest Substring with At Least K Repeating Characters,Medium,"Hash Table, String, Divide and Conquer, Sliding Window",all time
+741,https://leetcode.com/problems/cherry-pickup/description/,Cherry Pickup,Hard,"Array, Dynamic Programming, Matrix",last 30 days; last 3 months; last 6 months; all time
+3878,https://leetcode.com/problems/count-good-subarrays/description/,Count Good Subarrays,Hard,"Array, Stack, Bit Manipulation, Monotonic Stack",last 6 months; more than 6 months; all time

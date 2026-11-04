@@ -1,0 +1,20 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+1,https://leetcode.com/problems/two-sum/description/,Two Sum,Easy,"Array, Hash Table",more than 6 months; all time
+3,https://leetcode.com/problems/longest-substring-without-repeating-characters/description/,Longest Substring Without Repeating Characters,Medium,"Hash Table, String, Sliding Window",more than 6 months; all time
+9,https://leetcode.com/problems/palindrome-number/description/,Palindrome Number,Easy,Math,more than 6 months; all time
+12,https://leetcode.com/problems/integer-to-roman/description/,Integer to Roman,Medium,"Hash Table, Math, String",more than 6 months; all time
+13,https://leetcode.com/problems/roman-to-integer/description/,Roman to Integer,Easy,"Hash Table, Math, String",more than 6 months; all time
+15,https://leetcode.com/problems/3sum/description/,3Sum,Medium,"Array, Two Pointers, Sorting",more than 6 months; all time
+20,https://leetcode.com/problems/valid-parentheses/description/,Valid Parentheses,Easy,"String, Stack, Bracket Sequences",all time
+54,https://leetcode.com/problems/spiral-matrix/description/,Spiral Matrix,Medium,"Array, Matrix, Simulation",more than 6 months; all time
+56,https://leetcode.com/problems/merge-intervals/description/,Merge Intervals,Medium,"Array, Sorting, Quicksort",more than 6 months; all time
+70,https://leetcode.com/problems/climbing-stairs/description/,Climbing Stairs,Easy,"Math, Dynamic Programming, Memoization",last 6 months; more than 6 months; all time
+88,https://leetcode.com/problems/merge-sorted-array/description/,Merge Sorted Array,Easy,"Array, Two Pointers, Sorting",more than 6 months; all time
+146,https://leetcode.com/problems/lru-cache/description/,LRU Cache,Medium,"Hash Table, Linked List, Design, Doubly-Linked List",more than 6 months; all time
+155,https://leetcode.com/problems/min-stack/description/,Min Stack,Medium,"Stack, Design",all time
+200,https://leetcode.com/problems/number-of-islands/description/,Number of Islands,Medium,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix",more than 6 months; all time
+234,https://leetcode.com/problems/palindrome-linked-list/description/,Palindrome Linked List,Easy,"Linked List, Two Pointers, Stack, Recursion",more than 6 months; all time
+283,https://leetcode.com/problems/move-zeroes/description/,Move Zeroes,Easy,"Array, Two Pointers",more than 6 months; all time
+347,https://leetcode.com/problems/top-k-frequent-elements/description/,Top K Frequent Elements,Medium,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect",more than 6 months; all time
+560,https://leetcode.com/problems/subarray-sum-equals-k/description/,Subarray Sum Equals K,Medium,"Array, Hash Table, Prefix Sum",more than 6 months; all time
+876,https://leetcode.com/problems/middle-of-the-linked-list/description/,Middle of the Linked List,Easy,"Linked List, Two Pointers",more than 6 months; all time

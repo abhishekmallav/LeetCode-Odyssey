@@ -1,0 +1,13 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+1,https://leetcode.com/problems/two-sum/description/,Two Sum,Easy,"Array, Hash Table",more than 6 months; all time
+2,https://leetcode.com/problems/add-two-numbers/description/,Add Two Numbers,Medium,"Linked List, Math, Recursion",all time
+3,https://leetcode.com/problems/longest-substring-without-repeating-characters/description/,Longest Substring Without Repeating Characters,Medium,"Hash Table, String, Sliding Window",all time
+7,https://leetcode.com/problems/reverse-integer/description/,Reverse Integer,Medium,Math,more than 6 months; all time
+9,https://leetcode.com/problems/palindrome-number/description/,Palindrome Number,Easy,Math,all time
+125,https://leetcode.com/problems/valid-palindrome/description/,Valid Palindrome,Easy,"Two Pointers, String",more than 6 months; all time
+176,https://leetcode.com/problems/second-highest-salary/description/,Second Highest Salary,Medium,Database,last 6 months; more than 6 months; all time
+283,https://leetcode.com/problems/move-zeroes/description/,Move Zeroes,Easy,"Array, Two Pointers",last 6 months; more than 6 months; all time
+509,https://leetcode.com/problems/fibonacci-number/description/,Fibonacci Number,Easy,"Math, Dynamic Programming, Recursion, Memoization",more than 6 months; all time
+1755,https://leetcode.com/problems/closest-subsequence-sum/description/,Closest Subsequence Sum,Hard,"Array, Two Pointers, Dynamic Programming, Bit Manipulation, Meet in the Middle, Sorting, Bitmask",more than 6 months; all time
+2271,https://leetcode.com/problems/maximum-white-tiles-covered-by-a-carpet/description/,Maximum White Tiles Covered by a Carpet,Medium,"Array, Binary Search, Greedy, Sliding Window, Sorting, Prefix Sum",more than 6 months; all time
+2747,https://leetcode.com/problems/count-zero-request-servers/description/,Count Zero Request Servers,Medium,"Array, Hash Table, Sliding Window, Sorting",more than 6 months; all time

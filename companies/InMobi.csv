@@ -1,0 +1,19 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+32,https://leetcode.com/problems/longest-valid-parentheses/description/,Longest Valid Parentheses,Hard,"String, Dynamic Programming, Stack, Bracket Sequences",more than 6 months; all time
+42,https://leetcode.com/problems/trapping-rain-water/description/,Trapping Rain Water,Hard,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack",more than 6 months; all time
+424,https://leetcode.com/problems/longest-repeating-character-replacement/description/,Longest Repeating Character Replacement,Medium,"Hash Table, String, Sliding Window",all time
+488,https://leetcode.com/problems/zuma-game/description/,Zuma Game,Hard,"String, Dynamic Programming, Stack, Breadth-First Search, Memoization",more than 6 months; all time
+664,https://leetcode.com/problems/strange-printer/description/,Strange Printer,Hard,"String, Dynamic Programming",more than 6 months; all time
+684,https://leetcode.com/problems/redundant-connection/description/,Redundant Connection,Medium,"Depth-First Search, Breadth-First Search, Union-Find, Graph Theory",more than 6 months; all time
+741,https://leetcode.com/problems/cherry-pickup/description/,Cherry Pickup,Hard,"Array, Dynamic Programming, Matrix",last 30 days; last 3 months; last 6 months; all time
+754,https://leetcode.com/problems/reach-a-number/description/,Reach a Number,Medium,"Math, Binary Search",more than 6 months; all time
+763,https://leetcode.com/problems/partition-labels/description/,Partition Labels,Medium,"Hash Table, Two Pointers, String, Greedy",more than 6 months; all time
+875,https://leetcode.com/problems/koko-eating-bananas/description/,Koko Eating Bananas,Medium,"Array, Binary Search",more than 6 months; all time
+1011,https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/,Capacity To Ship Packages Within D Days,Medium,"Array, Binary Search",all time
+1192,https://leetcode.com/problems/critical-connections-in-a-network/description/,Critical Connections in a Network,Hard,"Depth-First Search, Graph Theory, Biconnected Component, Bridge (Graph)",last 3 months; last 6 months; all time
+1248,https://leetcode.com/problems/count-number-of-nice-subarrays/description/,Count Number of Nice Subarrays,Medium,"Array, Hash Table, Math, Sliding Window, Prefix Sum",last 30 days; last 3 months; last 6 months; all time
+1377,https://leetcode.com/problems/frog-position-after-t-seconds/description/,Frog Position After T Seconds,Hard,"Tree, Depth-First Search, Breadth-First Search, Graph Theory",more than 6 months; all time
+2398,https://leetcode.com/problems/maximum-number-of-robots-within-budget/description/,Maximum Number of Robots Within Budget,Hard,"Array, Binary Search, Queue, Sliding Window, Heap (Priority Queue), Prefix Sum, Monotonic Queue",more than 6 months; all time
+3594,https://leetcode.com/problems/minimum-time-to-transport-all-individuals/description/,Minimum Time to Transport All Individuals,Hard,"Array, Bit Manipulation, Graph Theory, Heap (Priority Queue), Shortest Path, Bitmask",all time
+3640,https://leetcode.com/problems/trionic-array-ii/description/,Trionic Array II,Hard,"Array, Dynamic Programming",last 30 days; last 3 months; last 6 months; all time
+3948,https://leetcode.com/problems/lexicographically-maximum-mex-array/description/,Lexicographically Maximum MEX Array,Hard,"Array, Hash Table, Greedy, Queue",last 3 months; last 6 months; all time

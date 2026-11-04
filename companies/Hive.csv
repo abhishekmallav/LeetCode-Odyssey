@@ -1,0 +1,7 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+42,https://leetcode.com/problems/trapping-rain-water/description/,Trapping Rain Water,Hard,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack",last 6 months; more than 6 months; all time
+68,https://leetcode.com/problems/text-justification/description/,Text Justification,Hard,"Array, String, Simulation",last 3 months; last 6 months; all time
+200,https://leetcode.com/problems/number-of-islands/description/,Number of Islands,Medium,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix",last 6 months; more than 6 months; all time
+297,https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/,Serialize and Deserialize Binary Tree,Hard,"String, Tree, Depth-First Search, Breadth-First Search, Design, Binary Tree",more than 6 months; all time
+912,https://leetcode.com/problems/sort-an-array/description/,Sort an Array,Medium,"Array, Divide and Conquer, Sorting, Heap (Priority Queue), Merge Sort, Bucket Sort, Radix Sort, Counting Sort",more than 6 months; all time
+1162,https://leetcode.com/problems/as-far-from-land-as-possible/description/,As Far from Land as Possible,Medium,"Array, Dynamic Programming, Breadth-First Search, Matrix",last 6 months; more than 6 months; all time

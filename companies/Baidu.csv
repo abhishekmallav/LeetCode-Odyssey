@@ -1,0 +1,12 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+124,https://leetcode.com/problems/binary-tree-maximum-path-sum/description/,Binary Tree Maximum Path Sum,Hard,"Dynamic Programming, Tree, Depth-First Search, Binary Tree, DP on Trees",more than 6 months; all time
+240,https://leetcode.com/problems/search-a-2d-matrix-ii/description/,Search a 2D Matrix II,Medium,"Array, Binary Search, Divide and Conquer, Matrix",more than 6 months; all time
+395,https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/description/,Longest Substring with At Least K Repeating Characters,Medium,"Hash Table, String, Divide and Conquer, Sliding Window",more than 6 months; all time
+397,https://leetcode.com/problems/integer-replacement/description/,Integer Replacement,Medium,"Dynamic Programming, Greedy, Bit Manipulation, Memoization",more than 6 months; all time
+410,https://leetcode.com/problems/split-array-largest-sum/description/,Split Array Largest Sum,Hard,"Array, Binary Search, Dynamic Programming, Greedy, Prefix Sum",more than 6 months; all time
+413,https://leetcode.com/problems/arithmetic-slices/description/,Arithmetic Slices,Medium,"Array, Dynamic Programming, Sliding Window",more than 6 months; all time
+446,https://leetcode.com/problems/arithmetic-slices-ii-subsequence/description/,Arithmetic Slices II - Subsequence,Hard,"Array, Dynamic Programming",more than 6 months; all time
+488,https://leetcode.com/problems/zuma-game/description/,Zuma Game,Hard,"String, Dynamic Programming, Stack, Breadth-First Search, Memoization",more than 6 months; all time
+576,https://leetcode.com/problems/out-of-boundary-paths/description/,Out of Boundary Paths,Medium,Dynamic Programming,more than 6 months; all time
+588,https://leetcode.com/problems/design-in-memory-file-system/description/,Design In-Memory File System,Hard,"Hash Table, String, Design, Trie, Sorting",more than 6 months; all time
+873,https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/description/,Length of Longest Fibonacci Subsequence,Medium,"Array, Hash Table, Dynamic Programming",more than 6 months; all time

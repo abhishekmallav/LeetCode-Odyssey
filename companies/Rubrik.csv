@@ -1,0 +1,38 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+15,https://leetcode.com/problems/3sum/description/,3Sum,Medium,"Array, Two Pointers, Sorting",more than 6 months; all time
+18,https://leetcode.com/problems/4sum/description/,4Sum,Medium,"Array, Two Pointers, Sorting",more than 6 months; all time
+31,https://leetcode.com/problems/next-permutation/description/,Next Permutation,Medium,"Array, Two Pointers",more than 6 months; all time
+87,https://leetcode.com/problems/scramble-string/description/,Scramble String,Hard,"String, Dynamic Programming",more than 6 months; all time
+146,https://leetcode.com/problems/lru-cache/description/,LRU Cache,Medium,"Hash Table, Linked List, Design, Doubly-Linked List",more than 6 months; all time
+276,https://leetcode.com/problems/paint-fence/description/,Paint Fence,Medium,Dynamic Programming,more than 6 months; all time
+301,https://leetcode.com/problems/remove-invalid-parentheses/description/,Remove Invalid Parentheses,Hard,"String, Backtracking, Breadth-First Search",more than 6 months; all time
+380,https://leetcode.com/problems/insert-delete-getrandom-o1/description/,Insert Delete GetRandom O(1),Medium,"Array, Hash Table, Math, Design, Randomized",more than 6 months; all time
+528,https://leetcode.com/problems/random-pick-with-weight/description/,Random Pick with Weight,Medium,"Array, Math, Binary Search, Prefix Sum, Randomized",more than 6 months; all time
+621,https://leetcode.com/problems/task-scheduler/description/,Task Scheduler,Medium,"Array, Hash Table, Greedy, Sorting, Heap (Priority Queue), Counting",more than 6 months; all time
+622,https://leetcode.com/problems/design-circular-queue/description/,Design Circular Queue,Medium,"Array, Linked List, Design, Queue",more than 6 months; all time
+715,https://leetcode.com/problems/range-module/description/,Range Module,Hard,"Design, Segment Tree, Ordered Set",more than 6 months; all time
+723,https://leetcode.com/problems/candy-crush/description/,Candy Crush,Medium,"Array, Two Pointers, Matrix, Simulation",more than 6 months; all time
+761,https://leetcode.com/problems/special-binary-string/description/,Special Binary String,Hard,"String, Divide and Conquer, Sorting",more than 6 months; all time
+1146,https://leetcode.com/problems/snapshot-array/description/,Snapshot Array,Medium,"Array, Hash Table, Binary Search, Design, Persistent Data Structure",more than 6 months; all time
+1202,https://leetcode.com/problems/smallest-string-with-swaps/description/,Smallest String With Swaps,Medium,"Array, Hash Table, String, Depth-First Search, Breadth-First Search, Union-Find, Sorting",more than 6 months; all time
+1236,https://leetcode.com/problems/web-crawler/description/,Web Crawler,Medium,"String, Depth-First Search, Breadth-First Search, Interactive",more than 6 months; all time
+1242,https://leetcode.com/problems/web-crawler-multithreaded/description/,Web Crawler Multithreaded,Medium,"Depth-First Search, Breadth-First Search, Concurrency",more than 6 months; all time
+1463,https://leetcode.com/problems/cherry-pickup-ii/description/,Cherry Pickup II,Hard,"Array, Dynamic Programming, Matrix",more than 6 months; all time
+2132,https://leetcode.com/problems/stamping-the-grid/description/,Stamping the Grid,Hard,"Array, Greedy, Matrix, Prefix Sum",more than 6 months; all time
+2193,https://leetcode.com/problems/minimum-number-of-moves-to-make-palindrome/description/,Minimum Number of Moves to Make Palindrome,Hard,"Two Pointers, String, Greedy, Binary Indexed Tree",last 6 months; more than 6 months; all time
+2249,https://leetcode.com/problems/count-lattice-points-inside-a-circle/description/,Count Lattice Points Inside a Circle,Medium,"Array, Hash Table, Math, Geometry, Enumeration",more than 6 months; all time
+2365,https://leetcode.com/problems/task-scheduler-ii/description/,Task Scheduler II,Medium,"Array, Hash Table, Simulation",more than 6 months; all time
+2502,https://leetcode.com/problems/design-memory-allocator/description/,Design Memory Allocator,Medium,"Array, Hash Table, Design, Simulation",more than 6 months; all time
+2747,https://leetcode.com/problems/count-zero-request-servers/description/,Count Zero Request Servers,Medium,"Array, Hash Table, Sliding Window, Sorting",more than 6 months; all time
+2927,https://leetcode.com/problems/distribute-candies-among-children-iii/description/,Distribute Candies Among Children III,Hard,"Math, Combinatorics",more than 6 months; all time
+2928,https://leetcode.com/problems/distribute-candies-among-children-i/description/,Distribute Candies Among Children I,Easy,"Math, Combinatorics, Enumeration",more than 6 months; all time
+2929,https://leetcode.com/problems/distribute-candies-among-children-ii/description/,Distribute Candies Among Children II,Medium,"Math, Combinatorics, Enumeration",more than 6 months; all time
+2982,https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-ii/description/,Find Longest Special Substring That Occurs Thrice II,Medium,"Hash Table, String, Binary Search, Sliding Window, Counting",more than 6 months; all time
+3021,https://leetcode.com/problems/alice-and-bob-playing-flower-game/description/,Alice and Bob Playing Flower Game,Medium,Math,more than 6 months; all time
+3083,https://leetcode.com/problems/existence-of-a-substring-in-a-string-and-its-reverse/description/,Existence of a Substring in a String and Its Reverse,Easy,"Hash Table, String",more than 6 months; all time
+3098,https://leetcode.com/problems/find-the-sum-of-subsequence-powers/description/,Find the Sum of Subsequence Powers,Hard,"Array, Dynamic Programming, Sorting",more than 6 months; all time
+3207,https://leetcode.com/problems/maximum-points-after-enemy-battles/description/,Maximum Points After Enemy Battles,Medium,"Array, Greedy",more than 6 months; all time
+3410,https://leetcode.com/problems/maximize-subarray-sum-after-removing-all-occurrences-of-one-element/description/,Maximize Subarray Sum After Removing All Occurrences of One Element,Hard,"Array, Hash Table, Divide and Conquer, Dynamic Programming, Segment Tree, Prefix Sum",more than 6 months; all time
+3426,https://leetcode.com/problems/manhattan-distances-of-all-arrangements-of-pieces/description/,Manhattan Distances of All Arrangements of Pieces,Hard,"Math, Combinatorics",more than 6 months; all time
+3524,https://leetcode.com/problems/find-x-value-of-array-i/description/,Find X Value of Array I,Medium,"Array, Math, Dynamic Programming",more than 6 months; all time
+3525,https://leetcode.com/problems/find-x-value-of-array-ii/description/,Find X Value of Array II,Hard,"Array, Math, Segment Tree",more than 6 months; all time

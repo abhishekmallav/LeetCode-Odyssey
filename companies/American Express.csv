@@ -1,0 +1,31 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+1,https://leetcode.com/problems/two-sum/description/,Two Sum,Easy,"Array, Hash Table",more than 6 months; all time
+3,https://leetcode.com/problems/longest-substring-without-repeating-characters/description/,Longest Substring Without Repeating Characters,Medium,"Hash Table, String, Sliding Window",more than 6 months; all time
+14,https://leetcode.com/problems/longest-common-prefix/description/,Longest Common Prefix,Easy,"Array, String, Trie",more than 6 months; all time
+15,https://leetcode.com/problems/3sum/description/,3Sum,Medium,"Array, Two Pointers, Sorting",more than 6 months; all time
+23,https://leetcode.com/problems/merge-k-sorted-lists/description/,Merge k Sorted Lists,Hard,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort, Tournament Sort",more than 6 months; all time
+46,https://leetcode.com/problems/permutations/description/,Permutations,Medium,"Array, Backtracking",more than 6 months; all time
+56,https://leetcode.com/problems/merge-intervals/description/,Merge Intervals,Medium,"Array, Sorting, Quicksort",last 6 months; all time
+121,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/,Best Time to Buy and Sell Stock,Easy,"Array, Dynamic Programming",more than 6 months; all time
+142,https://leetcode.com/problems/linked-list-cycle-ii/description/,Linked List Cycle II,Medium,"Hash Table, Linked List, Two Pointers, Floyd's Cycle Finding Algorithm",more than 6 months; all time
+189,https://leetcode.com/problems/rotate-array/description/,Rotate Array,Medium,"Array, Math, Two Pointers",more than 6 months; all time
+205,https://leetcode.com/problems/isomorphic-strings/description/,Isomorphic Strings,Easy,"Hash Table, String",more than 6 months; all time
+239,https://leetcode.com/problems/sliding-window-maximum/description/,Sliding Window Maximum,Hard,"Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue, Range Minimum/Maximum Query",all time
+242,https://leetcode.com/problems/valid-anagram/description/,Valid Anagram,Easy,"Hash Table, String, Sorting",more than 6 months; all time
+347,https://leetcode.com/problems/top-k-frequent-elements/description/,Top K Frequent Elements,Medium,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect",last 3 months; last 6 months; all time
+1201,https://leetcode.com/problems/ugly-number-iii/description/,Ugly Number III,Medium,"Math, Binary Search, Combinatorics, Number Theory, Least Common Multiple, Euclidean Algorithm, Greatest Common Divisor, Inclusion-Exclusion Principle",more than 6 months; all time
+1224,https://leetcode.com/problems/maximum-equal-frequency/description/,Maximum Equal Frequency,Hard,"Array, Hash Table",more than 6 months; all time
+1250,https://leetcode.com/problems/check-if-it-is-a-good-array/description/,Check If It Is a Good Array,Hard,"Array, Math, Number Theory, Bézout's Lemma, Euclidean Algorithm, Greatest Common Divisor, Extended Euclidean Algorithm",all time
+1277,https://leetcode.com/problems/count-square-submatrices-with-all-ones/description/,Count Square Submatrices with All Ones,Medium,"Array, Dynamic Programming, Matrix",all time
+1304,https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/description/,Find N Unique Integers Sum up to Zero,Easy,"Array, Math",more than 6 months; all time
+1521,https://leetcode.com/problems/find-a-value-of-a-mysterious-function-closest-to-target/description/,Find a Value of a Mysterious Function Closest to Target,Hard,"Array, Binary Search, Bit Manipulation, Segment Tree, Sparse Table",more than 6 months; all time
+1647,https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/description/,Minimum Deletions to Make Character Frequencies Unique,Medium,"Hash Table, String, Greedy, Sorting",more than 6 months; all time
+1775,https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations/description/,Equal Sum Arrays With Minimum Number of Operations,Medium,"Array, Hash Table, Greedy, Counting",more than 6 months; all time
+2202,https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves/description/,Maximize the Topmost Element After K Moves,Medium,"Array, Greedy",more than 6 months; all time
+2278,https://leetcode.com/problems/percentage-of-letter-in-string/description/,Percentage of Letter in String,Easy,String,more than 6 months; all time
+2317,https://leetcode.com/problems/maximum-xor-after-operations/description/,Maximum XOR After Operations,Medium,"Array, Math, Bit Manipulation",more than 6 months; all time
+2850,https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid/description/,Minimum Moves to Spread Stones Over Grid,Medium,"Array, Dynamic Programming, Backtracking, Bit Manipulation, Matrix, Bitmask",last 3 months; last 6 months; all time
+2997,https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/description/,Minimum Number of Operations to Make Array XOR Equal to K,Medium,"Array, Bit Manipulation",more than 6 months; all time
+3010,https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/description/,Divide an Array Into Subarrays With Minimum Cost I,Easy,"Array, Sorting, Enumeration",more than 6 months; all time
+3013,https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii/description/,Divide an Array Into Subarrays With Minimum Cost II,Hard,"Array, Hash Table, Sliding Window, Heap (Priority Queue)",more than 6 months; all time
+4016,https://leetcode.com/problems/maximum-area-of-two-non-overlapping-square-submatrices/description/,Maximum Area of Two Non-Overlapping Square Submatrices,Medium,"Array, Binary Search, Dynamic Programming, Matrix",last 3 months; last 6 months; more than 6 months; all time

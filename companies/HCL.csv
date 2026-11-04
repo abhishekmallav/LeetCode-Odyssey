@@ -1,0 +1,20 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+1,https://leetcode.com/problems/two-sum/description/,Two Sum,Easy,"Array, Hash Table",last 30 days; last 3 months; last 6 months; more than 6 months; all time
+3,https://leetcode.com/problems/longest-substring-without-repeating-characters/description/,Longest Substring Without Repeating Characters,Medium,"Hash Table, String, Sliding Window",more than 6 months; all time
+5,https://leetcode.com/problems/longest-palindromic-substring/description/,Longest Palindromic Substring,Medium,"Two Pointers, String, Dynamic Programming, Manacher",all time
+9,https://leetcode.com/problems/palindrome-number/description/,Palindrome Number,Easy,Math,more than 6 months; all time
+20,https://leetcode.com/problems/valid-parentheses/description/,Valid Parentheses,Easy,"String, Stack, Bracket Sequences",more than 6 months; all time
+42,https://leetcode.com/problems/trapping-rain-water/description/,Trapping Rain Water,Hard,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack",more than 6 months; all time
+49,https://leetcode.com/problems/group-anagrams/description/,Group Anagrams,Medium,"Array, Hash Table, String, Sorting",all time
+53,https://leetcode.com/problems/maximum-subarray/description/,Maximum Subarray,Medium,"Array, Divide and Conquer, Dynamic Programming",more than 6 months; all time
+88,https://leetcode.com/problems/merge-sorted-array/description/,Merge Sorted Array,Easy,"Array, Two Pointers, Sorting",more than 6 months; all time
+121,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/,Best Time to Buy and Sell Stock,Easy,"Array, Dynamic Programming",last 30 days; last 3 months; last 6 months; more than 6 months; all time
+125,https://leetcode.com/problems/valid-palindrome/description/,Valid Palindrome,Easy,"Two Pointers, String",last 6 months; more than 6 months; all time
+151,https://leetcode.com/problems/reverse-words-in-a-string/description/,Reverse Words in a String,Medium,"Two Pointers, String",all time
+176,https://leetcode.com/problems/second-highest-salary/description/,Second Highest Salary,Medium,Database,more than 6 months; all time
+185,https://leetcode.com/problems/department-top-three-salaries/description/,Department Top Three Salaries,Hard,Database,more than 6 months; all time
+209,https://leetcode.com/problems/minimum-size-subarray-sum/description/,Minimum Size Subarray Sum,Medium,"Array, Binary Search, Sliding Window, Prefix Sum",more than 6 months; all time
+268,https://leetcode.com/problems/missing-number/description/,Missing Number,Easy,"Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting",more than 6 months; all time
+344,https://leetcode.com/problems/reverse-string/description/,Reverse String,Easy,"Two Pointers, String",more than 6 months; all time
+367,https://leetcode.com/problems/valid-perfect-square/description/,Valid Perfect Square,Easy,"Math, Binary Search",last 6 months; all time
+647,https://leetcode.com/problems/palindromic-substrings/description/,Palindromic Substrings,Medium,"Two Pointers, String, Dynamic Programming",more than 6 months; all time

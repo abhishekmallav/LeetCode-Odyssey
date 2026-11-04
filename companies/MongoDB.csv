@@ -1,0 +1,31 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+1,https://leetcode.com/problems/two-sum/description/,Two Sum,Easy,"Array, Hash Table",last 6 months; all time
+21,https://leetcode.com/problems/merge-two-sorted-lists/description/,Merge Two Sorted Lists,Easy,"Linked List, Recursion",all time
+23,https://leetcode.com/problems/merge-k-sorted-lists/description/,Merge k Sorted Lists,Hard,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort, Tournament Sort",more than 6 months; all time
+33,https://leetcode.com/problems/search-in-rotated-sorted-array/description/,Search in Rotated Sorted Array,Medium,"Array, Binary Search",all time
+56,https://leetcode.com/problems/merge-intervals/description/,Merge Intervals,Medium,"Array, Sorting, Quicksort",last 3 months; last 6 months; all time
+57,https://leetcode.com/problems/insert-interval/description/,Insert Interval,Medium,Array,more than 6 months; all time
+68,https://leetcode.com/problems/text-justification/description/,Text Justification,Hard,"Array, String, Simulation",more than 6 months; all time
+133,https://leetcode.com/problems/clone-graph/description/,Clone Graph,Medium,"Hash Table, Depth-First Search, Breadth-First Search, Graph Theory",more than 6 months; all time
+139,https://leetcode.com/problems/word-break/description/,Word Break,Medium,"Array, Hash Table, String, Dynamic Programming, Trie, Memoization, Brute-Force Search",last 6 months; more than 6 months; all time
+140,https://leetcode.com/problems/word-break-ii/description/,Word Break II,Hard,"Array, Hash Table, String, Dynamic Programming, Backtracking, Trie, Memoization",more than 6 months; all time
+146,https://leetcode.com/problems/lru-cache/description/,LRU Cache,Medium,"Hash Table, Linked List, Design, Doubly-Linked List",last 6 months; more than 6 months; all time
+165,https://leetcode.com/problems/compare-version-numbers/description/,Compare Version Numbers,Medium,"Two Pointers, String",all time
+207,https://leetcode.com/problems/course-schedule/description/,Course Schedule,Medium,"Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort, Directed Acyclic Graph",all time
+208,https://leetcode.com/problems/implement-trie-prefix-tree/description/,Implement Trie (Prefix Tree),Medium,"Hash Table, String, Design, Trie",more than 6 months; all time
+210,https://leetcode.com/problems/course-schedule-ii/description/,Course Schedule II,Medium,"Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort",last 6 months; more than 6 months; all time
+236,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/,Lowest Common Ancestor of a Binary Tree,Medium,"Tree, Depth-First Search, Binary Tree, Binary Lifting, Lowest Common Ancestor",more than 6 months; all time
+239,https://leetcode.com/problems/sliding-window-maximum/description/,Sliding Window Maximum,Hard,"Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue, Range Minimum/Maximum Query",more than 6 months; all time
+349,https://leetcode.com/problems/intersection-of-two-arrays/description/,Intersection of Two Arrays,Easy,"Array, Hash Table, Two Pointers, Binary Search, Sorting",more than 6 months; all time
+443,https://leetcode.com/problems/string-compression/description/,String Compression,Medium,"Two Pointers, String",more than 6 months; all time
+617,https://leetcode.com/problems/merge-two-binary-trees/description/,Merge Two Binary Trees,Easy,"Tree, Depth-First Search, Breadth-First Search, Binary Tree",more than 6 months; all time
+642,https://leetcode.com/problems/design-search-autocomplete-system/description/,Design Search Autocomplete System,Hard,"String, Depth-First Search, Design, Trie, Sorting, Heap (Priority Queue), Data Stream",more than 6 months; all time
+981,https://leetcode.com/problems/time-based-key-value-store/description/,Time Based Key-Value Store,Medium,"Hash Table, String, Binary Search, Design",more than 6 months; all time
+1146,https://leetcode.com/problems/snapshot-array/description/,Snapshot Array,Medium,"Array, Hash Table, Binary Search, Design, Persistent Data Structure",last 30 days; last 3 months; last 6 months; more than 6 months; all time
+1242,https://leetcode.com/problems/web-crawler-multithreaded/description/,Web Crawler Multithreaded,Medium,"Depth-First Search, Breadth-First Search, Concurrency",more than 6 months; all time
+1438,https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/description/,Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit,Medium,"Array, Queue, Sliding Window, Heap (Priority Queue), Ordered Set, Monotonic Queue",last 3 months; last 6 months; all time
+1488,https://leetcode.com/problems/avoid-flood-in-the-city/description/,Avoid Flood in The City,Medium,"Array, Hash Table, Binary Search, Greedy, Heap (Priority Queue)",last 3 months; last 6 months; all time
+1650,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/description/,Lowest Common Ancestor of a Binary Tree III,Medium,"Hash Table, Two Pointers, Tree, Binary Tree, Binary Lifting, Lowest Common Ancestor",more than 6 months; all time
+2034,https://leetcode.com/problems/stock-price-fluctuation/description/,Stock Price Fluctuation,Medium,"Hash Table, Design, Heap (Priority Queue), Data Stream, Ordered Set",more than 6 months; all time
+2591,https://leetcode.com/problems/distribute-money-to-maximum-children/description/,Distribute Money to Maximum Children,Easy,"Math, Greedy",last 3 months; last 6 months; all time
+2759,https://leetcode.com/problems/convert-json-string-to-object/description/,Convert JSON String to Object,Hard,,more than 6 months; all time

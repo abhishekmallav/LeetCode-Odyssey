@@ -1,0 +1,12 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+34,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/,Find First and Last Position of Element in Sorted Array,Medium,"Array, Binary Search",more than 6 months; all time
+56,https://leetcode.com/problems/merge-intervals/description/,Merge Intervals,Medium,"Array, Sorting, Quicksort",more than 6 months; all time
+289,https://leetcode.com/problems/game-of-life/description/,Game of Life,Medium,"Array, Matrix, Simulation",more than 6 months; all time
+296,https://leetcode.com/problems/best-meeting-point/description/,Best Meeting Point,Hard,"Array, Math, Sorting, Matrix",more than 6 months; all time
+317,https://leetcode.com/problems/shortest-distance-from-all-buildings/description/,Shortest Distance from All Buildings,Hard,"Array, Breadth-First Search, Matrix",last 6 months; more than 6 months; all time
+527,https://leetcode.com/problems/word-abbreviation/description/,Word Abbreviation,Hard,"Array, String, Greedy, Trie, Sorting",more than 6 months; all time
+529,https://leetcode.com/problems/minesweeper/description/,Minesweeper,Medium,"Array, Depth-First Search, Breadth-First Search, Matrix",more than 6 months; all time
+609,https://leetcode.com/problems/find-duplicate-file-in-system/description/,Find Duplicate File in System,Medium,"Array, Hash Table, String",more than 6 months; all time
+622,https://leetcode.com/problems/design-circular-queue/description/,Design Circular Queue,Medium,"Array, Linked List, Design, Queue",more than 6 months; all time
+1091,https://leetcode.com/problems/shortest-path-in-binary-matrix/description/,Shortest Path in Binary Matrix,Medium,"Array, Breadth-First Search, Matrix",more than 6 months; all time
+1274,https://leetcode.com/problems/number-of-ships-in-a-rectangle/description/,Number of Ships in a Rectangle,Hard,"Array, Divide and Conquer, Interactive",last 6 months; all time

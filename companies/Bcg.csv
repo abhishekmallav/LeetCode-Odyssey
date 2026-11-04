@@ -1,0 +1,13 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+9,https://leetcode.com/problems/palindrome-number/description/,Palindrome Number,Easy,Math,more than 6 months; all time
+49,https://leetcode.com/problems/group-anagrams/description/,Group Anagrams,Medium,"Array, Hash Table, String, Sorting",last 6 months; all time
+68,https://leetcode.com/problems/text-justification/description/,Text Justification,Hard,"Array, String, Simulation",more than 6 months; all time
+121,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/,Best Time to Buy and Sell Stock,Easy,"Array, Dynamic Programming",all time
+125,https://leetcode.com/problems/valid-palindrome/description/,Valid Palindrome,Easy,"Two Pointers, String",more than 6 months; all time
+185,https://leetcode.com/problems/department-top-three-salaries/description/,Department Top Three Salaries,Hard,Database,more than 6 months; all time
+209,https://leetcode.com/problems/minimum-size-subarray-sum/description/,Minimum Size Subarray Sum,Medium,"Array, Binary Search, Sliding Window, Prefix Sum",more than 6 months; all time
+621,https://leetcode.com/problems/task-scheduler/description/,Task Scheduler,Medium,"Array, Hash Table, Greedy, Sorting, Heap (Priority Queue), Counting",more than 6 months; all time
+1457,https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/description/,Pseudo-Palindromic Paths in a Binary Tree,Medium,"Bit Manipulation, Tree, Depth-First Search, Breadth-First Search, Binary Tree",more than 6 months; all time
+3433,https://leetcode.com/problems/count-mentions-per-user/description/,Count Mentions Per User,Medium,"Array, Math, Sorting, Simulation",more than 6 months; all time
+3447,https://leetcode.com/problems/assign-elements-to-groups-with-constraints/description/,Assign Elements to Groups with Constraints,Medium,"Array, Hash Table",more than 6 months; all time
+3452,https://leetcode.com/problems/sum-of-good-numbers/description/,Sum of Good Numbers,Easy,Array,more than 6 months; all time

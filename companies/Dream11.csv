@@ -1,0 +1,14 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+3,https://leetcode.com/problems/longest-substring-without-repeating-characters/description/,Longest Substring Without Repeating Characters,Medium,"Hash Table, String, Sliding Window",more than 6 months; all time
+11,https://leetcode.com/problems/container-with-most-water/description/,Container With Most Water,Medium,"Array, Two Pointers, Greedy",more than 6 months; all time
+15,https://leetcode.com/problems/3sum/description/,3Sum,Medium,"Array, Two Pointers, Sorting",more than 6 months; all time
+16,https://leetcode.com/problems/3sum-closest/description/,3Sum Closest,Medium,"Array, Two Pointers, Sorting",more than 6 months; all time
+134,https://leetcode.com/problems/gas-station/description/,Gas Station,Medium,"Array, Greedy",more than 6 months; all time
+416,https://leetcode.com/problems/partition-equal-subset-sum/description/,Partition Equal Subset Sum,Medium,"Array, Dynamic Programming, Knapsack Problem, 0-1 Knapsack",more than 6 months; all time
+735,https://leetcode.com/problems/asteroid-collision/description/,Asteroid Collision,Medium,"Array, Stack, Simulation",more than 6 months; all time
+931,https://leetcode.com/problems/minimum-falling-path-sum/description/,Minimum Falling Path Sum,Medium,"Array, Dynamic Programming, Matrix",more than 6 months; all time
+994,https://leetcode.com/problems/rotting-oranges/description/,Rotting Oranges,Medium,"Array, Breadth-First Search, Matrix",more than 6 months; all time
+1475,https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/description/,Final Prices With a Special Discount in a Shop,Easy,"Array, Stack, Monotonic Stack",more than 6 months; all time
+1526,https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/description/,Minimum Number of Increments on Subarrays to Form a Target Array,Hard,"Array, Dynamic Programming, Stack, Greedy, Monotonic Stack",more than 6 months; all time
+1642,https://leetcode.com/problems/furthest-building-you-can-reach/description/,Furthest Building You Can Reach,Medium,"Array, Greedy, Heap (Priority Queue)",more than 6 months; all time
+2222,https://leetcode.com/problems/number-of-ways-to-select-buildings/description/,Number of Ways to Select Buildings,Medium,"String, Dynamic Programming, Prefix Sum",more than 6 months; all time

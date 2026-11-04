@@ -1,0 +1,18 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+1,https://leetcode.com/problems/two-sum/description/,Two Sum,Easy,"Array, Hash Table",more than 6 months; all time
+5,https://leetcode.com/problems/longest-palindromic-substring/description/,Longest Palindromic Substring,Medium,"Two Pointers, String, Dynamic Programming, Manacher",more than 6 months; all time
+20,https://leetcode.com/problems/valid-parentheses/description/,Valid Parentheses,Easy,"String, Stack, Bracket Sequences",more than 6 months; all time
+45,https://leetcode.com/problems/jump-game-ii/description/,Jump Game II,Medium,"Array, Dynamic Programming, Greedy",all time
+49,https://leetcode.com/problems/group-anagrams/description/,Group Anagrams,Medium,"Array, Hash Table, String, Sorting",all time
+71,https://leetcode.com/problems/simplify-path/description/,Simplify Path,Medium,"String, Stack",more than 6 months; all time
+198,https://leetcode.com/problems/house-robber/description/,House Robber,Medium,"Array, Dynamic Programming",more than 6 months; all time
+322,https://leetcode.com/problems/coin-change/description/,Coin Change,Medium,"Array, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack",last 6 months; all time
+459,https://leetcode.com/problems/repeated-substring-pattern/description/,Repeated Substring Pattern,Easy,"String, String Matching, Z Algorithm, Knuth–Morris–Pratt Algorithm",more than 6 months; all time
+560,https://leetcode.com/problems/subarray-sum-equals-k/description/,Subarray Sum Equals K,Medium,"Array, Hash Table, Prefix Sum",more than 6 months; all time
+721,https://leetcode.com/problems/accounts-merge/description/,Accounts Merge,Medium,"Array, Hash Table, String, Depth-First Search, Breadth-First Search, Union-Find, Sorting",last 6 months; more than 6 months; all time
+739,https://leetcode.com/problems/daily-temperatures/description/,Daily Temperatures,Medium,"Array, Stack, Monotonic Stack",more than 6 months; all time
+983,https://leetcode.com/problems/minimum-cost-for-tickets/description/,Minimum Cost For Tickets,Medium,"Array, Dynamic Programming",more than 6 months; all time
+1073,https://leetcode.com/problems/adding-two-negabinary-numbers/description/,Adding Two Negabinary Numbers,Medium,"Array, Math",more than 6 months; all time
+1253,https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix/description/,Reconstruct a 2-Row Binary Matrix,Medium,"Array, Greedy, Matrix",more than 6 months; all time
+1404,https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/description/,Number of Steps to Reduce a Number in Binary Representation to One,Medium,"String, Bit Manipulation, Simulation",more than 6 months; all time
+2086,https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters/description/,Minimum Number of Food Buckets to Feed the Hamsters,Medium,"String, Dynamic Programming, Greedy",more than 6 months; all time

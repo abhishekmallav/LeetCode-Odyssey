@@ -1,0 +1,19 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+677,https://leetcode.com/problems/map-sum-pairs/description/,Map Sum Pairs,Medium,"Hash Table, String, Design, Trie",more than 6 months; all time
+740,https://leetcode.com/problems/delete-and-earn/description/,Delete and Earn,Medium,"Array, Hash Table, Dynamic Programming",more than 6 months; all time
+741,https://leetcode.com/problems/cherry-pickup/description/,Cherry Pickup,Hard,"Array, Dynamic Programming, Matrix",more than 6 months; all time
+743,https://leetcode.com/problems/network-delay-time/description/,Network Delay Time,Medium,"Depth-First Search, Breadth-First Search, Graph Theory, Heap (Priority Queue), Shortest Path, Dijkstra's Algorithm",more than 6 months; all time
+924,https://leetcode.com/problems/minimize-malware-spread/description/,Minimize Malware Spread,Hard,"Array, Hash Table, Depth-First Search, Breadth-First Search, Union-Find, Graph Theory",last 30 days; last 3 months; last 6 months; all time
+1177,https://leetcode.com/problems/can-make-palindrome-from-substring/description/,Can Make Palindrome from Substring,Medium,"Array, Hash Table, String, Bit Manipulation, Prefix Sum",more than 6 months; all time
+1192,https://leetcode.com/problems/critical-connections-in-a-network/description/,Critical Connections in a Network,Hard,"Depth-First Search, Graph Theory, Biconnected Component, Bridge (Graph)",more than 6 months; all time
+1223,https://leetcode.com/problems/dice-roll-simulation/description/,Dice Roll Simulation,Hard,"Array, Dynamic Programming",more than 6 months; all time
+1319,https://leetcode.com/problems/number-of-operations-to-make-network-connected/description/,Number of Operations to Make Network Connected,Medium,"Depth-First Search, Breadth-First Search, Union-Find, Graph Theory",more than 6 months; all time
+1326,https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/description/,Minimum Number of Taps to Open to Water a Garden,Hard,"Array, Dynamic Programming, Greedy",more than 6 months; all time
+1338,https://leetcode.com/problems/reduce-array-size-to-the-half/description/,Reduce Array Size to The Half,Medium,"Array, Hash Table, Greedy, Sorting, Heap (Priority Queue)",more than 6 months; all time
+1370,https://leetcode.com/problems/increasing-decreasing-string/description/,Increasing Decreasing String,Easy,"Hash Table, String, Counting",more than 6 months; all time
+1425,https://leetcode.com/problems/constrained-subsequence-sum/description/,Constrained Subsequence Sum,Hard,"Array, Dynamic Programming, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue",more than 6 months; all time
+1649,https://leetcode.com/problems/create-sorted-array-through-instructions/description/,Create Sorted Array through Instructions,Hard,"Array, Binary Search, Divide and Conquer, Binary Indexed Tree, Segment Tree, Merge Sort, Ordered Set",more than 6 months; all time
+1665,https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/description/,Minimum Initial Energy to Finish Tasks,Hard,"Array, Greedy, Sorting",more than 6 months; all time
+1819,https://leetcode.com/problems/number-of-different-subsequences-gcds/description/,Number of Different Subsequences GCDs,Hard,"Array, Math, Counting, Number Theory, Euclidean Algorithm, Greatest Common Divisor",more than 6 months; all time
+2497,https://leetcode.com/problems/maximum-star-sum-of-a-graph/description/,Maximum Star Sum of a Graph,Medium,"Array, Greedy, Graph Theory, Sorting, Heap (Priority Queue)",last 3 months; last 6 months; more than 6 months; all time
+2904,https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/description/,Shortest and Lexicographically Smallest Beautiful String,Medium,"String, Sliding Window",all time

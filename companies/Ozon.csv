@@ -1,0 +1,13 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+1,https://leetcode.com/problems/two-sum/description/,Two Sum,Easy,"Array, Hash Table",more than 6 months; all time
+3,https://leetcode.com/problems/longest-substring-without-repeating-characters/description/,Longest Substring Without Repeating Characters,Medium,"Hash Table, String, Sliding Window",more than 6 months; all time
+20,https://leetcode.com/problems/valid-parentheses/description/,Valid Parentheses,Easy,"String, Stack, Bracket Sequences",more than 6 months; all time
+56,https://leetcode.com/problems/merge-intervals/description/,Merge Intervals,Medium,"Array, Sorting, Quicksort",last 3 months; last 6 months; more than 6 months; all time
+121,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/,Best Time to Buy and Sell Stock,Easy,"Array, Dynamic Programming",more than 6 months; all time
+155,https://leetcode.com/problems/min-stack/description/,Min Stack,Medium,"Stack, Design",more than 6 months; all time
+184,https://leetcode.com/problems/department-highest-salary/description/,Department Highest Salary,Medium,Database,all time
+185,https://leetcode.com/problems/department-top-three-salaries/description/,Department Top Three Salaries,Hard,Database,more than 6 months; all time
+242,https://leetcode.com/problems/valid-anagram/description/,Valid Anagram,Easy,"Hash Table, String, Sorting",more than 6 months; all time
+394,https://leetcode.com/problems/decode-string/description/,Decode String,Medium,"String, Stack, Recursion",more than 6 months; all time
+896,https://leetcode.com/problems/monotonic-array/description/,Monotonic Array,Easy,Array,more than 6 months; all time
+977,https://leetcode.com/problems/squares-of-a-sorted-array/description/,Squares of a Sorted Array,Easy,"Array, Two Pointers, Sorting",more than 6 months; all time

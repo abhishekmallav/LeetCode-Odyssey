@@ -1,0 +1,16 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+1,https://leetcode.com/problems/two-sum/description/,Two Sum,Easy,"Array, Hash Table",more than 6 months; all time
+3,https://leetcode.com/problems/longest-substring-without-repeating-characters/description/,Longest Substring Without Repeating Characters,Medium,"Hash Table, String, Sliding Window",more than 6 months; all time
+5,https://leetcode.com/problems/longest-palindromic-substring/description/,Longest Palindromic Substring,Medium,"Two Pointers, String, Dynamic Programming, Manacher",more than 6 months; all time
+14,https://leetcode.com/problems/longest-common-prefix/description/,Longest Common Prefix,Easy,"Array, String, Trie",more than 6 months; all time
+53,https://leetcode.com/problems/maximum-subarray/description/,Maximum Subarray,Medium,"Array, Divide and Conquer, Dynamic Programming",more than 6 months; all time
+70,https://leetcode.com/problems/climbing-stairs/description/,Climbing Stairs,Easy,"Math, Dynamic Programming, Memoization",more than 6 months; all time
+197,https://leetcode.com/problems/rising-temperature/description/,Rising Temperature,Easy,Database,more than 6 months; all time
+238,https://leetcode.com/problems/product-of-array-except-self/description/,Product of Array Except Self,Medium,"Array, Prefix Sum",more than 6 months; all time
+270,https://leetcode.com/problems/closest-binary-search-tree-value/description/,Closest Binary Search Tree Value,Easy,"Binary Search, Tree, Depth-First Search, Binary Search Tree, Binary Tree",more than 6 months; all time
+273,https://leetcode.com/problems/integer-to-english-words/description/,Integer to English Words,Hard,"Math, String, Recursion",more than 6 months; all time
+322,https://leetcode.com/problems/coin-change/description/,Coin Change,Medium,"Array, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack",more than 6 months; all time
+392,https://leetcode.com/problems/is-subsequence/description/,Is Subsequence,Easy,"Two Pointers, String, Dynamic Programming",more than 6 months; all time
+1292,https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/description/,Maximum Side Length of a Square with Sum Less than or Equal to Threshold,Medium,"Array, Binary Search, Matrix, Prefix Sum",more than 6 months; all time
+3441,https://leetcode.com/problems/minimum-cost-good-caption/description/,Minimum Cost Good Caption,Hard,"String, Dynamic Programming",more than 6 months; all time
+3445,https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-ii/description/,Maximum Difference Between Even and Odd Frequency II,Hard,"String, Sliding Window, Enumeration, Prefix Sum",more than 6 months; all time

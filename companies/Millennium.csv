@@ -1,0 +1,13 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+20,https://leetcode.com/problems/valid-parentheses/description/,Valid Parentheses,Easy,"String, Stack, Bracket Sequences",more than 6 months; all time
+49,https://leetcode.com/problems/group-anagrams/description/,Group Anagrams,Medium,"Array, Hash Table, String, Sorting",more than 6 months; all time
+56,https://leetcode.com/problems/merge-intervals/description/,Merge Intervals,Medium,"Array, Sorting, Quicksort",more than 6 months; all time
+98,https://leetcode.com/problems/validate-binary-search-tree/description/,Validate Binary Search Tree,Medium,"Tree, Depth-First Search, Binary Search Tree, Binary Tree",more than 6 months; all time
+121,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/,Best Time to Buy and Sell Stock,Easy,"Array, Dynamic Programming",more than 6 months; all time
+139,https://leetcode.com/problems/word-break/description/,Word Break,Medium,"Array, Hash Table, String, Dynamic Programming, Trie, Memoization, Brute-Force Search",more than 6 months; all time
+146,https://leetcode.com/problems/lru-cache/description/,LRU Cache,Medium,"Hash Table, Linked List, Design, Doubly-Linked List",last 6 months; all time
+301,https://leetcode.com/problems/remove-invalid-parentheses/description/,Remove Invalid Parentheses,Hard,"String, Backtracking, Breadth-First Search",more than 6 months; all time
+437,https://leetcode.com/problems/path-sum-iii/description/,Path Sum III,Medium,"Tree, Depth-First Search, Binary Tree",more than 6 months; all time
+622,https://leetcode.com/problems/design-circular-queue/description/,Design Circular Queue,Medium,"Array, Linked List, Design, Queue",all time
+2484,https://leetcode.com/problems/count-palindromic-subsequences/description/,Count Palindromic Subsequences,Hard,"String, Dynamic Programming",more than 6 months; all time
+2603,https://leetcode.com/problems/collect-coins-in-a-tree/description/,Collect Coins in a Tree,Hard,"Array, Tree, Graph Theory, Topological Sort",more than 6 months; all time

@@ -1,0 +1,8 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+15,https://leetcode.com/problems/3sum/description/,3Sum,Medium,"Array, Two Pointers, Sorting",more than 6 months; all time
+20,https://leetcode.com/problems/valid-parentheses/description/,Valid Parentheses,Easy,"String, Stack, Bracket Sequences",more than 6 months; all time
+53,https://leetcode.com/problems/maximum-subarray/description/,Maximum Subarray,Medium,"Array, Divide and Conquer, Dynamic Programming",more than 6 months; all time
+146,https://leetcode.com/problems/lru-cache/description/,LRU Cache,Medium,"Hash Table, Linked List, Design, Doubly-Linked List",more than 6 months; all time
+155,https://leetcode.com/problems/min-stack/description/,Min Stack,Medium,"Stack, Design",more than 6 months; all time
+1042,https://leetcode.com/problems/flower-planting-with-no-adjacent/description/,Flower Planting With No Adjacent,Medium,"Depth-First Search, Breadth-First Search, Graph Theory, Graph Coloring",more than 6 months; all time
+1803,https://leetcode.com/problems/count-pairs-with-xor-in-a-range/description/,Count Pairs With XOR in a Range,Hard,"Array, Bit Manipulation, Trie",more than 6 months; all time

@@ -1,0 +1,15 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+3,https://leetcode.com/problems/longest-substring-without-repeating-characters/description/,Longest Substring Without Repeating Characters,Medium,"Hash Table, String, Sliding Window",more than 6 months; all time
+20,https://leetcode.com/problems/valid-parentheses/description/,Valid Parentheses,Easy,"String, Stack, Bracket Sequences",more than 6 months; all time
+31,https://leetcode.com/problems/next-permutation/description/,Next Permutation,Medium,"Array, Two Pointers",more than 6 months; all time
+32,https://leetcode.com/problems/longest-valid-parentheses/description/,Longest Valid Parentheses,Hard,"String, Dynamic Programming, Stack, Bracket Sequences",more than 6 months; all time
+49,https://leetcode.com/problems/group-anagrams/description/,Group Anagrams,Medium,"Array, Hash Table, String, Sorting",all time
+53,https://leetcode.com/problems/maximum-subarray/description/,Maximum Subarray,Medium,"Array, Divide and Conquer, Dynamic Programming",more than 6 months; all time
+55,https://leetcode.com/problems/jump-game/description/,Jump Game,Medium,"Array, Dynamic Programming, Greedy",more than 6 months; all time
+122,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/,Best Time to Buy and Sell Stock II,Medium,"Array, Dynamic Programming, Greedy",more than 6 months; all time
+155,https://leetcode.com/problems/min-stack/description/,Min Stack,Medium,"Stack, Design",more than 6 months; all time
+202,https://leetcode.com/problems/happy-number/description/,Happy Number,Easy,"Hash Table, Math, Two Pointers, Floyd's Cycle Finding Algorithm",more than 6 months; all time
+287,https://leetcode.com/problems/find-the-duplicate-number/description/,Find the Duplicate Number,Medium,"Array, Two Pointers, Binary Search, Bit Manipulation, Pigeonhole Principle, Floyd's Cycle Finding Algorithm",more than 6 months; all time
+498,https://leetcode.com/problems/diagonal-traverse/description/,Diagonal Traverse,Medium,"Array, Matrix, Simulation",more than 6 months; all time
+605,https://leetcode.com/problems/can-place-flowers/description/,Can Place Flowers,Easy,"Array, Greedy",more than 6 months; all time
+2642,https://leetcode.com/problems/design-graph-with-shortest-path-calculator/description/,Design Graph With Shortest Path Calculator,Hard,"Graph Theory, Design, Heap (Priority Queue), Shortest Path",more than 6 months; all time

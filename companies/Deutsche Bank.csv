@@ -1,0 +1,23 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+1,https://leetcode.com/problems/two-sum/description/,Two Sum,Easy,"Array, Hash Table",more than 6 months; all time
+14,https://leetcode.com/problems/longest-common-prefix/description/,Longest Common Prefix,Easy,"Array, String, Trie",more than 6 months; all time
+52,https://leetcode.com/problems/n-queens-ii/description/,N-Queens II,Hard,"Backtracking, Algorithm X",more than 6 months; all time
+54,https://leetcode.com/problems/spiral-matrix/description/,Spiral Matrix,Medium,"Array, Matrix, Simulation",all time
+118,https://leetcode.com/problems/pascals-triangle/description/,Pascal's Triangle,Easy,"Array, Dynamic Programming",more than 6 months; all time
+121,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/,Best Time to Buy and Sell Stock,Easy,"Array, Dynamic Programming",more than 6 months; all time
+151,https://leetcode.com/problems/reverse-words-in-a-string/description/,Reverse Words in a String,Medium,"Two Pointers, String",last 6 months; all time
+241,https://leetcode.com/problems/different-ways-to-add-parentheses/description/,Different Ways to Add Parentheses,Medium,"Math, String, Dynamic Programming, Recursion, Memoization, Bracket Sequences",more than 6 months; all time
+322,https://leetcode.com/problems/coin-change/description/,Coin Change,Medium,"Array, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack",more than 6 months; all time
+805,https://leetcode.com/problems/split-array-with-same-average/description/,Split Array With Same Average,Hard,"Array, Hash Table, Math, Dynamic Programming, Bit Manipulation, Meet in the Middle, Bitmask",more than 6 months; all time
+977,https://leetcode.com/problems/squares-of-a-sorted-array/description/,Squares of a Sorted Array,Easy,"Array, Two Pointers, Sorting",more than 6 months; all time
+1827,https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/description/,Minimum Operations to Make the Array Increasing,Easy,"Array, Greedy",more than 6 months; all time
+2030,https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter/description/,Smallest K-Length Subsequence With Occurrences of a Letter,Hard,"String, Stack, Greedy, Monotonic Stack",more than 6 months; all time
+2039,https://leetcode.com/problems/the-time-when-the-network-becomes-idle/description/,The Time When the Network Becomes Idle,Medium,"Array, Breadth-First Search, Graph Theory",more than 6 months; all time
+2137,https://leetcode.com/problems/pour-water-between-buckets-to-make-water-levels-equal/description/,Pour Water Between Buckets to Make Water Levels Equal,Medium,"Array, Binary Search",more than 6 months; all time
+2141,https://leetcode.com/problems/maximum-running-time-of-n-computers/description/,Maximum Running Time of N Computers,Hard,"Array, Binary Search, Greedy, Sorting",more than 6 months; all time
+2552,https://leetcode.com/problems/count-increasing-quadruplets/description/,Count Increasing Quadruplets,Hard,"Array, Dynamic Programming, Binary Indexed Tree, Enumeration, Prefix Sum",more than 6 months; all time
+2735,https://leetcode.com/problems/collecting-chocolates/description/,Collecting Chocolates,Medium,"Array, Enumeration",more than 6 months; all time
+2838,https://leetcode.com/problems/maximum-coins-heroes-can-collect/description/,Maximum Coins Heroes Can Collect,Medium,"Array, Two Pointers, Binary Search, Sorting, Prefix Sum",more than 6 months; all time
+2869,https://leetcode.com/problems/minimum-operations-to-collect-elements/description/,Minimum Operations to Collect Elements,Easy,"Array, Hash Table, Bit Manipulation",more than 6 months; all time
+2968,https://leetcode.com/problems/apply-operations-to-maximize-frequency-score/description/,Apply Operations to Maximize Frequency Score,Hard,"Array, Binary Search, Sliding Window, Sorting, Prefix Sum",more than 6 months; all time
+3068,https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/,Find the Maximum Sum of Node Values,Hard,"Array, Dynamic Programming, Greedy, Bit Manipulation, Tree, Sorting",more than 6 months; all time

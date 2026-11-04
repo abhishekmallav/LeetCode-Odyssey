@@ -1,0 +1,25 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+1,https://leetcode.com/problems/two-sum/description/,Two Sum,Easy,"Array, Hash Table",last 30 days
+2,https://leetcode.com/problems/add-two-numbers/description/,Add Two Numbers,Medium,"Linked List, Math, Recursion",last 30 days
+3,https://leetcode.com/problems/longest-substring-without-repeating-characters/description/,Longest Substring Without Repeating Characters,Medium,"Hash Table, String, Sliding Window",last 30 days
+5,https://leetcode.com/problems/longest-palindromic-substring/description/,Longest Palindromic Substring,Medium,"Two Pointers, String, Dynamic Programming, Manacher",last 30 days
+11,https://leetcode.com/problems/container-with-most-water/description/,Container With Most Water,Medium,"Array, Two Pointers, Greedy",last 30 days
+15,https://leetcode.com/problems/3sum/description/,3Sum,Medium,"Array, Two Pointers, Sorting",last 30 days
+41,https://leetcode.com/problems/first-missing-positive/description/,First Missing Positive,Hard,"Array, Hash Table",last 30 days
+42,https://leetcode.com/problems/trapping-rain-water/description/,Trapping Rain Water,Hard,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack",last 30 days
+49,https://leetcode.com/problems/group-anagrams/description/,Group Anagrams,Medium,"Array, Hash Table, String, Sorting",last 30 days
+62,https://leetcode.com/problems/unique-paths/description/,Unique Paths,Medium,"Math, Dynamic Programming, Combinatorics",last 30 days
+70,https://leetcode.com/problems/climbing-stairs/description/,Climbing Stairs,Easy,"Math, Dynamic Programming, Memoization",last 30 days
+98,https://leetcode.com/problems/validate-binary-search-tree/description/,Validate Binary Search Tree,Medium,"Tree, Depth-First Search, Binary Search Tree, Binary Tree",last 30 days
+121,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/,Best Time to Buy and Sell Stock,Easy,"Array, Dynamic Programming",last 30 days
+124,https://leetcode.com/problems/binary-tree-maximum-path-sum/description/,Binary Tree Maximum Path Sum,Hard,"Dynamic Programming, Tree, Depth-First Search, Binary Tree, DP on Trees",last 30 days
+127,https://leetcode.com/problems/word-ladder/description/,Word Ladder,Hard,"Hash Table, String, Breadth-First Search, Bidirectional Search",last 30 days
+153,https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/,Find Minimum in Rotated Sorted Array,Medium,"Array, Binary Search",last 30 days
+168,https://leetcode.com/problems/excel-sheet-column-title/description/,Excel Sheet Column Title,Easy,"Math, String",last 30 days
+198,https://leetcode.com/problems/house-robber/description/,House Robber,Medium,"Array, Dynamic Programming",last 30 days
+200,https://leetcode.com/problems/number-of-islands/description/,Number of Islands,Medium,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix",last 30 days
+237,https://leetcode.com/problems/delete-node-in-a-linked-list/description/,Delete Node in a Linked List,Medium,Linked List,last 30 days
+269,https://leetcode.com/problems/alien-dictionary/description/,Alien Dictionary,Hard,"Array, String, Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort, Directed Acyclic Graph",last 30 days
+394,https://leetcode.com/problems/decode-string/description/,Decode String,Medium,"String, Stack, Recursion",last 30 days
+724,https://leetcode.com/problems/find-pivot-index/description/,Find Pivot Index,Easy,"Array, Prefix Sum",last 30 days
+863,https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/description/,All Nodes Distance K in Binary Tree,Medium,"Hash Table, Tree, Depth-First Search, Breadth-First Search, Binary Tree",last 30 days

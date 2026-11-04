@@ -1,0 +1,8 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+1,https://leetcode.com/problems/two-sum/description/,Two Sum,Easy,"Array, Hash Table",more than 6 months; all time
+8,https://leetcode.com/problems/string-to-integer-atoi/description/,String to Integer (atoi),Medium,String,all time
+25,https://leetcode.com/problems/reverse-nodes-in-k-group/description/,Reverse Nodes in k-Group,Hard,"Linked List, Recursion",more than 6 months; all time
+42,https://leetcode.com/problems/trapping-rain-water/description/,Trapping Rain Water,Hard,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack",more than 6 months; all time
+125,https://leetcode.com/problems/valid-palindrome/description/,Valid Palindrome,Easy,"Two Pointers, String",more than 6 months; all time
+138,https://leetcode.com/problems/copy-list-with-random-pointer/description/,Copy List with Random Pointer,Medium,"Hash Table, Linked List",more than 6 months; all time
+841,https://leetcode.com/problems/keys-and-rooms/description/,Keys and Rooms,Medium,"Depth-First Search, Breadth-First Search, Graph Theory",all time

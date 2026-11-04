@@ -1,0 +1,18 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+12,https://leetcode.com/problems/integer-to-roman/description/,Integer to Roman,Medium,"Hash Table, Math, String",more than 6 months; all time
+13,https://leetcode.com/problems/roman-to-integer/description/,Roman to Integer,Easy,"Hash Table, Math, String",more than 6 months; all time
+20,https://leetcode.com/problems/valid-parentheses/description/,Valid Parentheses,Easy,"String, Stack, Bracket Sequences",all time
+32,https://leetcode.com/problems/longest-valid-parentheses/description/,Longest Valid Parentheses,Hard,"String, Dynamic Programming, Stack, Bracket Sequences",more than 6 months; all time
+46,https://leetcode.com/problems/permutations/description/,Permutations,Medium,"Array, Backtracking",more than 6 months; all time
+49,https://leetcode.com/problems/group-anagrams/description/,Group Anagrams,Medium,"Array, Hash Table, String, Sorting",last 3 months; last 6 months; all time
+146,https://leetcode.com/problems/lru-cache/description/,LRU Cache,Medium,"Hash Table, Linked List, Design, Doubly-Linked List",more than 6 months; all time
+207,https://leetcode.com/problems/course-schedule/description/,Course Schedule,Medium,"Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort, Directed Acyclic Graph",more than 6 months; all time
+221,https://leetcode.com/problems/maximal-square/description/,Maximal Square,Medium,"Array, Dynamic Programming, Matrix",more than 6 months; all time
+239,https://leetcode.com/problems/sliding-window-maximum/description/,Sliding Window Maximum,Hard,"Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue, Range Minimum/Maximum Query",last 6 months; more than 6 months; all time
+332,https://leetcode.com/problems/reconstruct-itinerary/description/,Reconstruct Itinerary,Hard,"Array, String, Depth-First Search, Graph Theory, Sorting, Heap (Priority Queue), Eulerian Circuit, Eulerian Path, Semi-Eulerian Graph",more than 6 months; all time
+1034,https://leetcode.com/problems/coloring-a-border/description/,Coloring A Border,Medium,"Array, Depth-First Search, Breadth-First Search, Matrix",more than 6 months; all time
+1948,https://leetcode.com/problems/delete-duplicate-folders-in-system/description/,Delete Duplicate Folders in System,Hard,"Array, Hash Table, String, Depth-First Search, Trie, Sorting, Hash Function",more than 6 months; all time
+2032,https://leetcode.com/problems/two-out-of-three/description/,Two Out of Three,Easy,"Array, Hash Table, Bit Manipulation",more than 6 months; all time
+2146,https://leetcode.com/problems/k-highest-ranked-items-within-a-price-range/description/,K Highest Ranked Items Within a Price Range,Medium,"Array, Breadth-First Search, Sorting, Heap (Priority Queue), Matrix",more than 6 months; all time
+2159,https://leetcode.com/problems/order-two-columns-independently/description/,Order Two Columns Independently,Medium,Database,more than 6 months; all time
+2512,https://leetcode.com/problems/reward-top-k-students/description/,Reward Top K Students,Medium,"Array, Hash Table, String, Sorting, Heap (Priority Queue)",last 3 months; last 6 months; more than 6 months; all time

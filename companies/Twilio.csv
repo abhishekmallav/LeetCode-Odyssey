@@ -1,0 +1,12 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+3,https://leetcode.com/problems/longest-substring-without-repeating-characters/description/,Longest Substring Without Repeating Characters,Medium,"Hash Table, String, Sliding Window",last 6 months; all time
+49,https://leetcode.com/problems/group-anagrams/description/,Group Anagrams,Medium,"Array, Hash Table, String, Sorting",more than 6 months; all time
+347,https://leetcode.com/problems/top-k-frequent-elements/description/,Top K Frequent Elements,Medium,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect",more than 6 months; all time
+965,https://leetcode.com/problems/univalued-binary-tree/description/,Univalued Binary Tree,Easy,"Tree, Depth-First Search, Breadth-First Search, Binary Tree",more than 6 months; all time
+1209,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/description/,Remove All Adjacent Duplicates in String II,Medium,"String, Stack",last 3 months; last 6 months; all time
+1268,https://leetcode.com/problems/search-suggestions-system/description/,Search Suggestions System,Medium,"Array, String, Binary Search, Trie, Sorting, Heap (Priority Queue)",more than 6 months; all time
+1507,https://leetcode.com/problems/reformat-date/description/,Reformat Date,Easy,String,more than 6 months; all time
+1642,https://leetcode.com/problems/furthest-building-you-can-reach/description/,Furthest Building You Can Reach,Medium,"Array, Greedy, Heap (Priority Queue)",more than 6 months; all time
+1664,https://leetcode.com/problems/ways-to-make-a-fair-array/description/,Ways to Make a Fair Array,Medium,"Array, Prefix Sum",more than 6 months; all time
+2559,https://leetcode.com/problems/count-vowel-strings-in-ranges/description/,Count Vowel Strings in Ranges,Medium,"Array, String, Prefix Sum",more than 6 months; all time
+2592,https://leetcode.com/problems/maximize-greatness-of-an-array/description/,Maximize Greatness of an Array,Medium,"Array, Two Pointers, Greedy, Sorting",more than 6 months; all time

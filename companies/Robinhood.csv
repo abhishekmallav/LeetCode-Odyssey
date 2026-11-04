@@ -1,0 +1,16 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+68,https://leetcode.com/problems/text-justification/description/,Text Justification,Hard,"Array, String, Simulation",last 3 months; last 6 months; more than 6 months; all time
+121,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/,Best Time to Buy and Sell Stock,Easy,"Array, Dynamic Programming",more than 6 months; all time
+347,https://leetcode.com/problems/top-k-frequent-elements/description/,Top K Frequent Elements,Medium,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect",more than 6 months; all time
+529,https://leetcode.com/problems/minesweeper/description/,Minesweeper,Medium,"Array, Depth-First Search, Breadth-First Search, Matrix",more than 6 months; all time
+690,https://leetcode.com/problems/employee-importance/description/,Employee Importance,Medium,"Array, Hash Table, Tree, Depth-First Search, Breadth-First Search",more than 6 months; all time
+692,https://leetcode.com/problems/top-k-frequent-words/description/,Top K Frequent Words,Medium,"Array, Hash Table, String, Trie, Sorting, Heap (Priority Queue), Bucket Sort, Counting",last 6 months; more than 6 months; all time
+1108,https://leetcode.com/problems/defanging-an-ip-address/description/,Defanging an IP Address,Easy,String,more than 6 months; all time
+1391,https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/description/,Check if There is a Valid Path in a Grid,Medium,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix",more than 6 months; all time
+1393,https://leetcode.com/problems/capital-gainloss/description/,Capital Gain/Loss,Medium,Database,more than 6 months; all time
+1684,https://leetcode.com/problems/count-the-number-of-consistent-strings/description/,Count the Number of Consistent Strings,Easy,"Array, Hash Table, String, Bit Manipulation, Counting",more than 6 months; all time
+1711,https://leetcode.com/problems/count-good-meals/description/,Count Good Meals,Medium,"Array, Hash Table",more than 6 months; all time
+1712,https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/description/,Ways to Split Array Into Three Subarrays,Medium,"Array, Two Pointers, Binary Search, Prefix Sum",more than 6 months; all time
+1743,https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/description/,Restore the Array From Adjacent Pairs,Medium,"Array, Hash Table, Depth-First Search",more than 6 months; all time
+1801,https://leetcode.com/problems/number-of-orders-in-the-backlog/description/,Number of Orders in the Backlog,Medium,"Array, Heap (Priority Queue), Simulation",more than 6 months; all time
+2021,https://leetcode.com/problems/brightest-position-on-street/description/,Brightest Position on Street,Medium,"Array, Sorting, Prefix Sum, Ordered Set",more than 6 months; all time

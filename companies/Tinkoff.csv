@@ -1,0 +1,23 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+1,https://leetcode.com/problems/two-sum/description/,Two Sum,Easy,"Array, Hash Table",more than 6 months; all time
+3,https://leetcode.com/problems/longest-substring-without-repeating-characters/description/,Longest Substring Without Repeating Characters,Medium,"Hash Table, String, Sliding Window",more than 6 months; all time
+5,https://leetcode.com/problems/longest-palindromic-substring/description/,Longest Palindromic Substring,Medium,"Two Pointers, String, Dynamic Programming, Manacher",last 6 months; more than 6 months; all time
+13,https://leetcode.com/problems/roman-to-integer/description/,Roman to Integer,Easy,"Hash Table, Math, String",more than 6 months; all time
+19,https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/,Remove Nth Node From End of List,Medium,"Linked List, Two Pointers",more than 6 months; all time
+33,https://leetcode.com/problems/search-in-rotated-sorted-array/description/,Search in Rotated Sorted Array,Medium,"Array, Binary Search",more than 6 months; all time
+34,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/,Find First and Last Position of Element in Sorted Array,Medium,"Array, Binary Search",more than 6 months; all time
+71,https://leetcode.com/problems/simplify-path/description/,Simplify Path,Medium,"String, Stack",more than 6 months; all time
+125,https://leetcode.com/problems/valid-palindrome/description/,Valid Palindrome,Easy,"Two Pointers, String",more than 6 months; all time
+155,https://leetcode.com/problems/min-stack/description/,Min Stack,Medium,"Stack, Design",more than 6 months; all time
+200,https://leetcode.com/problems/number-of-islands/description/,Number of Islands,Medium,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix",more than 6 months; all time
+228,https://leetcode.com/problems/summary-ranges/description/,Summary Ranges,Easy,Array,all time
+356,https://leetcode.com/problems/line-reflection/description/,Line Reflection,Medium,"Array, Hash Table, Math",all time
+392,https://leetcode.com/problems/is-subsequence/description/,Is Subsequence,Easy,"Two Pointers, String, Dynamic Programming",more than 6 months; all time
+394,https://leetcode.com/problems/decode-string/description/,Decode String,Medium,"String, Stack, Recursion",more than 6 months; all time
+419,https://leetcode.com/problems/battleships-in-a-board/description/,Battleships in a Board,Medium,"Array, Depth-First Search, Matrix",more than 6 months; all time
+443,https://leetcode.com/problems/string-compression/description/,String Compression,Medium,"Two Pointers, String",all time
+448,https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/,Find All Numbers Disappeared in an Array,Easy,"Array, Hash Table",more than 6 months; all time
+1984,https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/description/,Minimum Difference Between Highest and Lowest of K Scores,Easy,"Array, Sliding Window, Sorting",more than 6 months; all time
+2605,https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/description/,Form Smallest Number From Two Digit Arrays,Easy,"Array, Hash Table, Enumeration",more than 6 months; all time
+2609,https://leetcode.com/problems/find-the-longest-balanced-substring-of-a-binary-string/description/,Find the Longest Balanced Substring of a Binary String,Easy,String,more than 6 months; all time
+2694,https://leetcode.com/problems/event-emitter/description/,Event Emitter,Medium,,more than 6 months; all time

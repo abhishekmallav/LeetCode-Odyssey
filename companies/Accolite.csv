@@ -1,0 +1,21 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+1,https://leetcode.com/problems/two-sum/description/,Two Sum,Easy,"Array, Hash Table",more than 6 months; all time
+2,https://leetcode.com/problems/add-two-numbers/description/,Add Two Numbers,Medium,"Linked List, Math, Recursion",more than 6 months; all time
+3,https://leetcode.com/problems/longest-substring-without-repeating-characters/description/,Longest Substring Without Repeating Characters,Medium,"Hash Table, String, Sliding Window",last 6 months; more than 6 months; all time
+5,https://leetcode.com/problems/longest-palindromic-substring/description/,Longest Palindromic Substring,Medium,"Two Pointers, String, Dynamic Programming, Manacher",more than 6 months; all time
+11,https://leetcode.com/problems/container-with-most-water/description/,Container With Most Water,Medium,"Array, Two Pointers, Greedy",more than 6 months; all time
+20,https://leetcode.com/problems/valid-parentheses/description/,Valid Parentheses,Easy,"String, Stack, Bracket Sequences",last 6 months; all time
+49,https://leetcode.com/problems/group-anagrams/description/,Group Anagrams,Medium,"Array, Hash Table, String, Sorting",more than 6 months; all time
+53,https://leetcode.com/problems/maximum-subarray/description/,Maximum Subarray,Medium,"Array, Divide and Conquer, Dynamic Programming",more than 6 months; all time
+70,https://leetcode.com/problems/climbing-stairs/description/,Climbing Stairs,Easy,"Math, Dynamic Programming, Memoization",more than 6 months; all time
+80,https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/,Remove Duplicates from Sorted Array II,Medium,"Array, Two Pointers",more than 6 months; all time
+121,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/,Best Time to Buy and Sell Stock,Easy,"Array, Dynamic Programming",more than 6 months; all time
+134,https://leetcode.com/problems/gas-station/description/,Gas Station,Medium,"Array, Greedy",more than 6 months; all time
+283,https://leetcode.com/problems/move-zeroes/description/,Move Zeroes,Easy,"Array, Two Pointers",all time
+321,https://leetcode.com/problems/create-maximum-number/description/,Create Maximum Number,Hard,"Array, Two Pointers, Stack, Greedy, Monotonic Stack",more than 6 months; all time
+322,https://leetcode.com/problems/coin-change/description/,Coin Change,Medium,"Array, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack",last 6 months; more than 6 months; all time
+735,https://leetcode.com/problems/asteroid-collision/description/,Asteroid Collision,Medium,"Array, Stack, Simulation",more than 6 months; all time
+1234,https://leetcode.com/problems/replace-the-substring-for-balanced-string/description/,Replace the Substring for Balanced String,Medium,"String, Sliding Window",more than 6 months; all time
+1654,https://leetcode.com/problems/minimum-jumps-to-reach-home/description/,Minimum Jumps to Reach Home,Medium,"Array, Hash Table, Breadth-First Search",more than 6 months; all time
+2422,https://leetcode.com/problems/merge-operations-to-turn-array-into-a-palindrome/description/,Merge Operations to Turn Array Into a Palindrome,Medium,"Array, Two Pointers, Greedy",more than 6 months; all time
+3819,https://leetcode.com/problems/rotate-non-negative-elements/description/,Rotate Non Negative Elements,Medium,"Array, Simulation",all time

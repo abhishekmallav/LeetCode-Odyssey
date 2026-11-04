@@ -1,0 +1,16 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+1,https://leetcode.com/problems/two-sum/description/,Two Sum,Easy,"Array, Hash Table",more than 6 months; all time
+3,https://leetcode.com/problems/longest-substring-without-repeating-characters/description/,Longest Substring Without Repeating Characters,Medium,"Hash Table, String, Sliding Window",last 3 months; last 6 months; more than 6 months; all time
+20,https://leetcode.com/problems/valid-parentheses/description/,Valid Parentheses,Easy,"String, Stack, Bracket Sequences",more than 6 months; all time
+104,https://leetcode.com/problems/maximum-depth-of-binary-tree/description/,Maximum Depth of Binary Tree,Easy,"Tree, Depth-First Search, Breadth-First Search, Binary Tree",more than 6 months; all time
+125,https://leetcode.com/problems/valid-palindrome/description/,Valid Palindrome,Easy,"Two Pointers, String",more than 6 months; all time
+215,https://leetcode.com/problems/kth-largest-element-in-an-array/description/,Kth Largest Element in an Array,Medium,"Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect",last 3 months; last 6 months; more than 6 months; all time
+242,https://leetcode.com/problems/valid-anagram/description/,Valid Anagram,Easy,"Hash Table, String, Sorting",all time
+295,https://leetcode.com/problems/find-median-from-data-stream/description/,Find Median from Data Stream,Hard,"Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream",last 3 months; last 6 months; more than 6 months; all time
+346,https://leetcode.com/problems/moving-average-from-data-stream/description/,Moving Average from Data Stream,Easy,"Array, Design, Queue, Data Stream",last 3 months; last 6 months; more than 6 months; all time
+383,https://leetcode.com/problems/ransom-note/description/,Ransom Note,Easy,"Hash Table, String, Counting",more than 6 months; all time
+480,https://leetcode.com/problems/sliding-window-median/description/,Sliding Window Median,Hard,"Array, Hash Table, Sliding Window, Heap (Priority Queue), Treap",more than 6 months; all time
+509,https://leetcode.com/problems/fibonacci-number/description/,Fibonacci Number,Easy,"Math, Dynamic Programming, Recursion, Memoization",more than 6 months; all time
+1152,https://leetcode.com/problems/analyze-user-website-visit-pattern/description/,Analyze User Website Visit Pattern,Medium,"Array, Hash Table, String, Sorting",last 3 months; last 6 months; more than 6 months; all time
+1917,https://leetcode.com/problems/leetcodify-friends-recommendations/description/,Leetcodify Friends Recommendations,Hard,Database,more than 6 months; all time
+1919,https://leetcode.com/problems/leetcodify-similar-friends/description/,Leetcodify Similar Friends,Hard,Database,more than 6 months; all time

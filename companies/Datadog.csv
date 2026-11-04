@@ -1,0 +1,15 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+124,https://leetcode.com/problems/binary-tree-maximum-path-sum/description/,Binary Tree Maximum Path Sum,Hard,"Dynamic Programming, Tree, Depth-First Search, Binary Tree, DP on Trees",more than 6 months; all time
+198,https://leetcode.com/problems/house-robber/description/,House Robber,Medium,"Array, Dynamic Programming",more than 6 months; all time
+211,https://leetcode.com/problems/design-add-and-search-words-data-structure/description/,Design Add and Search Words Data Structure,Medium,"String, Depth-First Search, Design, Trie",more than 6 months; all time
+213,https://leetcode.com/problems/house-robber-ii/description/,House Robber II,Medium,"Array, Dynamic Programming",more than 6 months; all time
+322,https://leetcode.com/problems/coin-change/description/,Coin Change,Medium,"Array, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack",more than 6 months; all time
+408,https://leetcode.com/problems/valid-word-abbreviation/description/,Valid Word Abbreviation,Easy,"Two Pointers, String",more than 6 months; all time
+480,https://leetcode.com/problems/sliding-window-median/description/,Sliding Window Median,Hard,"Array, Hash Table, Sliding Window, Heap (Priority Queue), Treap",more than 6 months; all time
+559,https://leetcode.com/problems/maximum-depth-of-n-ary-tree/description/,Maximum Depth of N-ary Tree,Easy,"Tree, Depth-First Search, Breadth-First Search",more than 6 months; all time
+568,https://leetcode.com/problems/maximum-vacation-days/description/,Maximum Vacation Days,Hard,"Array, Dynamic Programming, Matrix",more than 6 months; all time
+622,https://leetcode.com/problems/design-circular-queue/description/,Design Circular Queue,Medium,"Array, Linked List, Design, Queue",more than 6 months; all time
+819,https://leetcode.com/problems/most-common-word/description/,Most Common Word,Easy,"Array, Hash Table, String, Counting",more than 6 months; all time
+1229,https://leetcode.com/problems/meeting-scheduler/description/,Meeting Scheduler,Medium,"Array, Two Pointers, Sorting",more than 6 months; all time
+1232,https://leetcode.com/problems/check-if-it-is-a-straight-line/description/,Check If It Is a Straight Line,Easy,"Array, Math, Geometry",more than 6 months; all time
+1452,https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/description/,People Whose List of Favorite Companies Is Not a Subset of Another List,Medium,"Array, Hash Table, String",more than 6 months; all time

@@ -1,0 +1,10 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+49,https://leetcode.com/problems/group-anagrams/description/,Group Anagrams,Medium,"Array, Hash Table, String, Sorting",more than 6 months; all time
+139,https://leetcode.com/problems/word-break/description/,Word Break,Medium,"Array, Hash Table, String, Dynamic Programming, Trie, Memoization, Brute-Force Search",all time
+253,https://leetcode.com/problems/meeting-rooms-ii/description/,Meeting Rooms II,Medium,"Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum",more than 6 months; all time
+332,https://leetcode.com/problems/reconstruct-itinerary/description/,Reconstruct Itinerary,Hard,"Array, String, Depth-First Search, Graph Theory, Sorting, Heap (Priority Queue), Eulerian Circuit, Eulerian Path, Semi-Eulerian Graph",more than 6 months; all time
+394,https://leetcode.com/problems/decode-string/description/,Decode String,Medium,"String, Stack, Recursion",last 3 months; last 6 months; more than 6 months; all time
+572,https://leetcode.com/problems/subtree-of-another-tree/description/,Subtree of Another Tree,Easy,"Tree, Depth-First Search, String Matching, Binary Tree, Hash Function",more than 6 months; all time
+981,https://leetcode.com/problems/time-based-key-value-store/description/,Time Based Key-Value Store,Medium,"Hash Table, String, Binary Search, Design",last 3 months; last 6 months; more than 6 months; all time
+1023,https://leetcode.com/problems/camelcase-matching/description/,Camelcase Matching,Medium,"Array, Two Pointers, String, Trie, String Matching",more than 6 months; all time
+2739,https://leetcode.com/problems/total-distance-traveled/description/,Total Distance Traveled,Easy,"Math, Simulation",more than 6 months; all time

@@ -1,0 +1,10 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+2,https://leetcode.com/problems/add-two-numbers/description/,Add Two Numbers,Medium,"Linked List, Math, Recursion",more than 6 months; all time
+22,https://leetcode.com/problems/generate-parentheses/description/,Generate Parentheses,Medium,"String, Dynamic Programming, Backtracking, Bracket Sequences",more than 6 months; all time
+49,https://leetcode.com/problems/group-anagrams/description/,Group Anagrams,Medium,"Array, Hash Table, String, Sorting",more than 6 months; all time
+88,https://leetcode.com/problems/merge-sorted-array/description/,Merge Sorted Array,Easy,"Array, Two Pointers, Sorting",more than 6 months; all time
+104,https://leetcode.com/problems/maximum-depth-of-binary-tree/description/,Maximum Depth of Binary Tree,Easy,"Tree, Depth-First Search, Breadth-First Search, Binary Tree",more than 6 months; all time
+215,https://leetcode.com/problems/kth-largest-element-in-an-array/description/,Kth Largest Element in an Array,Medium,"Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect",more than 6 months; all time
+238,https://leetcode.com/problems/product-of-array-except-self/description/,Product of Array Except Self,Medium,"Array, Prefix Sum",more than 6 months; all time
+347,https://leetcode.com/problems/top-k-frequent-elements/description/,Top K Frequent Elements,Medium,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect",more than 6 months; all time
+907,https://leetcode.com/problems/sum-of-subarray-minimums/description/,Sum of Subarray Minimums,Medium,"Array, Dynamic Programming, Stack, Monotonic Stack",more than 6 months; all time

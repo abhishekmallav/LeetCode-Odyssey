@@ -1,0 +1,36 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+1,https://leetcode.com/problems/two-sum/description/,Two Sum,Easy,"Array, Hash Table",more than 6 months; all time
+4,https://leetcode.com/problems/median-of-two-sorted-arrays/description/,Median of Two Sorted Arrays,Hard,"Array, Binary Search, Divide and Conquer",more than 6 months; all time
+5,https://leetcode.com/problems/longest-palindromic-substring/description/,Longest Palindromic Substring,Medium,"Two Pointers, String, Dynamic Programming, Manacher",more than 6 months; all time
+15,https://leetcode.com/problems/3sum/description/,3Sum,Medium,"Array, Two Pointers, Sorting",more than 6 months; all time
+20,https://leetcode.com/problems/valid-parentheses/description/,Valid Parentheses,Easy,"String, Stack, Bracket Sequences",last 6 months; more than 6 months; all time
+25,https://leetcode.com/problems/reverse-nodes-in-k-group/description/,Reverse Nodes in k-Group,Hard,"Linked List, Recursion",more than 6 months; all time
+33,https://leetcode.com/problems/search-in-rotated-sorted-array/description/,Search in Rotated Sorted Array,Medium,"Array, Binary Search",more than 6 months; all time
+49,https://leetcode.com/problems/group-anagrams/description/,Group Anagrams,Medium,"Array, Hash Table, String, Sorting",more than 6 months; all time
+53,https://leetcode.com/problems/maximum-subarray/description/,Maximum Subarray,Medium,"Array, Divide and Conquer, Dynamic Programming",more than 6 months; all time
+54,https://leetcode.com/problems/spiral-matrix/description/,Spiral Matrix,Medium,"Array, Matrix, Simulation",more than 6 months; all time
+56,https://leetcode.com/problems/merge-intervals/description/,Merge Intervals,Medium,"Array, Sorting, Quicksort",more than 6 months; all time
+68,https://leetcode.com/problems/text-justification/description/,Text Justification,Hard,"Array, String, Simulation",last 3 months; last 6 months; all time
+70,https://leetcode.com/problems/climbing-stairs/description/,Climbing Stairs,Easy,"Math, Dynamic Programming, Memoization",all time
+73,https://leetcode.com/problems/set-matrix-zeroes/description/,Set Matrix Zeroes,Medium,"Array, Hash Table, Matrix",more than 6 months; all time
+75,https://leetcode.com/problems/sort-colors/description/,Sort Colors,Medium,"Array, Two Pointers, Sorting, Quicksort, Bubble Sort",more than 6 months; all time
+139,https://leetcode.com/problems/word-break/description/,Word Break,Medium,"Array, Hash Table, String, Dynamic Programming, Trie, Memoization, Brute-Force Search",more than 6 months; all time
+141,https://leetcode.com/problems/linked-list-cycle/description/,Linked List Cycle,Easy,"Hash Table, Linked List, Two Pointers, Floyd's Cycle Finding Algorithm",more than 6 months; all time
+142,https://leetcode.com/problems/linked-list-cycle-ii/description/,Linked List Cycle II,Medium,"Hash Table, Linked List, Two Pointers, Floyd's Cycle Finding Algorithm",more than 6 months; all time
+146,https://leetcode.com/problems/lru-cache/description/,LRU Cache,Medium,"Hash Table, Linked List, Design, Doubly-Linked List",more than 6 months; all time
+169,https://leetcode.com/problems/majority-element/description/,Majority Element,Easy,"Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm",more than 6 months; all time
+200,https://leetcode.com/problems/number-of-islands/description/,Number of Islands,Medium,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix",last 6 months; more than 6 months; all time
+202,https://leetcode.com/problems/happy-number/description/,Happy Number,Easy,"Hash Table, Math, Two Pointers, Floyd's Cycle Finding Algorithm",all time
+215,https://leetcode.com/problems/kth-largest-element-in-an-array/description/,Kth Largest Element in an Array,Medium,"Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect",more than 6 months; all time
+238,https://leetcode.com/problems/product-of-array-except-self/description/,Product of Array Except Self,Medium,"Array, Prefix Sum",more than 6 months; all time
+239,https://leetcode.com/problems/sliding-window-maximum/description/,Sliding Window Maximum,Hard,"Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue, Range Minimum/Maximum Query",more than 6 months; all time
+359,https://leetcode.com/problems/logger-rate-limiter/description/,Logger Rate Limiter,Easy,"Hash Table, Design, Data Stream",last 6 months; all time
+390,https://leetcode.com/problems/elimination-game/description/,Elimination Game,Medium,"Math, Recursion",more than 6 months; all time
+875,https://leetcode.com/problems/koko-eating-bananas/description/,Koko Eating Bananas,Medium,"Array, Binary Search",more than 6 months; all time
+3019,https://leetcode.com/problems/number-of-changing-keys/description/,Number of Changing Keys,Easy,String,more than 6 months; all time
+3034,https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-i/description/,Number of Subarrays That Match a Pattern I,Medium,"Array, Rolling Hash, String Matching, Hash Function",more than 6 months; all time
+3036,https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii/description/,Number of Subarrays That Match a Pattern II,Hard,"Array, Rolling Hash, String Matching, Hash Function",more than 6 months; all time
+3042,https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/description/,Count Prefix and Suffix Pairs I,Easy,"Array, String, Trie, Rolling Hash, String Matching, Hash Function",more than 6 months; all time
+3045,https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii/description/,Count Prefix and Suffix Pairs II,Hard,"Array, String, Trie, Rolling Hash, String Matching, Hash Function, Z Algorithm",more than 6 months; all time
+3069,https://leetcode.com/problems/distribute-elements-into-two-arrays-i/description/,Distribute Elements Into Two Arrays I,Easy,"Array, Two Pointers, Simulation",more than 6 months; all time
+3072,https://leetcode.com/problems/distribute-elements-into-two-arrays-ii/description/,Distribute Elements Into Two Arrays II,Hard,"Array, Binary Indexed Tree, Segment Tree, Simulation",more than 6 months; all time

@@ -1,0 +1,16 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+28,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/,Find the Index of the First Occurrence in a String,Easy,"Two Pointers, String, String Matching, Z Algorithm, Knuth–Morris–Pratt Algorithm, Boyer–Moore String-Search Algorithm",more than 6 months; all time
+75,https://leetcode.com/problems/sort-colors/description/,Sort Colors,Medium,"Array, Two Pointers, Sorting, Quicksort, Bubble Sort",more than 6 months; all time
+133,https://leetcode.com/problems/clone-graph/description/,Clone Graph,Medium,"Hash Table, Depth-First Search, Breadth-First Search, Graph Theory",more than 6 months; all time
+139,https://leetcode.com/problems/word-break/description/,Word Break,Medium,"Array, Hash Table, String, Dynamic Programming, Trie, Memoization, Brute-Force Search",more than 6 months; all time
+214,https://leetcode.com/problems/shortest-palindrome/description/,Shortest Palindrome,Hard,"String, Rolling Hash, String Matching, Hash Function, Manacher, Z Algorithm, Knuth–Morris–Pratt Algorithm",more than 6 months; all time
+215,https://leetcode.com/problems/kth-largest-element-in-an-array/description/,Kth Largest Element in an Array,Medium,"Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect",more than 6 months; all time
+269,https://leetcode.com/problems/alien-dictionary/description/,Alien Dictionary,Hard,"Array, String, Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort, Directed Acyclic Graph",more than 6 months; all time
+285,https://leetcode.com/problems/inorder-successor-in-bst/description/,Inorder Successor in BST,Medium,"Tree, Depth-First Search, Binary Search Tree, Binary Tree",more than 6 months; all time
+347,https://leetcode.com/problems/top-k-frequent-elements/description/,Top K Frequent Elements,Medium,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect",more than 6 months; all time
+380,https://leetcode.com/problems/insert-delete-getrandom-o1/description/,Insert Delete GetRandom O(1),Medium,"Array, Hash Table, Math, Design, Randomized",more than 6 months; all time
+424,https://leetcode.com/problems/longest-repeating-character-replacement/description/,Longest Repeating Character Replacement,Medium,"Hash Table, String, Sliding Window",more than 6 months; all time
+442,https://leetcode.com/problems/find-all-duplicates-in-an-array/description/,Find All Duplicates in an Array,Medium,"Array, Hash Table, Sorting",more than 6 months; all time
+600,https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/description/,Non-negative Integers without Consecutive Ones,Hard,Dynamic Programming,more than 6 months; all time
+692,https://leetcode.com/problems/top-k-frequent-words/description/,Top K Frequent Words,Medium,"Array, Hash Table, String, Trie, Sorting, Heap (Priority Queue), Bucket Sort, Counting",more than 6 months; all time
+772,https://leetcode.com/problems/basic-calculator-iii/description/,Basic Calculator III,Hard,"Math, String, Stack, Recursion",more than 6 months; all time

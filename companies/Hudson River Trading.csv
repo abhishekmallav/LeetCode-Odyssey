@@ -1,0 +1,17 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+14,https://leetcode.com/problems/longest-common-prefix/description/,Longest Common Prefix,Easy,"Array, String, Trie",more than 6 months; all time
+68,https://leetcode.com/problems/text-justification/description/,Text Justification,Hard,"Array, String, Simulation",more than 6 months; all time
+243,https://leetcode.com/problems/shortest-word-distance/description/,Shortest Word Distance,Easy,"Array, String",all time
+1317,https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/description/,Convert Integer to the Sum of Two No-Zero Integers,Easy,Math,more than 6 months; all time
+1323,https://leetcode.com/problems/maximum-69-number/description/,Maximum 69 Number,Easy,"Math, Greedy",more than 6 months; all time
+1342,https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/description/,Number of Steps to Reduce a Number to Zero,Easy,"Math, Bit Manipulation",more than 6 months; all time
+1566,https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/description/,Detect Pattern of Length M Repeated K or More Times,Easy,"Array, Enumeration",more than 6 months; all time
+2246,https://leetcode.com/problems/longest-path-with-different-adjacent-characters/description/,Longest Path With Different Adjacent Characters,Hard,"Array, String, Tree, Depth-First Search, Graph Theory, Topological Sort",more than 6 months; all time
+2257,https://leetcode.com/problems/count-unguarded-cells-in-the-grid/description/,Count Unguarded Cells in the Grid,Medium,"Array, Matrix, Simulation",all time
+2275,https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/description/,Largest Combination With Bitwise AND Greater Than Zero,Medium,"Array, Hash Table, Bit Manipulation, Counting",all time
+2285,https://leetcode.com/problems/maximum-total-importance-of-roads/description/,Maximum Total Importance of Roads,Medium,"Greedy, Graph Theory, Sorting, Heap (Priority Queue)",more than 6 months; all time
+2502,https://leetcode.com/problems/design-memory-allocator/description/,Design Memory Allocator,Medium,"Array, Hash Table, Design, Simulation",all time
+2508,https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even/description/,Add Edges to Make Degrees of All Nodes Even,Hard,"Hash Table, Graph Theory",more than 6 months; all time
+2772,https://leetcode.com/problems/apply-operations-to-make-all-array-elements-equal-to-zero/description/,Apply Operations to Make All Array Elements Equal to Zero,Medium,"Array, Prefix Sum",all time
+3161,https://leetcode.com/problems/block-placement-queries/description/,Block Placement Queries,Hard,"Array, Binary Search, Binary Indexed Tree, Segment Tree, Ordered Set",last 3 months; last 6 months; all time
+3225,https://leetcode.com/problems/maximum-score-from-grid-operations/description/,Maximum Score From Grid Operations,Hard,"Array, Dynamic Programming, Matrix, Prefix Sum",more than 6 months; all time

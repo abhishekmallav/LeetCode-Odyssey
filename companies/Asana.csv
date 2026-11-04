@@ -1,0 +1,6 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+98,https://leetcode.com/problems/validate-binary-search-tree/description/,Validate Binary Search Tree,Medium,"Tree, Depth-First Search, Binary Search Tree, Binary Tree",all time
+238,https://leetcode.com/problems/product-of-array-except-self/description/,Product of Array Except Self,Medium,"Array, Prefix Sum",last 3 months; last 6 months; more than 6 months; all time
+973,https://leetcode.com/problems/k-closest-points-to-origin/description/,K Closest Points to Origin,Medium,"Array, Math, Divide and Conquer, Geometry, Sorting, Heap (Priority Queue), Quickselect, K-D Tree",last 6 months; more than 6 months; all time
+1668,https://leetcode.com/problems/maximum-repeating-substring/description/,Maximum Repeating Substring,Easy,"String, Dynamic Programming, String Matching",more than 6 months; all time
+3650,https://leetcode.com/problems/minimum-cost-path-with-edge-reversals/description/,Minimum Cost Path with Edge Reversals,Medium,"Graph Theory, Heap (Priority Queue), Shortest Path",all time

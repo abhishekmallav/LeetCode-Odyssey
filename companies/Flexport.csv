@@ -1,0 +1,11 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+17,https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/,Letter Combinations of a Phone Number,Medium,"Hash Table, String, Backtracking",more than 6 months; all time
+133,https://leetcode.com/problems/clone-graph/description/,Clone Graph,Medium,"Hash Table, Depth-First Search, Breadth-First Search, Graph Theory",more than 6 months; all time
+299,https://leetcode.com/problems/bulls-and-cows/description/,Bulls and Cows,Medium,"Hash Table, String, Counting",last 6 months; more than 6 months; all time
+300,https://leetcode.com/problems/longest-increasing-subsequence/description/,Longest Increasing Subsequence,Medium,"Array, Binary Search, Dynamic Programming, Longest Increasing Subsequence",more than 6 months; all time
+394,https://leetcode.com/problems/decode-string/description/,Decode String,Medium,"String, Stack, Recursion",more than 6 months; all time
+468,https://leetcode.com/problems/validate-ip-address/description/,Validate IP Address,Medium,String,more than 6 months; all time
+713,https://leetcode.com/problems/subarray-product-less-than-k/description/,Subarray Product Less Than K,Medium,"Array, Binary Search, Sliding Window, Prefix Sum",more than 6 months; all time
+729,https://leetcode.com/problems/my-calendar-i/description/,My Calendar I,Medium,"Array, Binary Search, Design, Segment Tree, Ordered Set",more than 6 months; all time
+948,https://leetcode.com/problems/bag-of-tokens/description/,Bag of Tokens,Medium,"Array, Two Pointers, Greedy, Sorting",more than 6 months; all time
+981,https://leetcode.com/problems/time-based-key-value-store/description/,Time Based Key-Value Store,Medium,"Hash Table, String, Binary Search, Design",more than 6 months; all time

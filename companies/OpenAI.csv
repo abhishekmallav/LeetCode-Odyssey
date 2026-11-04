@@ -1,0 +1,20 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+42,https://leetcode.com/problems/trapping-rain-water/description/,Trapping Rain Water,Hard,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack",more than 6 months; all time
+71,https://leetcode.com/problems/simplify-path/description/,Simplify Path,Medium,"String, Stack",more than 6 months; all time
+146,https://leetcode.com/problems/lru-cache/description/,LRU Cache,Medium,"Hash Table, Linked List, Design, Doubly-Linked List",all time
+271,https://leetcode.com/problems/encode-and-decode-strings/description/,Encode and Decode Strings,Medium,"Array, String, Design",more than 6 months; all time
+341,https://leetcode.com/problems/flatten-nested-list-iterator/description/,Flatten Nested List Iterator,Medium,"Stack, Tree, Depth-First Search, Design, Queue, Iterator",more than 6 months; all time
+362,https://leetcode.com/problems/design-hit-counter/description/,Design Hit Counter,Medium,"Array, Binary Search, Design, Queue, Data Stream",last 6 months; more than 6 months; all time
+609,https://leetcode.com/problems/find-duplicate-file-in-system/description/,Find Duplicate File in System,Medium,"Array, Hash Table, String",last 30 days; last 3 months; last 6 months; all time
+631,https://leetcode.com/problems/design-excel-sum-formula/description/,Design Excel Sum Formula,Hard,"Array, Hash Table, String, Graph Theory, Design, Topological Sort, Matrix",more than 6 months; all time
+735,https://leetcode.com/problems/asteroid-collision/description/,Asteroid Collision,Medium,"Array, Stack, Simulation",more than 6 months; all time
+751,https://leetcode.com/problems/ip-to-cidr/description/,IP to CIDR,Medium,"String, Bit Manipulation",last 6 months; more than 6 months; all time
+981,https://leetcode.com/problems/time-based-key-value-store/description/,Time Based Key-Value Store,Medium,"Hash Table, String, Binary Search, Design",more than 6 months; all time
+994,https://leetcode.com/problems/rotting-oranges/description/,Rotting Oranges,Medium,"Array, Breadth-First Search, Matrix",last 3 months; last 6 months; more than 6 months; all time
+1146,https://leetcode.com/problems/snapshot-array/description/,Snapshot Array,Medium,"Array, Hash Table, Binary Search, Design, Persistent Data Structure",all time
+1242,https://leetcode.com/problems/web-crawler-multithreaded/description/,Web Crawler Multithreaded,Medium,"Depth-First Search, Breadth-First Search, Concurrency",more than 6 months; all time
+1797,https://leetcode.com/problems/design-authentication-manager/description/,Design Authentication Manager,Medium,"Hash Table, Linked List, Design, Doubly-Linked List",last 3 months; last 6 months; all time
+2373,https://leetcode.com/problems/largest-local-values-in-a-matrix/description/,Largest Local Values in a Matrix,Easy,"Array, Matrix",more than 6 months; all time
+2408,https://leetcode.com/problems/design-sql/description/,Design SQL,Medium,"Array, Hash Table, String, Design",more than 6 months; all time
+2502,https://leetcode.com/problems/design-memory-allocator/description/,Design Memory Allocator,Medium,"Array, Hash Table, Design, Simulation",last 3 months; last 6 months; more than 6 months; all time
+3484,https://leetcode.com/problems/design-spreadsheet/description/,Design Spreadsheet,Medium,"Array, Hash Table, String, Design, Matrix",more than 6 months; all time

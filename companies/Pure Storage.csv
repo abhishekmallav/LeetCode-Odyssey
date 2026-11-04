@@ -1,0 +1,9 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+5,https://leetcode.com/problems/longest-palindromic-substring/description/,Longest Palindromic Substring,Medium,"Two Pointers, String, Dynamic Programming, Manacher",more than 6 months; all time
+380,https://leetcode.com/problems/insert-delete-getrandom-o1/description/,Insert Delete GetRandom O(1),Medium,"Array, Hash Table, Math, Design, Randomized",more than 6 months; all time
+593,https://leetcode.com/problems/valid-square/description/,Valid Square,Medium,"Math, Geometry",last 6 months; more than 6 months; all time
+647,https://leetcode.com/problems/palindromic-substrings/description/,Palindromic Substrings,Medium,"Two Pointers, String, Dynamic Programming",more than 6 months; all time
+704,https://leetcode.com/problems/binary-search/description/,Binary Search,Easy,"Array, Binary Search",more than 6 months; all time
+1206,https://leetcode.com/problems/design-skiplist/description/,Design Skiplist,Hard,"Linked List, Design",more than 6 months; all time
+1668,https://leetcode.com/problems/maximum-repeating-substring/description/,Maximum Repeating Substring,Easy,"String, Dynamic Programming, String Matching",last 6 months; more than 6 months; all time
+2013,https://leetcode.com/problems/detect-squares/description/,Detect Squares,Medium,"Array, Hash Table, Design, Counting, Data Stream",more than 6 months; all time

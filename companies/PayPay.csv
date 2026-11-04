@@ -1,0 +1,11 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+1,https://leetcode.com/problems/two-sum/description/,Two Sum,Easy,"Array, Hash Table",all time
+6,https://leetcode.com/problems/zigzag-conversion/description/,Zigzag Conversion,Medium,String,more than 6 months; all time
+33,https://leetcode.com/problems/search-in-rotated-sorted-array/description/,Search in Rotated Sorted Array,Medium,"Array, Binary Search",all time
+121,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/,Best Time to Buy and Sell Stock,Easy,"Array, Dynamic Programming",all time
+394,https://leetcode.com/problems/decode-string/description/,Decode String,Medium,"String, Stack, Recursion",last 6 months; all time
+852,https://leetcode.com/problems/peak-index-in-a-mountain-array/description/,Peak Index in a Mountain Array,Medium,"Array, Binary Search, Ternary Search",all time
+1584,https://leetcode.com/problems/min-cost-to-connect-all-points/description/,Min Cost to Connect All Points,Medium,"Array, Union-Find, Graph Theory, Minimum Spanning Tree, Prim's Algorithm, Kruskal's Algorithm, Borůvka's Algorithm",more than 6 months; all time
+2264,https://leetcode.com/problems/largest-3-same-digit-number-in-string/description/,Largest 3-Same-Digit Number in String,Easy,String,more than 6 months; all time
+2300,https://leetcode.com/problems/successful-pairs-of-spells-and-potions/description/,Successful Pairs of Spells and Potions,Medium,"Array, Two Pointers, Binary Search, Sorting",more than 6 months; all time
+3161,https://leetcode.com/problems/block-placement-queries/description/,Block Placement Queries,Hard,"Array, Binary Search, Binary Indexed Tree, Segment Tree, Ordered Set",more than 6 months; all time

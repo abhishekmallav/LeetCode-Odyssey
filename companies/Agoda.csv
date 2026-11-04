@@ -1,0 +1,48 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+1,https://leetcode.com/problems/two-sum/description/,Two Sum,Easy,"Array, Hash Table",more than 6 months; all time
+3,https://leetcode.com/problems/longest-substring-without-repeating-characters/description/,Longest Substring Without Repeating Characters,Medium,"Hash Table, String, Sliding Window",last 6 months; more than 6 months; all time
+12,https://leetcode.com/problems/integer-to-roman/description/,Integer to Roman,Medium,"Hash Table, Math, String",more than 6 months; all time
+15,https://leetcode.com/problems/3sum/description/,3Sum,Medium,"Array, Two Pointers, Sorting",more than 6 months; all time
+20,https://leetcode.com/problems/valid-parentheses/description/,Valid Parentheses,Easy,"String, Stack, Bracket Sequences",more than 6 months; all time
+46,https://leetcode.com/problems/permutations/description/,Permutations,Medium,"Array, Backtracking",more than 6 months; all time
+55,https://leetcode.com/problems/jump-game/description/,Jump Game,Medium,"Array, Dynamic Programming, Greedy",last 6 months; more than 6 months; all time
+63,https://leetcode.com/problems/unique-paths-ii/description/,Unique Paths II,Medium,"Array, Dynamic Programming, Matrix",more than 6 months; all time
+70,https://leetcode.com/problems/climbing-stairs/description/,Climbing Stairs,Easy,"Math, Dynamic Programming, Memoization",more than 6 months; all time
+75,https://leetcode.com/problems/sort-colors/description/,Sort Colors,Medium,"Array, Two Pointers, Sorting, Quicksort, Bubble Sort",last 3 months; last 6 months; more than 6 months; all time
+78,https://leetcode.com/problems/subsets/description/,Subsets,Medium,"Array, Backtracking, Bit Manipulation",last 30 days; last 3 months; last 6 months; all time
+120,https://leetcode.com/problems/triangle/description/,Triangle,Medium,"Array, Dynamic Programming",more than 6 months; all time
+121,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/,Best Time to Buy and Sell Stock,Easy,"Array, Dynamic Programming",more than 6 months; all time
+122,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/,Best Time to Buy and Sell Stock II,Medium,"Array, Dynamic Programming, Greedy",more than 6 months; all time
+198,https://leetcode.com/problems/house-robber/description/,House Robber,Medium,"Array, Dynamic Programming",last 3 months; last 6 months; more than 6 months; all time
+202,https://leetcode.com/problems/happy-number/description/,Happy Number,Easy,"Hash Table, Math, Two Pointers, Floyd's Cycle Finding Algorithm",more than 6 months; all time
+239,https://leetcode.com/problems/sliding-window-maximum/description/,Sliding Window Maximum,Hard,"Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue, Range Minimum/Maximum Query",more than 6 months; all time
+300,https://leetcode.com/problems/longest-increasing-subsequence/description/,Longest Increasing Subsequence,Medium,"Array, Binary Search, Dynamic Programming, Longest Increasing Subsequence",more than 6 months; all time
+322,https://leetcode.com/problems/coin-change/description/,Coin Change,Medium,"Array, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack",more than 6 months; all time
+380,https://leetcode.com/problems/insert-delete-getrandom-o1/description/,Insert Delete GetRandom O(1),Medium,"Array, Hash Table, Math, Design, Randomized",more than 6 months; all time
+394,https://leetcode.com/problems/decode-string/description/,Decode String,Medium,"String, Stack, Recursion",more than 6 months; all time
+408,https://leetcode.com/problems/valid-word-abbreviation/description/,Valid Word Abbreviation,Easy,"Two Pointers, String",all time
+412,https://leetcode.com/problems/fizz-buzz/description/,Fizz Buzz,Easy,"Math, String, Simulation",more than 6 months; all time
+496,https://leetcode.com/problems/next-greater-element-i/description/,Next Greater Element I,Easy,"Array, Hash Table, Stack, Monotonic Stack",more than 6 months; all time
+560,https://leetcode.com/problems/subarray-sum-equals-k/description/,Subarray Sum Equals K,Medium,"Array, Hash Table, Prefix Sum",last 6 months; more than 6 months; all time
+697,https://leetcode.com/problems/degree-of-an-array/description/,Degree of an Array,Easy,"Array, Hash Table",last 30 days; last 3 months; last 6 months; all time
+713,https://leetcode.com/problems/subarray-product-less-than-k/description/,Subarray Product Less Than K,Medium,"Array, Binary Search, Sliding Window, Prefix Sum",more than 6 months; all time
+724,https://leetcode.com/problems/find-pivot-index/description/,Find Pivot Index,Easy,"Array, Prefix Sum",more than 6 months; all time
+726,https://leetcode.com/problems/number-of-atoms/description/,Number of Atoms,Hard,"Hash Table, String, Stack, Sorting",last 30 days; last 3 months; last 6 months; more than 6 months; all time
+739,https://leetcode.com/problems/daily-temperatures/description/,Daily Temperatures,Medium,"Array, Stack, Monotonic Stack",last 6 months; more than 6 months; all time
+767,https://leetcode.com/problems/reorganize-string/description/,Reorganize String,Medium,"Hash Table, String, Greedy, Sorting, Heap (Priority Queue), Counting",more than 6 months; all time
+844,https://leetcode.com/problems/backspace-string-compare/description/,Backspace String Compare,Easy,"Two Pointers, String, Stack, Simulation",more than 6 months; all time
+875,https://leetcode.com/problems/koko-eating-bananas/description/,Koko Eating Bananas,Medium,"Array, Binary Search",last 6 months; more than 6 months; all time
+977,https://leetcode.com/problems/squares-of-a-sorted-array/description/,Squares of a Sorted Array,Easy,"Array, Two Pointers, Sorting",more than 6 months; all time
+1011,https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/,Capacity To Ship Packages Within D Days,Medium,"Array, Binary Search",last 6 months; more than 6 months; all time
+1048,https://leetcode.com/problems/longest-string-chain/description/,Longest String Chain,Medium,"Array, Hash Table, Two Pointers, String, Dynamic Programming, Sorting",more than 6 months; all time
+1190,https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/description/,Reverse Substrings Between Each Pair of Parentheses,Medium,"String, Stack, Bracket Sequences",more than 6 months; all time
+1200,https://leetcode.com/problems/minimum-absolute-difference/description/,Minimum Absolute Difference,Easy,"Array, Sorting",last 6 months; more than 6 months; all time
+1209,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/description/,Remove All Adjacent Duplicates in String II,Medium,"String, Stack",last 30 days; last 3 months; last 6 months; more than 6 months; all time
+1283,https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/description/,Find the Smallest Divisor Given a Threshold,Medium,"Array, Binary Search",more than 6 months; all time
+1331,https://leetcode.com/problems/rank-transform-of-an-array/description/,Rank Transform of an Array,Easy,"Array, Hash Table, Sorting",last 6 months; more than 6 months; all time
+1636,https://leetcode.com/problems/sort-array-by-increasing-frequency/description/,Sort Array by Increasing Frequency,Easy,"Array, Hash Table, Sorting",more than 6 months; all time
+1921,https://leetcode.com/problems/eliminate-maximum-number-of-monsters/description/,Eliminate Maximum Number of Monsters,Medium,"Array, Greedy, Sorting",last 6 months; more than 6 months; all time
+2734,https://leetcode.com/problems/lexicographically-smallest-string-after-substring-operation/description/,Lexicographically Smallest String After Substring Operation,Medium,"String, Greedy",more than 6 months; all time
+3178,https://leetcode.com/problems/find-the-child-who-has-the-ball-after-k-seconds/description/,Find the Child Who Has the Ball After K Seconds,Easy,"Math, Simulation",more than 6 months; all time
+3787,https://leetcode.com/problems/find-diameter-endpoints-of-a-tree/description/,Find Diameter Endpoints of a Tree,Medium,"Tree, Breadth-First Search, Graph Theory",all time
+3893,https://leetcode.com/problems/maximum-team-size-with-overlapping-intervals/description/,Maximum Team Size with Overlapping Intervals,Medium,,last 6 months; more than 6 months; all time

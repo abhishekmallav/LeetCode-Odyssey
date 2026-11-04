@@ -1,0 +1,7 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+28,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/,Find the Index of the First Occurrence in a String,Easy,"Two Pointers, String, String Matching, Z Algorithm, Knuth–Morris–Pratt Algorithm, Boyer–Moore String-Search Algorithm",more than 6 months; all time
+38,https://leetcode.com/problems/count-and-say/description/,Count and Say,Medium,String,more than 6 months; all time
+121,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/,Best Time to Buy and Sell Stock,Easy,"Array, Dynamic Programming",more than 6 months; all time
+242,https://leetcode.com/problems/valid-anagram/description/,Valid Anagram,Easy,"Hash Table, String, Sorting",more than 6 months; all time
+443,https://leetcode.com/problems/string-compression/description/,String Compression,Medium,"Two Pointers, String",more than 6 months; all time
+777,https://leetcode.com/problems/swap-adjacent-in-lr-string/description/,Swap Adjacent in LR String,Medium,"Two Pointers, String",more than 6 months; all time

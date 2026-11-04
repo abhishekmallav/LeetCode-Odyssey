@@ -1,0 +1,16 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+23,https://leetcode.com/problems/merge-k-sorted-lists/description/,Merge k Sorted Lists,Hard,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort, Tournament Sort",more than 6 months; all time
+68,https://leetcode.com/problems/text-justification/description/,Text Justification,Hard,"Array, String, Simulation",last 6 months; all time
+76,https://leetcode.com/problems/minimum-window-substring/description/,Minimum Window Substring,Hard,"Hash Table, String, Sliding Window",more than 6 months; all time
+127,https://leetcode.com/problems/word-ladder/description/,Word Ladder,Hard,"Hash Table, String, Breadth-First Search, Bidirectional Search",more than 6 months; all time
+146,https://leetcode.com/problems/lru-cache/description/,LRU Cache,Medium,"Hash Table, Linked List, Design, Doubly-Linked List",more than 6 months; all time
+200,https://leetcode.com/problems/number-of-islands/description/,Number of Islands,Medium,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix",more than 6 months; all time
+347,https://leetcode.com/problems/top-k-frequent-elements/description/,Top K Frequent Elements,Medium,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect",last 6 months; more than 6 months; all time
+380,https://leetcode.com/problems/insert-delete-getrandom-o1/description/,Insert Delete GetRandom O(1),Medium,"Array, Hash Table, Math, Design, Randomized",last 6 months; more than 6 months; all time
+697,https://leetcode.com/problems/degree-of-an-array/description/,Degree of an Array,Easy,"Array, Hash Table",more than 6 months; all time
+735,https://leetcode.com/problems/asteroid-collision/description/,Asteroid Collision,Medium,"Array, Stack, Simulation",more than 6 months; all time
+845,https://leetcode.com/problems/longest-mountain-in-array/description/,Longest Mountain in Array,Medium,"Array, Two Pointers, Dynamic Programming, Enumeration",more than 6 months; all time
+1229,https://leetcode.com/problems/meeting-scheduler/description/,Meeting Scheduler,Medium,"Array, Two Pointers, Sorting",more than 6 months; all time
+1347,https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/description/,Minimum Number of Steps to Make Two Strings Anagram,Medium,"Hash Table, String, Counting",more than 6 months; all time
+2472,https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/description/,Maximum Number of Non-overlapping Palindrome Substrings,Hard,"Two Pointers, String, Dynamic Programming, Greedy",more than 6 months; all time
+2861,https://leetcode.com/problems/maximum-number-of-alloys/description/,Maximum Number of Alloys,Medium,"Array, Binary Search",last 6 months; all time

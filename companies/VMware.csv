@@ -1,0 +1,9 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+4,https://leetcode.com/problems/median-of-two-sorted-arrays/description/,Median of Two Sorted Arrays,Hard,"Array, Binary Search, Divide and Conquer",more than 6 months; all time
+142,https://leetcode.com/problems/linked-list-cycle-ii/description/,Linked List Cycle II,Medium,"Hash Table, Linked List, Two Pointers, Floyd's Cycle Finding Algorithm",more than 6 months; all time
+146,https://leetcode.com/problems/lru-cache/description/,LRU Cache,Medium,"Hash Table, Linked List, Design, Doubly-Linked List",more than 6 months; all time
+875,https://leetcode.com/problems/koko-eating-bananas/description/,Koko Eating Bananas,Medium,"Array, Binary Search",more than 6 months; all time
+981,https://leetcode.com/problems/time-based-key-value-store/description/,Time Based Key-Value Store,Medium,"Hash Table, String, Binary Search, Design",more than 6 months; all time
+1328,https://leetcode.com/problems/break-a-palindrome/description/,Break a Palindrome,Medium,"String, Greedy",more than 6 months; all time
+2217,https://leetcode.com/problems/find-palindrome-with-fixed-length/description/,Find Palindrome With Fixed Length,Medium,"Array, Math",more than 6 months; all time
+2263,https://leetcode.com/problems/make-array-non-decreasing-or-non-increasing/description/,Make Array Non-decreasing or Non-increasing,Hard,"Array, Dynamic Programming, Greedy, Heap (Priority Queue)",more than 6 months; all time

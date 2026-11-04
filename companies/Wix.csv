@@ -1,0 +1,57 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+1,https://leetcode.com/problems/two-sum/description/,Two Sum,Easy,"Array, Hash Table",more than 6 months; all time
+2,https://leetcode.com/problems/add-two-numbers/description/,Add Two Numbers,Medium,"Linked List, Math, Recursion",more than 6 months; all time
+4,https://leetcode.com/problems/median-of-two-sorted-arrays/description/,Median of Two Sorted Arrays,Hard,"Array, Binary Search, Divide and Conquer",more than 6 months; all time
+5,https://leetcode.com/problems/longest-palindromic-substring/description/,Longest Palindromic Substring,Medium,"Two Pointers, String, Dynamic Programming, Manacher",more than 6 months; all time
+11,https://leetcode.com/problems/container-with-most-water/description/,Container With Most Water,Medium,"Array, Two Pointers, Greedy",more than 6 months; all time
+12,https://leetcode.com/problems/integer-to-roman/description/,Integer to Roman,Medium,"Hash Table, Math, String",more than 6 months; all time
+13,https://leetcode.com/problems/roman-to-integer/description/,Roman to Integer,Easy,"Hash Table, Math, String",more than 6 months; all time
+15,https://leetcode.com/problems/3sum/description/,3Sum,Medium,"Array, Two Pointers, Sorting",more than 6 months; all time
+20,https://leetcode.com/problems/valid-parentheses/description/,Valid Parentheses,Easy,"String, Stack, Bracket Sequences",more than 6 months; all time
+21,https://leetcode.com/problems/merge-two-sorted-lists/description/,Merge Two Sorted Lists,Easy,"Linked List, Recursion",more than 6 months; all time
+38,https://leetcode.com/problems/count-and-say/description/,Count and Say,Medium,String,more than 6 months; all time
+42,https://leetcode.com/problems/trapping-rain-water/description/,Trapping Rain Water,Hard,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack",more than 6 months; all time
+50,https://leetcode.com/problems/powx-n/description/,"Pow(x, n)",Medium,"Math, Recursion",more than 6 months; all time
+53,https://leetcode.com/problems/maximum-subarray/description/,Maximum Subarray,Medium,"Array, Divide and Conquer, Dynamic Programming",more than 6 months; all time
+56,https://leetcode.com/problems/merge-intervals/description/,Merge Intervals,Medium,"Array, Sorting, Quicksort",more than 6 months; all time
+78,https://leetcode.com/problems/subsets/description/,Subsets,Medium,"Array, Backtracking, Bit Manipulation",more than 6 months; all time
+79,https://leetcode.com/problems/word-search/description/,Word Search,Medium,"Array, String, Backtracking, Depth-First Search, Matrix",more than 6 months; all time
+98,https://leetcode.com/problems/validate-binary-search-tree/description/,Validate Binary Search Tree,Medium,"Tree, Depth-First Search, Binary Search Tree, Binary Tree",more than 6 months; all time
+124,https://leetcode.com/problems/binary-tree-maximum-path-sum/description/,Binary Tree Maximum Path Sum,Hard,"Dynamic Programming, Tree, Depth-First Search, Binary Tree, DP on Trees",more than 6 months; all time
+133,https://leetcode.com/problems/clone-graph/description/,Clone Graph,Medium,"Hash Table, Depth-First Search, Breadth-First Search, Graph Theory",more than 6 months; all time
+138,https://leetcode.com/problems/copy-list-with-random-pointer/description/,Copy List with Random Pointer,Medium,"Hash Table, Linked List",more than 6 months; all time
+162,https://leetcode.com/problems/find-peak-element/description/,Find Peak Element,Medium,"Array, Binary Search",more than 6 months; all time
+181,https://leetcode.com/problems/employees-earning-more-than-their-managers/description/,Employees Earning More Than Their Managers,Easy,Database,more than 6 months; all time
+199,https://leetcode.com/problems/binary-tree-right-side-view/description/,Binary Tree Right Side View,Medium,"Tree, Depth-First Search, Breadth-First Search, Binary Tree",more than 6 months; all time
+200,https://leetcode.com/problems/number-of-islands/description/,Number of Islands,Medium,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix",more than 6 months; all time
+212,https://leetcode.com/problems/word-search-ii/description/,Word Search II,Hard,"Array, String, Backtracking, Trie, Matrix",more than 6 months; all time
+236,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/,Lowest Common Ancestor of a Binary Tree,Medium,"Tree, Depth-First Search, Binary Tree, Binary Lifting, Lowest Common Ancestor",more than 6 months; all time
+243,https://leetcode.com/problems/shortest-word-distance/description/,Shortest Word Distance,Easy,"Array, String",more than 6 months; all time
+249,https://leetcode.com/problems/group-shifted-strings/description/,Group Shifted Strings,Medium,"Array, Hash Table, String",more than 6 months; all time
+269,https://leetcode.com/problems/alien-dictionary/description/,Alien Dictionary,Hard,"Array, String, Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort, Directed Acyclic Graph",more than 6 months; all time
+283,https://leetcode.com/problems/move-zeroes/description/,Move Zeroes,Easy,"Array, Two Pointers",more than 6 months; all time
+317,https://leetcode.com/problems/shortest-distance-from-all-buildings/description/,Shortest Distance from All Buildings,Hard,"Array, Breadth-First Search, Matrix",more than 6 months; all time
+336,https://leetcode.com/problems/palindrome-pairs/description/,Palindrome Pairs,Hard,"Array, Hash Table, String, Trie, Hash Function",more than 6 months; all time
+342,https://leetcode.com/problems/power-of-four/description/,Power of Four,Easy,"Math, Bit Manipulation, Recursion",more than 6 months; all time
+349,https://leetcode.com/problems/intersection-of-two-arrays/description/,Intersection of Two Arrays,Easy,"Array, Hash Table, Two Pointers, Binary Search, Sorting",more than 6 months; all time
+392,https://leetcode.com/problems/is-subsequence/description/,Is Subsequence,Easy,"Two Pointers, String, Dynamic Programming",more than 6 months; all time
+394,https://leetcode.com/problems/decode-string/description/,Decode String,Medium,"String, Stack, Recursion",more than 6 months; all time
+420,https://leetcode.com/problems/strong-password-checker/description/,Strong Password Checker,Hard,"String, Greedy, Heap (Priority Queue)",more than 6 months; all time
+423,https://leetcode.com/problems/reconstruct-original-digits-from-english/description/,Reconstruct Original Digits from English,Medium,"Hash Table, Math, String",more than 6 months; all time
+509,https://leetcode.com/problems/fibonacci-number/description/,Fibonacci Number,Easy,"Math, Dynamic Programming, Recursion, Memoization",more than 6 months; all time
+543,https://leetcode.com/problems/diameter-of-binary-tree/description/,Diameter of Binary Tree,Easy,"Tree, Depth-First Search, Binary Tree, DP on Trees",more than 6 months; all time
+705,https://leetcode.com/problems/design-hashset/description/,Design HashSet,Easy,"Array, Hash Table, Linked List, Design, Hash Function",more than 6 months; all time
+783,https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/,Minimum Distance Between BST Nodes,Easy,"Tree, Depth-First Search, Breadth-First Search, Binary Search Tree, Binary Tree",more than 6 months; all time
+789,https://leetcode.com/problems/escape-the-ghosts/description/,Escape The Ghosts,Medium,"Array, Math",more than 6 months; all time
+804,https://leetcode.com/problems/unique-morse-code-words/description/,Unique Morse Code Words,Easy,"Array, Hash Table, String",more than 6 months; all time
+811,https://leetcode.com/problems/subdomain-visit-count/description/,Subdomain Visit Count,Medium,"Array, Hash Table, String, Counting",more than 6 months; all time
+863,https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/description/,All Nodes Distance K in Binary Tree,Medium,"Hash Table, Tree, Depth-First Search, Breadth-First Search, Binary Tree",more than 6 months; all time
+929,https://leetcode.com/problems/unique-email-addresses/description/,Unique Email Addresses,Easy,"Array, Hash Table, String",more than 6 months; all time
+953,https://leetcode.com/problems/verifying-an-alien-dictionary/description/,Verifying an Alien Dictionary,Easy,"Array, Hash Table, String",more than 6 months; all time
+973,https://leetcode.com/problems/k-closest-points-to-origin/description/,K Closest Points to Origin,Medium,"Array, Math, Divide and Conquer, Geometry, Sorting, Heap (Priority Queue), Quickselect, K-D Tree",more than 6 months; all time
+994,https://leetcode.com/problems/rotting-oranges/description/,Rotting Oranges,Medium,"Array, Breadth-First Search, Matrix",more than 6 months; all time
+1048,https://leetcode.com/problems/longest-string-chain/description/,Longest String Chain,Medium,"Array, Hash Table, Two Pointers, String, Dynamic Programming, Sorting",more than 6 months; all time
+1162,https://leetcode.com/problems/as-far-from-land-as-possible/description/,As Far from Land as Possible,Medium,"Array, Dynamic Programming, Breadth-First Search, Matrix",more than 6 months; all time
+1169,https://leetcode.com/problems/invalid-transactions/description/,Invalid Transactions,Medium,"Array, Hash Table, String, Sorting",more than 6 months; all time
+1268,https://leetcode.com/problems/search-suggestions-system/description/,Search Suggestions System,Medium,"Array, String, Binary Search, Trie, Sorting, Heap (Priority Queue)",more than 6 months; all time
+1650,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/description/,Lowest Common Ancestor of a Binary Tree III,Medium,"Hash Table, Two Pointers, Tree, Binary Tree, Binary Lifting, Lowest Common Ancestor",more than 6 months; all time

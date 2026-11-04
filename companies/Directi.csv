@@ -1,0 +1,9 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+1524,https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/description/,Number of Sub-arrays With Odd Sum,Medium,"Array, Math, Dynamic Programming, Prefix Sum",more than 6 months; all time
+1535,https://leetcode.com/problems/find-the-winner-of-an-array-game/description/,Find the Winner of an Array Game,Medium,"Array, Simulation",more than 6 months; all time
+1542,https://leetcode.com/problems/find-longest-awesome-substring/description/,Find Longest Awesome Substring,Hard,"Hash Table, String, Bit Manipulation",more than 6 months; all time
+1584,https://leetcode.com/problems/min-cost-to-connect-all-points/description/,Min Cost to Connect All Points,Medium,"Array, Union-Find, Graph Theory, Minimum Spanning Tree, Prim's Algorithm, Kruskal's Algorithm, Borůvka's Algorithm",more than 6 months; all time
+1727,https://leetcode.com/problems/largest-submatrix-with-rearrangements/description/,Largest Submatrix With Rearrangements,Medium,"Array, Greedy, Sorting, Matrix",more than 6 months; all time
+2473,https://leetcode.com/problems/minimum-cost-to-buy-apples/description/,Minimum Cost to Buy Apples,Medium,"Array, Graph Theory, Heap (Priority Queue), Shortest Path",more than 6 months; all time
+2479,https://leetcode.com/problems/maximum-xor-of-two-non-overlapping-subtrees/description/,Maximum XOR of Two Non-Overlapping Subtrees,Hard,"Tree, Depth-First Search, Graph Theory, Trie",more than 6 months; all time
+2538,https://leetcode.com/problems/difference-between-maximum-and-minimum-price-sum/description/,Difference Between Maximum and Minimum Price Sum,Hard,"Array, Dynamic Programming, Tree, Depth-First Search, DP on Trees",more than 6 months; all time

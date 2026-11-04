@@ -1,0 +1,11 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+3,https://leetcode.com/problems/longest-substring-without-repeating-characters/description/,Longest Substring Without Repeating Characters,Medium,"Hash Table, String, Sliding Window",more than 6 months; all time
+11,https://leetcode.com/problems/container-with-most-water/description/,Container With Most Water,Medium,"Array, Two Pointers, Greedy",all time
+14,https://leetcode.com/problems/longest-common-prefix/description/,Longest Common Prefix,Easy,"Array, String, Trie",more than 6 months; all time
+20,https://leetcode.com/problems/valid-parentheses/description/,Valid Parentheses,Easy,"String, Stack, Bracket Sequences",all time
+42,https://leetcode.com/problems/trapping-rain-water/description/,Trapping Rain Water,Hard,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack",more than 6 months; all time
+49,https://leetcode.com/problems/group-anagrams/description/,Group Anagrams,Medium,"Array, Hash Table, String, Sorting",more than 6 months; all time
+424,https://leetcode.com/problems/longest-repeating-character-replacement/description/,Longest Repeating Character Replacement,Medium,"Hash Table, String, Sliding Window",more than 6 months; all time
+891,https://leetcode.com/problems/sum-of-subsequence-widths/description/,Sum of Subsequence Widths,Hard,"Array, Math, Sorting",all time
+1824,https://leetcode.com/problems/minimum-sideway-jumps/description/,Minimum Sideway Jumps,Medium,"Array, Dynamic Programming, Greedy",more than 6 months; all time
+2384,https://leetcode.com/problems/largest-palindromic-number/description/,Largest Palindromic Number,Medium,"Hash Table, String, Greedy, Counting",last 6 months; all time

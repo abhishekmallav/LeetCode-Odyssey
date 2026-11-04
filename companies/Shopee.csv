@@ -1,0 +1,10 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+5,https://leetcode.com/problems/longest-palindromic-substring/description/,Longest Palindromic Substring,Medium,"Two Pointers, String, Dynamic Programming, Manacher",more than 6 months; all time
+55,https://leetcode.com/problems/jump-game/description/,Jump Game,Medium,"Array, Dynamic Programming, Greedy",more than 6 months; all time
+79,https://leetcode.com/problems/word-search/description/,Word Search,Medium,"Array, String, Backtracking, Depth-First Search, Matrix",all time
+125,https://leetcode.com/problems/valid-palindrome/description/,Valid Palindrome,Easy,"Two Pointers, String",more than 6 months; all time
+146,https://leetcode.com/problems/lru-cache/description/,LRU Cache,Medium,"Hash Table, Linked List, Design, Doubly-Linked List",more than 6 months; all time
+449,https://leetcode.com/problems/serialize-and-deserialize-bst/description/,Serialize and Deserialize BST,Medium,"String, Tree, Depth-First Search, Breadth-First Search, Design, Binary Search Tree, Binary Tree",more than 6 months; all time
+528,https://leetcode.com/problems/random-pick-with-weight/description/,Random Pick with Weight,Medium,"Array, Math, Binary Search, Prefix Sum, Randomized",more than 6 months; all time
+815,https://leetcode.com/problems/bus-routes/description/,Bus Routes,Hard,"Array, Hash Table, Breadth-First Search",all time
+1885,https://leetcode.com/problems/count-pairs-in-two-arrays/description/,Count Pairs in Two Arrays,Medium,"Array, Two Pointers, Binary Search, Sorting",more than 6 months; all time

@@ -1,0 +1,15 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+146,https://leetcode.com/problems/lru-cache/description/,LRU Cache,Medium,"Hash Table, Linked List, Design, Doubly-Linked List",last 6 months; more than 6 months; all time
+200,https://leetcode.com/problems/number-of-islands/description/,Number of Islands,Medium,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix",all time
+210,https://leetcode.com/problems/course-schedule-ii/description/,Course Schedule II,Medium,"Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort",last 3 months; last 6 months; more than 6 months; all time
+212,https://leetcode.com/problems/word-search-ii/description/,Word Search II,Hard,"Array, String, Backtracking, Trie, Matrix",more than 6 months; all time
+239,https://leetcode.com/problems/sliding-window-maximum/description/,Sliding Window Maximum,Hard,"Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue, Range Minimum/Maximum Query",more than 6 months; all time
+253,https://leetcode.com/problems/meeting-rooms-ii/description/,Meeting Rooms II,Medium,"Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum",more than 6 months; all time
+305,https://leetcode.com/problems/number-of-islands-ii/description/,Number of Islands II,Hard,"Array, Hash Table, Union-Find",more than 6 months; all time
+341,https://leetcode.com/problems/flatten-nested-list-iterator/description/,Flatten Nested List Iterator,Medium,"Stack, Tree, Depth-First Search, Design, Queue, Iterator",more than 6 months; all time
+488,https://leetcode.com/problems/zuma-game/description/,Zuma Game,Hard,"String, Dynamic Programming, Stack, Breadth-First Search, Memoization",more than 6 months; all time
+543,https://leetcode.com/problems/diameter-of-binary-tree/description/,Diameter of Binary Tree,Easy,"Tree, Depth-First Search, Binary Tree, DP on Trees",more than 6 months; all time
+694,https://leetcode.com/problems/number-of-distinct-islands/description/,Number of Distinct Islands,Medium,"Array, Hash Table, Depth-First Search, Breadth-First Search, Union-Find, Sorting, Matrix, Hash Function",more than 6 months; all time
+1146,https://leetcode.com/problems/snapshot-array/description/,Snapshot Array,Medium,"Array, Hash Table, Binary Search, Design, Persistent Data Structure",last 6 months; all time
+1344,https://leetcode.com/problems/angle-between-hands-of-a-clock/description/,Angle Between Hands of a Clock,Medium,Math,all time
+1610,https://leetcode.com/problems/maximum-number-of-visible-points/description/,Maximum Number of Visible Points,Hard,"Array, Math, Geometry, Sliding Window, Sorting",last 6 months; more than 6 months; all time

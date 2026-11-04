@@ -1,0 +1,6 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+1,https://leetcode.com/problems/two-sum/description/,Two Sum,Easy,"Array, Hash Table",more than 6 months; all time
+460,https://leetcode.com/problems/lfu-cache/description/,LFU Cache,Hard,"Hash Table, Linked List, Design, Doubly-Linked List",more than 6 months; all time
+862,https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/description/,Shortest Subarray with Sum at Least K,Hard,"Array, Binary Search, Queue, Sliding Window, Heap (Priority Queue), Prefix Sum, Monotonic Queue",last 3 months; last 6 months; all time
+1277,https://leetcode.com/problems/count-square-submatrices-with-all-ones/description/,Count Square Submatrices with All Ones,Medium,"Array, Dynamic Programming, Matrix",last 3 months; last 6 months; all time
+2542,https://leetcode.com/problems/maximum-subsequence-score/description/,Maximum Subsequence Score,Medium,"Array, Greedy, Sorting, Heap (Priority Queue)",last 3 months; last 6 months; all time

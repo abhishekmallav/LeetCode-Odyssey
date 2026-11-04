@@ -1,0 +1,40 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+1,https://leetcode.com/problems/two-sum/description/,Two Sum,Easy,"Array, Hash Table",more than 6 months; all time
+3,https://leetcode.com/problems/longest-substring-without-repeating-characters/description/,Longest Substring Without Repeating Characters,Medium,"Hash Table, String, Sliding Window",more than 6 months; all time
+4,https://leetcode.com/problems/median-of-two-sorted-arrays/description/,Median of Two Sorted Arrays,Hard,"Array, Binary Search, Divide and Conquer",more than 6 months; all time
+5,https://leetcode.com/problems/longest-palindromic-substring/description/,Longest Palindromic Substring,Medium,"Two Pointers, String, Dynamic Programming, Manacher",more than 6 months; all time
+14,https://leetcode.com/problems/longest-common-prefix/description/,Longest Common Prefix,Easy,"Array, String, Trie",more than 6 months; all time
+15,https://leetcode.com/problems/3sum/description/,3Sum,Medium,"Array, Two Pointers, Sorting",more than 6 months; all time
+20,https://leetcode.com/problems/valid-parentheses/description/,Valid Parentheses,Easy,"String, Stack, Bracket Sequences",more than 6 months; all time
+34,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/,Find First and Last Position of Element in Sorted Array,Medium,"Array, Binary Search",more than 6 months; all time
+49,https://leetcode.com/problems/group-anagrams/description/,Group Anagrams,Medium,"Array, Hash Table, String, Sorting",more than 6 months; all time
+53,https://leetcode.com/problems/maximum-subarray/description/,Maximum Subarray,Medium,"Array, Divide and Conquer, Dynamic Programming",more than 6 months; all time
+55,https://leetcode.com/problems/jump-game/description/,Jump Game,Medium,"Array, Dynamic Programming, Greedy",more than 6 months; all time
+56,https://leetcode.com/problems/merge-intervals/description/,Merge Intervals,Medium,"Array, Sorting, Quicksort",more than 6 months; all time
+60,https://leetcode.com/problems/permutation-sequence/description/,Permutation Sequence,Hard,"Math, Recursion",all time
+121,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/,Best Time to Buy and Sell Stock,Easy,"Array, Dynamic Programming",more than 6 months; all time
+200,https://leetcode.com/problems/number-of-islands/description/,Number of Islands,Medium,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix",more than 6 months; all time
+215,https://leetcode.com/problems/kth-largest-element-in-an-array/description/,Kth Largest Element in an Array,Medium,"Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect",more than 6 months; all time
+238,https://leetcode.com/problems/product-of-array-except-self/description/,Product of Array Except Self,Medium,"Array, Prefix Sum",more than 6 months; all time
+264,https://leetcode.com/problems/ugly-number-ii/description/,Ugly Number II,Medium,"Hash Table, Math, Dynamic Programming, Heap (Priority Queue)",last 6 months; all time
+468,https://leetcode.com/problems/validate-ip-address/description/,Validate IP Address,Medium,String,last 6 months; more than 6 months; all time
+665,https://leetcode.com/problems/non-decreasing-array/description/,Non-decreasing Array,Medium,Array,more than 6 months; all time
+682,https://leetcode.com/problems/baseball-game/description/,Baseball Game,Easy,"Array, Stack, Simulation",more than 6 months; all time
+697,https://leetcode.com/problems/degree-of-an-array/description/,Degree of an Array,Easy,"Array, Hash Table",more than 6 months; all time
+818,https://leetcode.com/problems/race-car/description/,Race Car,Hard,"Dynamic Programming, Heuristic Search, A* Search",more than 6 months; all time
+875,https://leetcode.com/problems/koko-eating-bananas/description/,Koko Eating Bananas,Medium,"Array, Binary Search",more than 6 months; all time
+983,https://leetcode.com/problems/minimum-cost-for-tickets/description/,Minimum Cost For Tickets,Medium,"Array, Dynamic Programming",more than 6 months; all time
+997,https://leetcode.com/problems/find-the-town-judge/description/,Find the Town Judge,Easy,"Array, Hash Table, Graph Theory",more than 6 months; all time
+1013,https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/description/,Partition Array Into Three Parts With Equal Sum,Easy,"Array, Greedy",more than 6 months; all time
+1027,https://leetcode.com/problems/longest-arithmetic-subsequence/description/,Longest Arithmetic Subsequence,Medium,"Array, Hash Table, Binary Search, Dynamic Programming",last 6 months; more than 6 months; all time
+1668,https://leetcode.com/problems/maximum-repeating-substring/description/,Maximum Repeating Substring,Easy,"String, Dynamic Programming, String Matching",more than 6 months; all time
+1703,https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones/description/,Minimum Adjacent Swaps for K Consecutive Ones,Hard,"Array, Greedy, Sliding Window, Prefix Sum",last 6 months; more than 6 months; all time
+1925,https://leetcode.com/problems/count-square-sum-triples/description/,Count Square Sum Triples,Easy,"Math, Enumeration",more than 6 months; all time
+2261,https://leetcode.com/problems/k-divisible-elements-subarrays/description/,K Divisible Elements Subarrays,Medium,"Array, Hash Table, Trie, Rolling Hash, Hash Function, Enumeration",more than 6 months; all time
+3091,https://leetcode.com/problems/apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k/description/,Apply Operations to Make Sum of Array Greater Than or Equal to k,Medium,"Math, Greedy, Enumeration",more than 6 months; all time
+3108,https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/description/,Minimum Cost Walk in Weighted Graph,Hard,"Array, Bit Manipulation, Union-Find, Graph Theory",more than 6 months; all time
+3122,https://leetcode.com/problems/minimum-number-of-operations-to-satisfy-conditions/description/,Minimum Number of Operations to Satisfy Conditions,Medium,"Array, Dynamic Programming, Matrix",more than 6 months; all time
+3137,https://leetcode.com/problems/minimum-number-of-operations-to-make-word-k-periodic/description/,Minimum Number of Operations to Make Word K-Periodic,Medium,"Hash Table, String, Counting",more than 6 months; all time
+3138,https://leetcode.com/problems/minimum-length-of-anagram-concatenation/description/,Minimum Length of Anagram Concatenation,Medium,"Hash Table, String, Counting",more than 6 months; all time
+3153,https://leetcode.com/problems/sum-of-digit-differences-of-all-pairs/description/,Sum of Digit Differences of All Pairs,Medium,"Array, Hash Table, Math, Counting",more than 6 months; all time
+4007,https://leetcode.com/problems/widest-possible-fence/description/,Widest Possible Fence,Hard,"Array, Hash Table, Counting, Enumeration",all time

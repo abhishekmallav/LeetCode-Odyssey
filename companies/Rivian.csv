@@ -1,0 +1,10 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+23,https://leetcode.com/problems/merge-k-sorted-lists/description/,Merge k Sorted Lists,Hard,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort, Tournament Sort",more than 6 months; all time
+146,https://leetcode.com/problems/lru-cache/description/,LRU Cache,Medium,"Hash Table, Linked List, Design, Doubly-Linked List",more than 6 months; all time
+200,https://leetcode.com/problems/number-of-islands/description/,Number of Islands,Medium,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix",last 6 months; more than 6 months; all time
+227,https://leetcode.com/problems/basic-calculator-ii/description/,Basic Calculator II,Medium,"Math, String, Stack",more than 6 months; all time
+443,https://leetcode.com/problems/string-compression/description/,String Compression,Medium,"Two Pointers, String",more than 6 months; all time
+697,https://leetcode.com/problems/degree-of-an-array/description/,Degree of an Array,Easy,"Array, Hash Table",more than 6 months; all time
+796,https://leetcode.com/problems/rotate-string/description/,Rotate String,Easy,"String, String Matching",more than 6 months; all time
+807,https://leetcode.com/problems/max-increase-to-keep-city-skyline/description/,Max Increase to Keep City Skyline,Medium,"Array, Greedy, Matrix",more than 6 months; all time
+2625,https://leetcode.com/problems/flatten-deeply-nested-array/description/,Flatten Deeply Nested Array,Medium,,more than 6 months; all time

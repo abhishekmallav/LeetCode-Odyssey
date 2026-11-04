@@ -1,0 +1,8 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+346,https://leetcode.com/problems/moving-average-from-data-stream/description/,Moving Average from Data Stream,Easy,"Array, Design, Queue, Data Stream",all time
+453,https://leetcode.com/problems/minimum-moves-to-equal-array-elements/description/,Minimum Moves to Equal Array Elements,Medium,"Array, Math",more than 6 months; all time
+563,https://leetcode.com/problems/binary-tree-tilt/description/,Binary Tree Tilt,Easy,"Tree, Depth-First Search, Binary Tree, DP on Trees",more than 6 months; all time
+985,https://leetcode.com/problems/sum-of-even-numbers-after-queries/description/,Sum of Even Numbers After Queries,Medium,"Array, Simulation",more than 6 months; all time
+2133,https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/description/,Check if Every Row and Column Contains All Numbers,Easy,"Array, Hash Table, Matrix",more than 6 months; all time
+2225,https://leetcode.com/problems/find-players-with-zero-or-one-losses/description/,Find Players With Zero or One Losses,Medium,"Array, Hash Table, Sorting, Counting",more than 6 months; all time
+2547,https://leetcode.com/problems/minimum-cost-to-split-an-array/description/,Minimum Cost to Split an Array,Hard,"Array, Hash Table, Dynamic Programming, Counting",more than 6 months; all time

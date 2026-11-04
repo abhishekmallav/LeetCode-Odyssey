@@ -1,0 +1,11 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+49,https://leetcode.com/problems/group-anagrams/description/,Group Anagrams,Medium,"Array, Hash Table, String, Sorting",more than 6 months; all time
+88,https://leetcode.com/problems/merge-sorted-array/description/,Merge Sorted Array,Easy,"Array, Two Pointers, Sorting",more than 6 months; all time
+93,https://leetcode.com/problems/restore-ip-addresses/description/,Restore IP Addresses,Medium,"String, Backtracking",more than 6 months; all time
+227,https://leetcode.com/problems/basic-calculator-ii/description/,Basic Calculator II,Medium,"Math, String, Stack",all time
+240,https://leetcode.com/problems/search-a-2d-matrix-ii/description/,Search a 2D Matrix II,Medium,"Array, Binary Search, Divide and Conquer, Matrix",more than 6 months; all time
+525,https://leetcode.com/problems/contiguous-array/description/,Contiguous Array,Medium,"Array, Hash Table, Prefix Sum",more than 6 months; all time
+628,https://leetcode.com/problems/maximum-product-of-three-numbers/description/,Maximum Product of Three Numbers,Easy,"Array, Math, Sorting",more than 6 months; all time
+678,https://leetcode.com/problems/valid-parenthesis-string/description/,Valid Parenthesis String,Medium,"String, Dynamic Programming, Stack, Greedy, Bracket Sequences",last 6 months; more than 6 months; all time
+772,https://leetcode.com/problems/basic-calculator-iii/description/,Basic Calculator III,Hard,"Math, String, Stack, Recursion",all time
+1004,https://leetcode.com/problems/max-consecutive-ones-iii/description/,Max Consecutive Ones III,Medium,"Array, Binary Search, Sliding Window, Prefix Sum",more than 6 months; all time

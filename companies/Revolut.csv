@@ -1,0 +1,13 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+14,https://leetcode.com/problems/longest-common-prefix/description/,Longest Common Prefix,Easy,"Array, String, Trie",more than 6 months; all time
+92,https://leetcode.com/problems/reverse-linked-list-ii/description/,Reverse Linked List II,Medium,Linked List,more than 6 months; all time
+257,https://leetcode.com/problems/binary-tree-paths/description/,Binary Tree Paths,Easy,"String, Backtracking, Tree, Depth-First Search, Binary Tree",more than 6 months; all time
+268,https://leetcode.com/problems/missing-number/description/,Missing Number,Easy,"Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting",more than 6 months; all time
+279,https://leetcode.com/problems/perfect-squares/description/,Perfect Squares,Medium,"Math, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack",more than 6 months; all time
+300,https://leetcode.com/problems/longest-increasing-subsequence/description/,Longest Increasing Subsequence,Medium,"Array, Binary Search, Dynamic Programming, Longest Increasing Subsequence",last 6 months; all time
+438,https://leetcode.com/problems/find-all-anagrams-in-a-string/description/,Find All Anagrams in a String,Medium,"Hash Table, String, Sliding Window",more than 6 months; all time
+528,https://leetcode.com/problems/random-pick-with-weight/description/,Random Pick with Weight,Medium,"Array, Math, Binary Search, Prefix Sum, Randomized",more than 6 months; all time
+535,https://leetcode.com/problems/encode-and-decode-tinyurl/description/,Encode and Decode TinyURL,Medium,"Hash Table, String, Design, Hash Function",more than 6 months; all time
+713,https://leetcode.com/problems/subarray-product-less-than-k/description/,Subarray Product Less Than K,Medium,"Array, Binary Search, Sliding Window, Prefix Sum",last 6 months; all time
+1321,https://leetcode.com/problems/restaurant-growth/description/,Restaurant Growth,Medium,Database,last 6 months; more than 6 months; all time
+2043,https://leetcode.com/problems/simple-bank-system/description/,Simple Bank System,Medium,"Array, Hash Table, Design, Simulation",more than 6 months; all time

@@ -1,0 +1,16 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+41,https://leetcode.com/problems/first-missing-positive/description/,First Missing Positive,Hard,"Array, Hash Table",more than 6 months; all time
+56,https://leetcode.com/problems/merge-intervals/description/,Merge Intervals,Medium,"Array, Sorting, Quicksort",last 30 days; last 3 months; last 6 months; all time
+64,https://leetcode.com/problems/minimum-path-sum/description/,Minimum Path Sum,Medium,"Array, Dynamic Programming, Matrix",more than 6 months; all time
+146,https://leetcode.com/problems/lru-cache/description/,LRU Cache,Medium,"Hash Table, Linked List, Design, Doubly-Linked List",more than 6 months; all time
+200,https://leetcode.com/problems/number-of-islands/description/,Number of Islands,Medium,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix",all time
+208,https://leetcode.com/problems/implement-trie-prefix-tree/description/,Implement Trie (Prefix Tree),Medium,"Hash Table, String, Design, Trie",more than 6 months; all time
+297,https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/,Serialize and Deserialize Binary Tree,Hard,"String, Tree, Depth-First Search, Breadth-First Search, Design, Binary Tree",more than 6 months; all time
+323,https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/description/,Number of Connected Components in an Undirected Graph,Medium,"Depth-First Search, Breadth-First Search, Union-Find, Graph Theory",more than 6 months; all time
+689,https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/description/,Maximum Sum of 3 Non-Overlapping Subarrays,Hard,"Array, Dynamic Programming, Sliding Window, Prefix Sum",last 6 months; more than 6 months; all time
+843,https://leetcode.com/problems/guess-the-word/description/,Guess the Word,Hard,"Array, Math, String, Minimax, Interactive, Game Theory",more than 6 months; all time
+1404,https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/description/,Number of Steps to Reduce a Number in Binary Representation to One,Medium,"String, Bit Manipulation, Simulation",last 6 months; more than 6 months; all time
+1570,https://leetcode.com/problems/dot-product-of-two-sparse-vectors/description/,Dot Product of Two Sparse Vectors,Medium,"Array, Hash Table, Two Pointers, Design, Linear Algebra",more than 6 months; all time
+1637,https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/description/,Widest Vertical Area Between Two Points Containing No Points,Easy,"Array, Sorting",more than 6 months; all time
+1647,https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/description/,Minimum Deletions to Make Character Frequencies Unique,Medium,"Hash Table, String, Greedy, Sorting",last 6 months; all time
+4009,https://leetcode.com/problems/minimum-possible-maximum-waiting-time/description/,Minimum Possible Maximum Waiting Time,Hard,"Array, Dynamic Programming, Memoization",all time

@@ -1,0 +1,21 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+15,https://leetcode.com/problems/3sum/description/,3Sum,Medium,"Array, Two Pointers, Sorting",more than 6 months; all time
+32,https://leetcode.com/problems/longest-valid-parentheses/description/,Longest Valid Parentheses,Hard,"String, Dynamic Programming, Stack, Bracket Sequences",all time
+43,https://leetcode.com/problems/multiply-strings/description/,Multiply Strings,Medium,"Math, String, Simulation",more than 6 months; all time
+146,https://leetcode.com/problems/lru-cache/description/,LRU Cache,Medium,"Hash Table, Linked List, Design, Doubly-Linked List",more than 6 months; all time
+347,https://leetcode.com/problems/top-k-frequent-elements/description/,Top K Frequent Elements,Medium,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect",more than 6 months; all time
+394,https://leetcode.com/problems/decode-string/description/,Decode String,Medium,"String, Stack, Recursion",more than 6 months; all time
+628,https://leetcode.com/problems/maximum-product-of-three-numbers/description/,Maximum Product of Three Numbers,Easy,"Array, Math, Sorting",more than 6 months; all time
+678,https://leetcode.com/problems/valid-parenthesis-string/description/,Valid Parenthesis String,Medium,"String, Dynamic Programming, Stack, Greedy, Bracket Sequences",more than 6 months; all time
+679,https://leetcode.com/problems/24-game/description/,24 Game,Hard,"Array, Math, Backtracking",more than 6 months; all time
+680,https://leetcode.com/problems/valid-palindrome-ii/description/,Valid Palindrome II,Easy,"Two Pointers, String, Greedy",more than 6 months; all time
+695,https://leetcode.com/problems/max-area-of-island/description/,Max Area of Island,Medium,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix",more than 6 months; all time
+716,https://leetcode.com/problems/max-stack/description/,Max Stack,Hard,"Linked List, Stack, Design, Doubly-Linked List, Ordered Set",all time
+735,https://leetcode.com/problems/asteroid-collision/description/,Asteroid Collision,Medium,"Array, Stack, Simulation",more than 6 months; all time
+844,https://leetcode.com/problems/backspace-string-compare/description/,Backspace String Compare,Easy,"Two Pointers, String, Stack, Simulation",more than 6 months; all time
+864,https://leetcode.com/problems/shortest-path-to-get-all-keys/description/,Shortest Path to Get All Keys,Hard,"Array, Bit Manipulation, Breadth-First Search, Matrix",more than 6 months; all time
+927,https://leetcode.com/problems/three-equal-parts/description/,Three Equal Parts,Hard,"Array, Math",all time
+983,https://leetcode.com/problems/minimum-cost-for-tickets/description/,Minimum Cost For Tickets,Medium,"Array, Dynamic Programming",more than 6 months; all time
+987,https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/description/,Vertical Order Traversal of a Binary Tree,Hard,"Hash Table, Tree, Depth-First Search, Breadth-First Search, Sorting, Binary Tree",more than 6 months; all time
+1004,https://leetcode.com/problems/max-consecutive-ones-iii/description/,Max Consecutive Ones III,Medium,"Array, Binary Search, Sliding Window, Prefix Sum",more than 6 months; all time
+1423,https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/description/,Maximum Points You Can Obtain from Cards,Medium,"Array, Sliding Window, Prefix Sum",last 3 months; last 6 months; all time

@@ -1,0 +1,23 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+3,https://leetcode.com/problems/longest-substring-without-repeating-characters/description/,Longest Substring Without Repeating Characters,Medium,"Hash Table, String, Sliding Window",more than 6 months; all time
+15,https://leetcode.com/problems/3sum/description/,3Sum,Medium,"Array, Two Pointers, Sorting",more than 6 months; all time
+49,https://leetcode.com/problems/group-anagrams/description/,Group Anagrams,Medium,"Array, Hash Table, String, Sorting",more than 6 months; all time
+56,https://leetcode.com/problems/merge-intervals/description/,Merge Intervals,Medium,"Array, Sorting, Quicksort",last 6 months; all time
+88,https://leetcode.com/problems/merge-sorted-array/description/,Merge Sorted Array,Easy,"Array, Two Pointers, Sorting",more than 6 months; all time
+121,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/,Best Time to Buy and Sell Stock,Easy,"Array, Dynamic Programming",more than 6 months; all time
+215,https://leetcode.com/problems/kth-largest-element-in-an-array/description/,Kth Largest Element in an Array,Medium,"Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect",more than 6 months; all time
+460,https://leetcode.com/problems/lfu-cache/description/,LFU Cache,Hard,"Hash Table, Linked List, Design, Doubly-Linked List",last 3 months; last 6 months; all time
+647,https://leetcode.com/problems/palindromic-substrings/description/,Palindromic Substrings,Medium,"Two Pointers, String, Dynamic Programming",more than 6 months; all time
+741,https://leetcode.com/problems/cherry-pickup/description/,Cherry Pickup,Hard,"Array, Dynamic Programming, Matrix",last 3 months; last 6 months; all time
+853,https://leetcode.com/problems/car-fleet/description/,Car Fleet,Medium,"Array, Stack, Sorting, Monotonic Stack",more than 6 months; all time
+898,https://leetcode.com/problems/bitwise-ors-of-subarrays/description/,Bitwise ORs of Subarrays,Medium,"Array, Dynamic Programming, Bit Manipulation",more than 6 months; all time
+924,https://leetcode.com/problems/minimize-malware-spread/description/,Minimize Malware Spread,Hard,"Array, Hash Table, Depth-First Search, Breadth-First Search, Union-Find, Graph Theory",more than 6 months; all time
+1465,https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/description/,Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts,Medium,"Array, Greedy, Sorting",more than 6 months; all time
+2044,https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/description/,Count Number of Maximum Bitwise-OR Subsets,Medium,"Array, Backtracking, Bit Manipulation, Enumeration",more than 6 months; all time
+2615,https://leetcode.com/problems/sum-of-distances/description/,Sum of Distances,Medium,"Array, Hash Table, Prefix Sum",more than 6 months; all time
+2876,https://leetcode.com/problems/count-visited-nodes-in-a-directed-graph/description/,Count Visited Nodes in a Directed Graph,Hard,"Dynamic Programming, Depth-First Search, Graph Theory, Topological Sort, Memoization, Kosaraju's Algorithm, Tarjan's SCC Algorithm",more than 6 months; all time
+3012,https://leetcode.com/problems/minimize-length-of-array-using-operations/description/,Minimize Length of Array Using Operations,Medium,"Array, Math, Greedy, Number Theory",more than 6 months; all time
+3177,https://leetcode.com/problems/find-the-maximum-length-of-a-good-subsequence-ii/description/,Find the Maximum Length of a Good Subsequence II,Hard,"Array, Hash Table, Dynamic Programming",last 3 months; last 6 months; all time
+3251,https://leetcode.com/problems/find-the-count-of-monotonic-pairs-ii/description/,Find the Count of Monotonic Pairs II,Hard,"Array, Math, Dynamic Programming, Combinatorics, Prefix Sum",more than 6 months; all time
+3878,https://leetcode.com/problems/count-good-subarrays/description/,Count Good Subarrays,Hard,"Array, Stack, Bit Manipulation, Monotonic Stack",more than 6 months; all time
+3948,https://leetcode.com/problems/lexicographically-maximum-mex-array/description/,Lexicographically Maximum MEX Array,Hard,"Array, Hash Table, Greedy, Queue",last 3 months; last 6 months; all time

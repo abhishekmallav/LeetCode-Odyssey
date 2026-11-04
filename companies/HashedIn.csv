@@ -1,0 +1,34 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+1,https://leetcode.com/problems/two-sum/description/,Two Sum,Easy,"Array, Hash Table",more than 6 months; all time
+3,https://leetcode.com/problems/longest-substring-without-repeating-characters/description/,Longest Substring Without Repeating Characters,Medium,"Hash Table, String, Sliding Window",more than 6 months; all time
+5,https://leetcode.com/problems/longest-palindromic-substring/description/,Longest Palindromic Substring,Medium,"Two Pointers, String, Dynamic Programming, Manacher",more than 6 months; all time
+11,https://leetcode.com/problems/container-with-most-water/description/,Container With Most Water,Medium,"Array, Two Pointers, Greedy",more than 6 months; all time
+14,https://leetcode.com/problems/longest-common-prefix/description/,Longest Common Prefix,Easy,"Array, String, Trie",more than 6 months; all time
+31,https://leetcode.com/problems/next-permutation/description/,Next Permutation,Medium,"Array, Two Pointers",more than 6 months; all time
+42,https://leetcode.com/problems/trapping-rain-water/description/,Trapping Rain Water,Hard,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack",more than 6 months; all time
+45,https://leetcode.com/problems/jump-game-ii/description/,Jump Game II,Medium,"Array, Dynamic Programming, Greedy",more than 6 months; all time
+49,https://leetcode.com/problems/group-anagrams/description/,Group Anagrams,Medium,"Array, Hash Table, String, Sorting",last 3 months; last 6 months; more than 6 months; all time
+55,https://leetcode.com/problems/jump-game/description/,Jump Game,Medium,"Array, Dynamic Programming, Greedy",more than 6 months; all time
+72,https://leetcode.com/problems/edit-distance/description/,Edit Distance,Medium,"String, Dynamic Programming",more than 6 months; all time
+75,https://leetcode.com/problems/sort-colors/description/,Sort Colors,Medium,"Array, Two Pointers, Sorting, Quicksort, Bubble Sort",more than 6 months; all time
+93,https://leetcode.com/problems/restore-ip-addresses/description/,Restore IP Addresses,Medium,"String, Backtracking",last 6 months; more than 6 months; all time
+152,https://leetcode.com/problems/maximum-product-subarray/description/,Maximum Product Subarray,Medium,"Array, Dynamic Programming",more than 6 months; all time
+188,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/,Best Time to Buy and Sell Stock IV,Hard,"Array, Dynamic Programming",more than 6 months; all time
+200,https://leetcode.com/problems/number-of-islands/description/,Number of Islands,Medium,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix",more than 6 months; all time
+205,https://leetcode.com/problems/isomorphic-strings/description/,Isomorphic Strings,Easy,"Hash Table, String",more than 6 months; all time
+322,https://leetcode.com/problems/coin-change/description/,Coin Change,Medium,"Array, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack",all time
+394,https://leetcode.com/problems/decode-string/description/,Decode String,Medium,"String, Stack, Recursion",more than 6 months; all time
+526,https://leetcode.com/problems/beautiful-arrangement/description/,Beautiful Arrangement,Medium,"Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask",more than 6 months; all time
+810,https://leetcode.com/problems/chalkboard-xor-game/description/,Chalkboard XOR Game,Hard,"Array, Math, Bit Manipulation, Brainteaser, Game Theory, Zero-Sum Game, Impartial Game",more than 6 months; all time
+875,https://leetcode.com/problems/koko-eating-bananas/description/,Koko Eating Bananas,Medium,"Array, Binary Search",more than 6 months; all time
+974,https://leetcode.com/problems/subarray-sums-divisible-by-k/description/,Subarray Sums Divisible by K,Medium,"Array, Hash Table, Prefix Sum",more than 6 months; all time
+992,https://leetcode.com/problems/subarrays-with-k-different-integers/description/,Subarrays with K Different Integers,Hard,"Array, Hash Table, Sliding Window, Counting",last 6 months; more than 6 months; all time
+1345,https://leetcode.com/problems/jump-game-iv/description/,Jump Game IV,Hard,"Array, Hash Table, Breadth-First Search",more than 6 months; all time
+1505,https://leetcode.com/problems/minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits/description/,Minimum Possible Integer After at Most K Adjacent Swaps On Digits,Hard,"String, Greedy, Binary Indexed Tree, Segment Tree",more than 6 months; all time
+2448,https://leetcode.com/problems/minimum-cost-to-make-array-equal/description/,Minimum Cost to Make Array Equal,Hard,"Array, Binary Search, Greedy, Sorting, Prefix Sum",more than 6 months; all time
+2594,https://leetcode.com/problems/minimum-time-to-repair-cars/description/,Minimum Time to Repair Cars,Medium,"Array, Binary Search",more than 6 months; all time
+2999,https://leetcode.com/problems/count-the-number-of-powerful-integers/description/,Count the Number of Powerful Integers,Hard,"Math, String, Dynamic Programming",more than 6 months; all time
+3012,https://leetcode.com/problems/minimize-length-of-array-using-operations/description/,Minimize Length of Array Using Operations,Medium,"Array, Math, Greedy, Number Theory",more than 6 months; all time
+3051,https://leetcode.com/problems/find-candidates-for-data-scientist-position/description/,Find Candidates for Data Scientist Position,Easy,Database,more than 6 months; all time
+3052,https://leetcode.com/problems/maximize-items/description/,Maximize Items,Hard,Database,more than 6 months; all time
+3143,https://leetcode.com/problems/maximum-points-inside-the-square/description/,Maximum Points Inside the Square,Medium,"Array, Hash Table, String, Binary Search, Sorting",more than 6 months; all time

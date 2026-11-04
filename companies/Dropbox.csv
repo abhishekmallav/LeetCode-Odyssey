@@ -1,0 +1,23 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+1,https://leetcode.com/problems/two-sum/description/,Two Sum,Easy,"Array, Hash Table",more than 6 months; all time
+4,https://leetcode.com/problems/median-of-two-sorted-arrays/description/,Median of Two Sorted Arrays,Hard,"Array, Binary Search, Divide and Conquer",more than 6 months; all time
+17,https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/,Letter Combinations of a Phone Number,Medium,"Hash Table, String, Backtracking",more than 6 months; all time
+56,https://leetcode.com/problems/merge-intervals/description/,Merge Intervals,Medium,"Array, Sorting, Quicksort",more than 6 months; all time
+135,https://leetcode.com/problems/candy/description/,Candy,Hard,"Array, Greedy",last 6 months; more than 6 months; all time
+140,https://leetcode.com/problems/word-break-ii/description/,Word Break II,Hard,"Array, Hash Table, String, Dynamic Programming, Backtracking, Trie, Memoization",more than 6 months; all time
+289,https://leetcode.com/problems/game-of-life/description/,Game of Life,Medium,"Array, Matrix, Simulation",more than 6 months; all time
+290,https://leetcode.com/problems/word-pattern/description/,Word Pattern,Easy,"Hash Table, String",more than 6 months; all time
+291,https://leetcode.com/problems/word-pattern-ii/description/,Word Pattern II,Medium,"Hash Table, String, Backtracking",more than 6 months; all time
+362,https://leetcode.com/problems/design-hit-counter/description/,Design Hit Counter,Medium,"Array, Binary Search, Design, Queue, Data Stream",more than 6 months; all time
+609,https://leetcode.com/problems/find-duplicate-file-in-system/description/,Find Duplicate File in System,Medium,"Array, Hash Table, String",more than 6 months; all time
+843,https://leetcode.com/problems/guess-the-word/description/,Guess the Word,Hard,"Array, Math, String, Minimax, Interactive, Game Theory",more than 6 months; all time
+924,https://leetcode.com/problems/minimize-malware-spread/description/,Minimize Malware Spread,Hard,"Array, Hash Table, Depth-First Search, Breadth-First Search, Union-Find, Graph Theory",more than 6 months; all time
+928,https://leetcode.com/problems/minimize-malware-spread-ii/description/,Minimize Malware Spread II,Hard,"Array, Hash Table, Depth-First Search, Breadth-First Search, Union-Find, Graph Theory",more than 6 months; all time
+1001,https://leetcode.com/problems/grid-illumination/description/,Grid Illumination,Hard,"Array, Hash Table",more than 6 months; all time
+1178,https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/description/,Number of Valid Words for Each Puzzle,Hard,"Array, Hash Table, String, Bit Manipulation, Trie",more than 6 months; all time
+1236,https://leetcode.com/problems/web-crawler/description/,Web Crawler,Medium,"String, Depth-First Search, Breadth-First Search, Interactive",more than 6 months; all time
+1242,https://leetcode.com/problems/web-crawler-multithreaded/description/,Web Crawler Multithreaded,Medium,"Depth-First Search, Breadth-First Search, Concurrency",more than 6 months; all time
+1250,https://leetcode.com/problems/check-if-it-is-a-good-array/description/,Check If It Is a Good Array,Hard,"Array, Math, Number Theory, Bézout's Lemma, Euclidean Algorithm, Greatest Common Divisor, Extended Euclidean Algorithm",more than 6 months; all time
+1845,https://leetcode.com/problems/seat-reservation-manager/description/,Seat Reservation Manager,Medium,"Design, Heap (Priority Queue)",more than 6 months; all time
+2043,https://leetcode.com/problems/simple-bank-system/description/,Simple Bank System,Medium,"Array, Hash Table, Design, Simulation",more than 6 months; all time
+2296,https://leetcode.com/problems/design-a-text-editor/description/,Design a Text Editor,Hard,"Linked List, String, Stack, Design, Simulation, Doubly-Linked List",more than 6 months; all time

@@ -1,0 +1,16 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+1,https://leetcode.com/problems/two-sum/description/,Two Sum,Easy,"Array, Hash Table",last 6 months; more than 6 months; all time
+3,https://leetcode.com/problems/longest-substring-without-repeating-characters/description/,Longest Substring Without Repeating Characters,Medium,"Hash Table, String, Sliding Window",all time
+34,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/,Find First and Last Position of Element in Sorted Array,Medium,"Array, Binary Search",more than 6 months; all time
+39,https://leetcode.com/problems/combination-sum/description/,Combination Sum,Medium,"Array, Backtracking",more than 6 months; all time
+49,https://leetcode.com/problems/group-anagrams/description/,Group Anagrams,Medium,"Array, Hash Table, String, Sorting",more than 6 months; all time
+54,https://leetcode.com/problems/spiral-matrix/description/,Spiral Matrix,Medium,"Array, Matrix, Simulation",more than 6 months; all time
+91,https://leetcode.com/problems/decode-ways/description/,Decode Ways,Medium,"String, Dynamic Programming",more than 6 months; all time
+121,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/,Best Time to Buy and Sell Stock,Easy,"Array, Dynamic Programming",all time
+146,https://leetcode.com/problems/lru-cache/description/,LRU Cache,Medium,"Hash Table, Linked List, Design, Doubly-Linked List",last 3 months; last 6 months; all time
+283,https://leetcode.com/problems/move-zeroes/description/,Move Zeroes,Easy,"Array, Two Pointers",more than 6 months; all time
+423,https://leetcode.com/problems/reconstruct-original-digits-from-english/description/,Reconstruct Original Digits from English,Medium,"Hash Table, Math, String",more than 6 months; all time
+437,https://leetcode.com/problems/path-sum-iii/description/,Path Sum III,Medium,"Tree, Depth-First Search, Binary Tree",more than 6 months; all time
+796,https://leetcode.com/problems/rotate-string/description/,Rotate String,Easy,"String, String Matching",last 6 months; all time
+1124,https://leetcode.com/problems/longest-well-performing-interval/description/,Longest Well-Performing Interval,Medium,"Array, Hash Table, Stack, Monotonic Stack, Prefix Sum",more than 6 months; all time
+1366,https://leetcode.com/problems/rank-teams-by-votes/description/,Rank Teams by Votes,Medium,"Array, Hash Table, String, Sorting, Counting",last 3 months; last 6 months; all time

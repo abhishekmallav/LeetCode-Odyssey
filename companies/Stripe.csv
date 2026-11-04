@@ -1,0 +1,14 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+31,https://leetcode.com/problems/next-permutation/description/,Next Permutation,Medium,"Array, Two Pointers",all time
+56,https://leetcode.com/problems/merge-intervals/description/,Merge Intervals,Medium,"Array, Sorting, Quicksort",last 6 months; all time
+161,https://leetcode.com/problems/one-edit-distance/description/,One Edit Distance,Medium,"Two Pointers, String",more than 6 months; all time
+399,https://leetcode.com/problems/evaluate-division/description/,Evaluate Division,Medium,"Array, String, Depth-First Search, Breadth-First Search, Union-Find, Graph Theory, Shortest Path, Bellman–Ford Algorithm, Floyd–Warshall Algorithm",more than 6 months; all time
+787,https://leetcode.com/problems/cheapest-flights-within-k-stops/description/,Cheapest Flights Within K Stops,Medium,"Dynamic Programming, Depth-First Search, Breadth-First Search, Graph Theory, Heap (Priority Queue), Shortest Path",more than 6 months; all time
+1087,https://leetcode.com/problems/brace-expansion/description/,Brace Expansion,Medium,"String, Backtracking, Stack, Breadth-First Search, Sorting",more than 6 months; all time
+1169,https://leetcode.com/problems/invalid-transactions/description/,Invalid Transactions,Medium,"Array, Hash Table, String, Sorting",last 6 months; more than 6 months; all time
+1604,https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/description/,Alert Using Same Key-Card Three or More Times in a One Hour Period,Medium,"Array, Hash Table, String, Sorting",more than 6 months; all time
+2043,https://leetcode.com/problems/simple-bank-system/description/,Simple Bank System,Medium,"Array, Hash Table, Design, Simulation",more than 6 months; all time
+2050,https://leetcode.com/problems/parallel-courses-iii/description/,Parallel Courses III,Hard,"Array, Dynamic Programming, Graph Theory, Topological Sort, Directed Acyclic Graph",more than 6 months; all time
+2303,https://leetcode.com/problems/calculate-amount-paid-in-taxes/description/,Calculate Amount Paid in Taxes,Easy,"Array, Simulation",more than 6 months; all time
+2483,https://leetcode.com/problems/minimum-penalty-for-a-shop/description/,Minimum Penalty for a Shop,Medium,"String, Prefix Sum",more than 6 months; all time
+2768,https://leetcode.com/problems/number-of-black-blocks/description/,Number of Black Blocks,Medium,"Array, Hash Table, Enumeration",more than 6 months; all time

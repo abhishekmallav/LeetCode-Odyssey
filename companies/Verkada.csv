@@ -1,0 +1,20 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+12,https://leetcode.com/problems/integer-to-roman/description/,Integer to Roman,Medium,"Hash Table, Math, String",more than 6 months; all time
+23,https://leetcode.com/problems/merge-k-sorted-lists/description/,Merge k Sorted Lists,Hard,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort, Tournament Sort",more than 6 months; all time
+36,https://leetcode.com/problems/valid-sudoku/description/,Valid Sudoku,Medium,"Array, Hash Table, Matrix",more than 6 months; all time
+56,https://leetcode.com/problems/merge-intervals/description/,Merge Intervals,Medium,"Array, Sorting, Quicksort",more than 6 months; all time
+88,https://leetcode.com/problems/merge-sorted-array/description/,Merge Sorted Array,Easy,"Array, Two Pointers, Sorting",more than 6 months; all time
+146,https://leetcode.com/problems/lru-cache/description/,LRU Cache,Medium,"Hash Table, Linked List, Design, Doubly-Linked List",more than 6 months; all time
+191,https://leetcode.com/problems/number-of-1-bits/description/,Number of 1 Bits,Easy,"Divide and Conquer, Bit Manipulation",more than 6 months; all time
+227,https://leetcode.com/problems/basic-calculator-ii/description/,Basic Calculator II,Medium,"Math, String, Stack",more than 6 months; all time
+435,https://leetcode.com/problems/non-overlapping-intervals/description/,Non-overlapping Intervals,Medium,"Array, Dynamic Programming, Greedy, Sorting",more than 6 months; all time
+460,https://leetcode.com/problems/lfu-cache/description/,LFU Cache,Hard,"Hash Table, Linked List, Design, Doubly-Linked List",more than 6 months; all time
+543,https://leetcode.com/problems/diameter-of-binary-tree/description/,Diameter of Binary Tree,Easy,"Tree, Depth-First Search, Binary Tree, DP on Trees",more than 6 months; all time
+772,https://leetcode.com/problems/basic-calculator-iii/description/,Basic Calculator III,Hard,"Math, String, Stack, Recursion",more than 6 months; all time
+843,https://leetcode.com/problems/guess-the-word/description/,Guess the Word,Hard,"Array, Math, String, Minimax, Interactive, Game Theory",more than 6 months; all time
+867,https://leetcode.com/problems/transpose-matrix/description/,Transpose Matrix,Easy,"Array, Matrix, Simulation",more than 6 months; all time
+981,https://leetcode.com/problems/time-based-key-value-store/description/,Time Based Key-Value Store,Medium,"Hash Table, String, Binary Search, Design",last 6 months; more than 6 months; all time
+986,https://leetcode.com/problems/interval-list-intersections/description/,Interval List Intersections,Medium,"Array, Two Pointers, Sweep Line",last 6 months; more than 6 months; all time
+1146,https://leetcode.com/problems/snapshot-array/description/,Snapshot Array,Medium,"Array, Hash Table, Binary Search, Design, Persistent Data Structure",more than 6 months; all time
+1233,https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/description/,Remove Sub-Folders from the Filesystem,Medium,"Array, String, Depth-First Search, Trie",more than 6 months; all time
+1235,https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/,Maximum Profit in Job Scheduling,Hard,"Array, Binary Search, Dynamic Programming, Sorting",last 6 months; more than 6 months; all time

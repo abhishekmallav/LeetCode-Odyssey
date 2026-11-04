@@ -1,0 +1,15 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+56,https://leetcode.com/problems/merge-intervals/description/,Merge Intervals,Medium,"Array, Sorting, Quicksort",more than 6 months; all time
+269,https://leetcode.com/problems/alien-dictionary/description/,Alien Dictionary,Hard,"Array, String, Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort, Directed Acyclic Graph",more than 6 months; all time
+311,https://leetcode.com/problems/sparse-matrix-multiplication/description/,Sparse Matrix Multiplication,Medium,"Array, Hash Table, Matrix, Linear Algebra",more than 6 months; all time
+399,https://leetcode.com/problems/evaluate-division/description/,Evaluate Division,Medium,"Array, String, Depth-First Search, Breadth-First Search, Union-Find, Graph Theory, Shortest Path, Bellman–Ford Algorithm, Floyd–Warshall Algorithm",more than 6 months; all time
+494,https://leetcode.com/problems/target-sum/description/,Target Sum,Medium,"Array, Dynamic Programming, Backtracking, Knapsack Problem, 0-1 Knapsack",more than 6 months; all time
+528,https://leetcode.com/problems/random-pick-with-weight/description/,Random Pick with Weight,Medium,"Array, Math, Binary Search, Prefix Sum, Randomized",last 3 months; last 6 months; more than 6 months; all time
+529,https://leetcode.com/problems/minesweeper/description/,Minesweeper,Medium,"Array, Depth-First Search, Breadth-First Search, Matrix",last 3 months; last 6 months; all time
+735,https://leetcode.com/problems/asteroid-collision/description/,Asteroid Collision,Medium,"Array, Stack, Simulation",more than 6 months; all time
+986,https://leetcode.com/problems/interval-list-intersections/description/,Interval List Intersections,Medium,"Array, Two Pointers, Sweep Line",more than 6 months; all time
+1233,https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/description/,Remove Sub-Folders from the Filesystem,Medium,"Array, String, Depth-First Search, Trie",more than 6 months; all time
+1293,https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/description/,Shortest Path in a Grid with Obstacles Elimination,Hard,"Array, Breadth-First Search, Matrix",more than 6 months; all time
+1476,https://leetcode.com/problems/subrectangle-queries/description/,Subrectangle Queries,Medium,"Array, Design, Matrix",more than 6 months; all time
+1570,https://leetcode.com/problems/dot-product-of-two-sparse-vectors/description/,Dot Product of Two Sparse Vectors,Medium,"Array, Hash Table, Two Pointers, Design, Linear Algebra",more than 6 months; all time
+1610,https://leetcode.com/problems/maximum-number-of-visible-points/description/,Maximum Number of Visible Points,Hard,"Array, Math, Geometry, Sliding Window, Sorting",more than 6 months; all time

@@ -1,0 +1,12 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+48,https://leetcode.com/problems/rotate-image/description/,Rotate Image,Medium,"Array, Math, Matrix",more than 6 months; all time
+54,https://leetcode.com/problems/spiral-matrix/description/,Spiral Matrix,Medium,"Array, Matrix, Simulation",more than 6 months; all time
+68,https://leetcode.com/problems/text-justification/description/,Text Justification,Hard,"Array, String, Simulation",more than 6 months; all time
+295,https://leetcode.com/problems/find-median-from-data-stream/description/,Find Median from Data Stream,Hard,"Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream",all time
+1743,https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/description/,Restore the Array From Adjacent Pairs,Medium,"Array, Hash Table, Depth-First Search",more than 6 months; all time
+1861,https://leetcode.com/problems/rotating-the-box/description/,Rotating the Box,Medium,"Array, Two Pointers, Matrix",more than 6 months; all time
+2502,https://leetcode.com/problems/design-memory-allocator/description/,Design Memory Allocator,Medium,"Array, Hash Table, Design, Simulation",more than 6 months; all time
+2768,https://leetcode.com/problems/number-of-black-blocks/description/,Number of Black Blocks,Medium,"Array, Hash Table, Enumeration",more than 6 months; all time
+2817,https://leetcode.com/problems/minimum-absolute-difference-between-elements-with-constraint/description/,Minimum Absolute Difference Between Elements With Constraint,Medium,"Array, Binary Search, Ordered Set",last 6 months; more than 6 months; all time
+3043,https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/description/,Find the Length of the Longest Common Prefix,Medium,"Array, Hash Table, String, Trie",last 6 months; more than 6 months; all time
+3161,https://leetcode.com/problems/block-placement-queries/description/,Block Placement Queries,Hard,"Array, Binary Search, Binary Indexed Tree, Segment Tree, Ordered Set",last 6 months; more than 6 months; all time

@@ -1,0 +1,16 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+1,https://leetcode.com/problems/two-sum/description/,Two Sum,Easy,"Array, Hash Table",more than 6 months; all time
+2,https://leetcode.com/problems/add-two-numbers/description/,Add Two Numbers,Medium,"Linked List, Math, Recursion",last 6 months; more than 6 months; all time
+14,https://leetcode.com/problems/longest-common-prefix/description/,Longest Common Prefix,Easy,"Array, String, Trie",more than 6 months; all time
+20,https://leetcode.com/problems/valid-parentheses/description/,Valid Parentheses,Easy,"String, Stack, Bracket Sequences",more than 6 months; all time
+146,https://leetcode.com/problems/lru-cache/description/,LRU Cache,Medium,"Hash Table, Linked List, Design, Doubly-Linked List",more than 6 months; all time
+399,https://leetcode.com/problems/evaluate-division/description/,Evaluate Division,Medium,"Array, String, Depth-First Search, Breadth-First Search, Union-Find, Graph Theory, Shortest Path, Bellman–Ford Algorithm, Floyd–Warshall Algorithm",all time
+415,https://leetcode.com/problems/add-strings/description/,Add Strings,Easy,"Math, String, Simulation",more than 6 months; all time
+495,https://leetcode.com/problems/teemo-attacking/description/,Teemo Attacking,Easy,"Array, Simulation",more than 6 months; all time
+874,https://leetcode.com/problems/walking-robot-simulation/description/,Walking Robot Simulation,Medium,"Array, Hash Table, Simulation",more than 6 months; all time
+1032,https://leetcode.com/problems/stream-of-characters/description/,Stream of Characters,Hard,"Array, String, Design, Trie, Data Stream, Aho–Corasick Algorithm",more than 6 months; all time
+1801,https://leetcode.com/problems/number-of-orders-in-the-backlog/description/,Number of Orders in the Backlog,Medium,"Array, Heap (Priority Queue), Simulation",more than 6 months; all time
+2085,https://leetcode.com/problems/count-common-words-with-one-occurrence/description/,Count Common Words With One Occurrence,Easy,"Array, Hash Table, String, Counting",more than 6 months; all time
+2235,https://leetcode.com/problems/add-two-integers/description/,Add Two Integers,Easy,Math,more than 6 months; all time
+2296,https://leetcode.com/problems/design-a-text-editor/description/,Design a Text Editor,Hard,"Linked List, String, Stack, Design, Simulation, Doubly-Linked List",more than 6 months; all time
+2809,https://leetcode.com/problems/minimum-time-to-make-array-sum-at-most-x/description/,Minimum Time to Make Array Sum At Most x,Hard,"Array, Dynamic Programming, Sorting",more than 6 months; all time

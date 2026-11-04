@@ -1,0 +1,59 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+1,https://leetcode.com/problems/two-sum/description/,Two Sum,Easy,"Array, Hash Table",last 3 months; last 6 months; more than 6 months; all time
+2,https://leetcode.com/problems/add-two-numbers/description/,Add Two Numbers,Medium,"Linked List, Math, Recursion",more than 6 months; all time
+3,https://leetcode.com/problems/longest-substring-without-repeating-characters/description/,Longest Substring Without Repeating Characters,Medium,"Hash Table, String, Sliding Window",last 3 months; last 6 months; more than 6 months; all time
+4,https://leetcode.com/problems/median-of-two-sorted-arrays/description/,Median of Two Sorted Arrays,Hard,"Array, Binary Search, Divide and Conquer",more than 6 months; all time
+5,https://leetcode.com/problems/longest-palindromic-substring/description/,Longest Palindromic Substring,Medium,"Two Pointers, String, Dynamic Programming, Manacher",last 6 months; more than 6 months; all time
+7,https://leetcode.com/problems/reverse-integer/description/,Reverse Integer,Medium,Math,more than 6 months; all time
+9,https://leetcode.com/problems/palindrome-number/description/,Palindrome Number,Easy,Math,last 6 months; more than 6 months; all time
+13,https://leetcode.com/problems/roman-to-integer/description/,Roman to Integer,Easy,"Hash Table, Math, String",more than 6 months; all time
+15,https://leetcode.com/problems/3sum/description/,3Sum,Medium,"Array, Two Pointers, Sorting",all time
+20,https://leetcode.com/problems/valid-parentheses/description/,Valid Parentheses,Easy,"String, Stack, Bracket Sequences",more than 6 months; all time
+26,https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/,Remove Duplicates from Sorted Array,Easy,"Array, Two Pointers",more than 6 months; all time
+28,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/,Find the Index of the First Occurrence in a String,Easy,"Two Pointers, String, String Matching, Z Algorithm, Knuth–Morris–Pratt Algorithm, Boyer–Moore String-Search Algorithm",last 6 months; all time
+31,https://leetcode.com/problems/next-permutation/description/,Next Permutation,Medium,"Array, Two Pointers",more than 6 months; all time
+41,https://leetcode.com/problems/first-missing-positive/description/,First Missing Positive,Hard,"Array, Hash Table",more than 6 months; all time
+49,https://leetcode.com/problems/group-anagrams/description/,Group Anagrams,Medium,"Array, Hash Table, String, Sorting",more than 6 months; all time
+53,https://leetcode.com/problems/maximum-subarray/description/,Maximum Subarray,Medium,"Array, Divide and Conquer, Dynamic Programming",more than 6 months; all time
+55,https://leetcode.com/problems/jump-game/description/,Jump Game,Medium,"Array, Dynamic Programming, Greedy",more than 6 months; all time
+70,https://leetcode.com/problems/climbing-stairs/description/,Climbing Stairs,Easy,"Math, Dynamic Programming, Memoization",more than 6 months; all time
+88,https://leetcode.com/problems/merge-sorted-array/description/,Merge Sorted Array,Easy,"Array, Two Pointers, Sorting",more than 6 months; all time
+121,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/,Best Time to Buy and Sell Stock,Easy,"Array, Dynamic Programming",more than 6 months; all time
+125,https://leetcode.com/problems/valid-palindrome/description/,Valid Palindrome,Easy,"Two Pointers, String",last 6 months; more than 6 months; all time
+128,https://leetcode.com/problems/longest-consecutive-sequence/description/,Longest Consecutive Sequence,Medium,"Array, Hash Table, Union-Find",more than 6 months; all time
+136,https://leetcode.com/problems/single-number/description/,Single Number,Easy,"Array, Bit Manipulation",more than 6 months; all time
+141,https://leetcode.com/problems/linked-list-cycle/description/,Linked List Cycle,Easy,"Hash Table, Linked List, Two Pointers, Floyd's Cycle Finding Algorithm",more than 6 months; all time
+169,https://leetcode.com/problems/majority-element/description/,Majority Element,Easy,"Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm",more than 6 months; all time
+175,https://leetcode.com/problems/combine-two-tables/description/,Combine Two Tables,Easy,Database,more than 6 months; all time
+176,https://leetcode.com/problems/second-highest-salary/description/,Second Highest Salary,Medium,Database,more than 6 months; all time
+177,https://leetcode.com/problems/nth-highest-salary/description/,Nth Highest Salary,Medium,Database,more than 6 months; all time
+178,https://leetcode.com/problems/rank-scores/description/,Rank Scores,Medium,Database,last 6 months; all time
+181,https://leetcode.com/problems/employees-earning-more-than-their-managers/description/,Employees Earning More Than Their Managers,Easy,Database,more than 6 months; all time
+183,https://leetcode.com/problems/customers-who-never-order/description/,Customers Who Never Order,Easy,Database,all time
+185,https://leetcode.com/problems/department-top-three-salaries/description/,Department Top Three Salaries,Hard,Database,all time
+189,https://leetcode.com/problems/rotate-array/description/,Rotate Array,Medium,"Array, Math, Two Pointers",more than 6 months; all time
+197,https://leetcode.com/problems/rising-temperature/description/,Rising Temperature,Easy,Database,more than 6 months; all time
+242,https://leetcode.com/problems/valid-anagram/description/,Valid Anagram,Easy,"Hash Table, String, Sorting",more than 6 months; all time
+283,https://leetcode.com/problems/move-zeroes/description/,Move Zeroes,Easy,"Array, Two Pointers",last 3 months; last 6 months; more than 6 months; all time
+414,https://leetcode.com/problems/third-maximum-number/description/,Third Maximum Number,Easy,"Array, Sorting",all time
+443,https://leetcode.com/problems/string-compression/description/,String Compression,Medium,"Two Pointers, String",more than 6 months; all time
+485,https://leetcode.com/problems/max-consecutive-ones/description/,Max Consecutive Ones,Easy,Array,more than 6 months; all time
+509,https://leetcode.com/problems/fibonacci-number/description/,Fibonacci Number,Easy,"Math, Dynamic Programming, Recursion, Memoization",more than 6 months; all time
+560,https://leetcode.com/problems/subarray-sum-equals-k/description/,Subarray Sum Equals K,Medium,"Array, Hash Table, Prefix Sum",more than 6 months; all time
+584,https://leetcode.com/problems/find-customer-referee/description/,Find Customer Referee,Easy,Database,last 6 months; all time
+647,https://leetcode.com/problems/palindromic-substrings/description/,Palindromic Substrings,Medium,"Two Pointers, String, Dynamic Programming",all time
+704,https://leetcode.com/problems/binary-search/description/,Binary Search,Easy,"Array, Binary Search",more than 6 months; all time
+829,https://leetcode.com/problems/consecutive-numbers-sum/description/,Consecutive Numbers Sum,Hard,"Math, Enumeration",last 30 days; last 3 months; last 6 months; all time
+881,https://leetcode.com/problems/boats-to-save-people/description/,Boats to Save People,Medium,"Array, Two Pointers, Greedy, Sorting, Timsort",all time
+994,https://leetcode.com/problems/rotting-oranges/description/,Rotting Oranges,Medium,"Array, Breadth-First Search, Matrix",all time
+1068,https://leetcode.com/problems/product-sales-analysis-i/description/,Product Sales Analysis I,Easy,Database,more than 6 months; all time
+1148,https://leetcode.com/problems/article-views-i/description/,Article Views I,Easy,Database,more than 6 months; all time
+1164,https://leetcode.com/problems/product-price-at-a-given-date/description/,Product Price at a Given Date,Medium,Database,more than 6 months; all time
+1200,https://leetcode.com/problems/minimum-absolute-difference/description/,Minimum Absolute Difference,Easy,"Array, Sorting",more than 6 months; all time
+1378,https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/description/,Replace Employee ID With The Unique Identifier,Easy,Database,more than 6 months; all time
+1732,https://leetcode.com/problems/find-the-highest-altitude/description/,Find the Highest Altitude,Easy,"Array, Prefix Sum",more than 6 months; all time
+1741,https://leetcode.com/problems/find-total-time-spent-by-each-employee/description/,Find Total Time Spent by Each Employee,Easy,Database,last 6 months; more than 6 months; all time
+2165,https://leetcode.com/problems/smallest-value-of-the-rearranged-number/description/,Smallest Value of the Rearranged Number,Medium,"Math, Sorting",more than 6 months; all time
+2785,https://leetcode.com/problems/sort-vowels-in-a-string/description/,Sort Vowels in a String,Medium,"String, Sorting",more than 6 months; all time
+3392,https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/description/,Count Subarrays of Length Three With a Condition,Easy,Array,more than 6 months; all time
+3667,https://leetcode.com/problems/sort-array-by-absolute-value/description/,Sort Array By Absolute Value,Easy,"Array, Math, Two Pointers, Sorting",all time

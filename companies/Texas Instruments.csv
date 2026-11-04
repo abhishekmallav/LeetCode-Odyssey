@@ -1,0 +1,7 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+22,https://leetcode.com/problems/generate-parentheses/description/,Generate Parentheses,Medium,"String, Dynamic Programming, Backtracking, Bracket Sequences",more than 6 months; all time
+30,https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/,Substring with Concatenation of All Words,Hard,"Hash Table, String, Sliding Window",more than 6 months; all time
+64,https://leetcode.com/problems/minimum-path-sum/description/,Minimum Path Sum,Medium,"Array, Dynamic Programming, Matrix",more than 6 months; all time
+215,https://leetcode.com/problems/kth-largest-element-in-an-array/description/,Kth Largest Element in an Array,Medium,"Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect",more than 6 months; all time
+237,https://leetcode.com/problems/delete-node-in-a-linked-list/description/,Delete Node in a Linked List,Medium,Linked List,all time
+2035,https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/description/,Partition Array Into Two Arrays to Minimize Sum Difference,Hard,"Array, Two Pointers, Binary Search, Dynamic Programming, Bit Manipulation, Meet in the Middle, Sorting, Ordered Set, Bitmask",more than 6 months; all time

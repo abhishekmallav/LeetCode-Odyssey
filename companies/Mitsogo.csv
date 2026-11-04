@@ -1,0 +1,17 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+6,https://leetcode.com/problems/zigzag-conversion/description/,Zigzag Conversion,Medium,String,more than 6 months; all time
+20,https://leetcode.com/problems/valid-parentheses/description/,Valid Parentheses,Easy,"String, Stack, Bracket Sequences",more than 6 months; all time
+31,https://leetcode.com/problems/next-permutation/description/,Next Permutation,Medium,"Array, Two Pointers",more than 6 months; all time
+118,https://leetcode.com/problems/pascals-triangle/description/,Pascal's Triangle,Easy,"Array, Dynamic Programming",more than 6 months; all time
+556,https://leetcode.com/problems/next-greater-element-iii/description/,Next Greater Element III,Medium,"Math, Two Pointers, String",more than 6 months; all time
+2978,https://leetcode.com/problems/symmetric-coordinates/description/,Symmetric Coordinates,Medium,Database,more than 6 months; all time
+3095,https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i/description/,Shortest Subarray With OR at Least K I,Easy,"Array, Bit Manipulation, Sliding Window",more than 6 months; all time
+3097,https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii/description/,Shortest Subarray With OR at Least K II,Medium,"Array, Bit Manipulation, Sliding Window",more than 6 months; all time
+3128,https://leetcode.com/problems/right-triangles/description/,Right Triangles,Medium,"Array, Hash Table, Math, Combinatorics, Counting",more than 6 months; all time
+3131,https://leetcode.com/problems/find-the-integer-added-to-array-i/description/,Find the Integer Added to Array I,Easy,Array,more than 6 months; all time
+3132,https://leetcode.com/problems/find-the-integer-added-to-array-ii/description/,Find the Integer Added to Array II,Medium,"Array, Two Pointers, Sorting, Enumeration",more than 6 months; all time
+3144,https://leetcode.com/problems/minimum-substring-partition-of-equal-character-frequency/description/,Minimum Substring Partition of Equal Character Frequency,Medium,"Hash Table, String, Dynamic Programming, Counting",more than 6 months; all time
+3180,https://leetcode.com/problems/maximum-total-reward-using-operations-i/description/,Maximum Total Reward Using Operations I,Medium,"Array, Dynamic Programming, Bit Manipulation, Sorting",more than 6 months; all time
+3181,https://leetcode.com/problems/maximum-total-reward-using-operations-ii/description/,Maximum Total Reward Using Operations II,Hard,"Array, Dynamic Programming, Bit Manipulation, Sorting",more than 6 months; all time
+3213,https://leetcode.com/problems/construct-string-with-minimum-cost/description/,Construct String with Minimum Cost,Hard,"Array, String, Dynamic Programming, Suffix Array",more than 6 months; all time
+3837,https://leetcode.com/problems/delayed-count-of-equal-elements/description/,Delayed Count of Equal Elements,Medium,"Array, Hash Table, Counting",all time

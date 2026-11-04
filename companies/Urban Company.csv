@@ -1,0 +1,8 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+42,https://leetcode.com/problems/trapping-rain-water/description/,Trapping Rain Water,Hard,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack",more than 6 months; all time
+135,https://leetcode.com/problems/candy/description/,Candy,Hard,"Array, Greedy",more than 6 months; all time
+162,https://leetcode.com/problems/find-peak-element/description/,Find Peak Element,Medium,"Array, Binary Search",more than 6 months; all time
+399,https://leetcode.com/problems/evaluate-division/description/,Evaluate Division,Medium,"Array, String, Depth-First Search, Breadth-First Search, Union-Find, Graph Theory, Shortest Path, Bellman–Ford Algorithm, Floyd–Warshall Algorithm",more than 6 months; all time
+417,https://leetcode.com/problems/pacific-atlantic-water-flow/description/,Pacific Atlantic Water Flow,Medium,"Array, Depth-First Search, Breadth-First Search, Matrix",more than 6 months; all time
+1653,https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/description/,Minimum Deletions to Make String Balanced,Medium,"String, Dynamic Programming, Stack",more than 6 months; all time
+1838,https://leetcode.com/problems/frequency-of-the-most-frequent-element/description/,Frequency of the Most Frequent Element,Medium,"Array, Binary Search, Greedy, Sliding Window, Sorting, Prefix Sum",all time

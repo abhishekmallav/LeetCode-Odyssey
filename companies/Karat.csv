@@ -1,0 +1,12 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+36,https://leetcode.com/problems/valid-sudoku/description/,Valid Sudoku,Medium,"Array, Hash Table, Matrix",more than 6 months; all time
+55,https://leetcode.com/problems/jump-game/description/,Jump Game,Medium,"Array, Dynamic Programming, Greedy",more than 6 months; all time
+68,https://leetcode.com/problems/text-justification/description/,Text Justification,Hard,"Array, String, Simulation",more than 6 months; all time
+79,https://leetcode.com/problems/word-search/description/,Word Search,Medium,"Array, String, Backtracking, Depth-First Search, Matrix",more than 6 months; all time
+221,https://leetcode.com/problems/maximal-square/description/,Maximal Square,Medium,"Array, Dynamic Programming, Matrix",more than 6 months; all time
+383,https://leetcode.com/problems/ransom-note/description/,Ransom Note,Easy,"Hash Table, String, Counting",more than 6 months; all time
+1160,https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/description/,Find Words That Can Be Formed by Characters,Easy,"Array, Hash Table, String, Counting",more than 6 months; all time
+1604,https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/description/,Alert Using Same Key-Card Three or More Times in a One Hour Period,Medium,"Array, Hash Table, String, Sorting",more than 6 months; all time
+2133,https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/description/,Check if Every Row and Column Contains All Numbers,Easy,"Array, Hash Table, Matrix",more than 6 months; all time
+2225,https://leetcode.com/problems/find-players-with-zero-or-one-losses/description/,Find Players With Zero or One Losses,Medium,"Array, Hash Table, Sorting, Counting",more than 6 months; all time
+2933,https://leetcode.com/problems/high-access-employees/description/,High-Access Employees,Medium,"Array, Hash Table, String, Sorting",more than 6 months; all time

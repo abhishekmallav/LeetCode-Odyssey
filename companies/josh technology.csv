@@ -1,0 +1,41 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+5,https://leetcode.com/problems/longest-palindromic-substring/description/,Longest Palindromic Substring,Medium,"Two Pointers, String, Dynamic Programming, Manacher",all time
+19,https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/,Remove Nth Node From End of List,Medium,"Linked List, Two Pointers",more than 6 months; all time
+21,https://leetcode.com/problems/merge-two-sorted-lists/description/,Merge Two Sorted Lists,Easy,"Linked List, Recursion",more than 6 months; all time
+24,https://leetcode.com/problems/swap-nodes-in-pairs/description/,Swap Nodes in Pairs,Medium,"Linked List, Recursion",last 3 months; last 6 months; all time
+25,https://leetcode.com/problems/reverse-nodes-in-k-group/description/,Reverse Nodes in k-Group,Hard,"Linked List, Recursion",more than 6 months; all time
+33,https://leetcode.com/problems/search-in-rotated-sorted-array/description/,Search in Rotated Sorted Array,Medium,"Array, Binary Search",more than 6 months; all time
+49,https://leetcode.com/problems/group-anagrams/description/,Group Anagrams,Medium,"Array, Hash Table, String, Sorting",more than 6 months; all time
+54,https://leetcode.com/problems/spiral-matrix/description/,Spiral Matrix,Medium,"Array, Matrix, Simulation",more than 6 months; all time
+61,https://leetcode.com/problems/rotate-list/description/,Rotate List,Medium,"Linked List, Two Pointers",more than 6 months; all time
+70,https://leetcode.com/problems/climbing-stairs/description/,Climbing Stairs,Easy,"Math, Dynamic Programming, Memoization",more than 6 months; all time
+84,https://leetcode.com/problems/largest-rectangle-in-histogram/description/,Largest Rectangle in Histogram,Hard,"Array, Stack, Monotonic Stack, Range Minimum/Maximum Query",more than 6 months; all time
+102,https://leetcode.com/problems/binary-tree-level-order-traversal/description/,Binary Tree Level Order Traversal,Medium,"Tree, Breadth-First Search, Binary Tree",all time
+114,https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/,Flatten Binary Tree to Linked List,Medium,"Linked List, Stack, Tree, Depth-First Search, Binary Tree",more than 6 months; all time
+132,https://leetcode.com/problems/palindrome-partitioning-ii/description/,Palindrome Partitioning II,Hard,"String, Dynamic Programming",more than 6 months; all time
+179,https://leetcode.com/problems/largest-number/description/,Largest Number,Medium,"Array, String, Greedy, Sorting",last 30 days; last 3 months; last 6 months; more than 6 months; all time
+226,https://leetcode.com/problems/invert-binary-tree/description/,Invert Binary Tree,Easy,"Tree, Depth-First Search, Breadth-First Search, Binary Tree",more than 6 months; all time
+283,https://leetcode.com/problems/move-zeroes/description/,Move Zeroes,Easy,"Array, Two Pointers",more than 6 months; all time
+328,https://leetcode.com/problems/odd-even-linked-list/description/,Odd Even Linked List,Medium,Linked List,more than 6 months; all time
+402,https://leetcode.com/problems/remove-k-digits/description/,Remove K Digits,Medium,"String, Stack, Greedy, Monotonic Stack",more than 6 months; all time
+463,https://leetcode.com/problems/island-perimeter/description/,Island Perimeter,Easy,"Array, Depth-First Search, Breadth-First Search, Matrix",more than 6 months; all time
+513,https://leetcode.com/problems/find-bottom-left-tree-value/description/,Find Bottom Left Tree Value,Medium,"Tree, Depth-First Search, Breadth-First Search, Binary Tree",more than 6 months; all time
+515,https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/,Find Largest Value in Each Tree Row,Medium,"Tree, Depth-First Search, Breadth-First Search, Binary Tree",more than 6 months; all time
+560,https://leetcode.com/problems/subarray-sum-equals-k/description/,Subarray Sum Equals K,Medium,"Array, Hash Table, Prefix Sum",last 6 months; all time
+617,https://leetcode.com/problems/merge-two-binary-trees/description/,Merge Two Binary Trees,Easy,"Tree, Depth-First Search, Breadth-First Search, Binary Tree",more than 6 months; all time
+739,https://leetcode.com/problems/daily-temperatures/description/,Daily Temperatures,Medium,"Array, Stack, Monotonic Stack",more than 6 months; all time
+863,https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/description/,All Nodes Distance K in Binary Tree,Medium,"Hash Table, Tree, Depth-First Search, Breadth-First Search, Binary Tree",all time
+875,https://leetcode.com/problems/koko-eating-bananas/description/,Koko Eating Bananas,Medium,"Array, Binary Search",more than 6 months; all time
+929,https://leetcode.com/problems/unique-email-addresses/description/,Unique Email Addresses,Easy,"Array, Hash Table, String",all time
+962,https://leetcode.com/problems/maximum-width-ramp/description/,Maximum Width Ramp,Medium,"Array, Two Pointers, Stack, Monotonic Stack",more than 6 months; all time
+1026,https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/description/,Maximum Difference Between Node and Ancestor,Medium,"Tree, Depth-First Search, Binary Tree",more than 6 months; all time
+1315,https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/description/,Sum of Nodes with Even-Valued Grandparent,Medium,"Tree, Depth-First Search, Breadth-First Search, Binary Tree",more than 6 months; all time
+1325,https://leetcode.com/problems/delete-leaves-with-a-given-value/description/,Delete Leaves With a Given Value,Medium,"Tree, Depth-First Search, Binary Tree",more than 6 months; all time
+1448,https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/,Count Good Nodes in Binary Tree,Medium,"Tree, Depth-First Search, Breadth-First Search, Binary Tree",last 3 months; last 6 months; more than 6 months; all time
+2074,https://leetcode.com/problems/reverse-nodes-in-even-length-groups/description/,Reverse Nodes in Even Length Groups,Medium,Linked List,last 6 months; more than 6 months; all time
+2130,https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/,Maximum Twin Sum of a Linked List,Medium,"Linked List, Two Pointers, Stack",more than 6 months; all time
+2134,https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/description/,Minimum Swaps to Group All 1's Together II,Medium,"Array, Sliding Window",more than 6 months; all time
+2181,https://leetcode.com/problems/merge-nodes-in-between-zeros/description/,Merge Nodes in Between Zeros,Medium,"Linked List, Simulation",more than 6 months; all time
+2415,https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/description/,Reverse Odd Levels of Binary Tree,Medium,"Tree, Depth-First Search, Breadth-First Search, Binary Tree",last 6 months; more than 6 months; all time
+2606,https://leetcode.com/problems/find-the-substring-with-maximum-cost/description/,Find the Substring With Maximum Cost,Medium,"Array, Hash Table, String, Dynamic Programming",more than 6 months; all time
+2824,https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/description/,Count Pairs Whose Sum is Less than Target,Easy,"Array, Two Pointers, Binary Search, Sorting",more than 6 months; all time

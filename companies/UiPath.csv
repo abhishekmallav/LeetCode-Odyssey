@@ -1,0 +1,16 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+12,https://leetcode.com/problems/integer-to-roman/description/,Integer to Roman,Medium,"Hash Table, Math, String",more than 6 months; all time
+90,https://leetcode.com/problems/subsets-ii/description/,Subsets II,Medium,"Array, Backtracking, Bit Manipulation",more than 6 months; all time
+143,https://leetcode.com/problems/reorder-list/description/,Reorder List,Medium,"Linked List, Two Pointers, Stack, Recursion",all time
+155,https://leetcode.com/problems/min-stack/description/,Min Stack,Medium,"Stack, Design",last 3 months; last 6 months; all time
+312,https://leetcode.com/problems/burst-balloons/description/,Burst Balloons,Hard,"Array, Dynamic Programming",more than 6 months; all time
+354,https://leetcode.com/problems/russian-doll-envelopes/description/,Russian Doll Envelopes,Hard,"Array, Binary Search, Dynamic Programming, Sorting, Longest Increasing Subsequence",more than 6 months; all time
+424,https://leetcode.com/problems/longest-repeating-character-replacement/description/,Longest Repeating Character Replacement,Medium,"Hash Table, String, Sliding Window",more than 6 months; all time
+827,https://leetcode.com/problems/making-a-large-island/description/,Making A Large Island,Hard,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix",more than 6 months; all time
+881,https://leetcode.com/problems/boats-to-save-people/description/,Boats to Save People,Medium,"Array, Two Pointers, Greedy, Sorting, Timsort",more than 6 months; all time
+968,https://leetcode.com/problems/binary-tree-cameras/description/,Binary Tree Cameras,Hard,"Dynamic Programming, Tree, Depth-First Search, Binary Tree, DP on Trees",all time
+990,https://leetcode.com/problems/satisfiability-of-equality-equations/description/,Satisfiability of Equality Equations,Medium,"Array, String, Union-Find, Graph Theory",more than 6 months; all time
+1036,https://leetcode.com/problems/escape-a-large-maze/description/,Escape a Large Maze,Hard,"Array, Hash Table, Depth-First Search, Breadth-First Search, Bidirectional Search",more than 6 months; all time
+1162,https://leetcode.com/problems/as-far-from-land-as-possible/description/,As Far from Land as Possible,Medium,"Array, Dynamic Programming, Breadth-First Search, Matrix",more than 6 months; all time
+2603,https://leetcode.com/problems/collect-coins-in-a-tree/description/,Collect Coins in a Tree,Hard,"Array, Tree, Graph Theory, Topological Sort",more than 6 months; all time
+2826,https://leetcode.com/problems/sorting-three-groups/description/,Sorting Three Groups,Medium,"Array, Binary Search, Dynamic Programming",more than 6 months; all time

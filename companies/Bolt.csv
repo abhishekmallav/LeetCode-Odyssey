@@ -1,0 +1,6 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+121,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/,Best Time to Buy and Sell Stock,Easy,"Array, Dynamic Programming",more than 6 months; all time
+560,https://leetcode.com/problems/subarray-sum-equals-k/description/,Subarray Sum Equals K,Medium,"Array, Hash Table, Prefix Sum",more than 6 months; all time
+1311,https://leetcode.com/problems/get-watched-videos-by-your-friends/description/,Get Watched Videos by Your Friends,Medium,"Array, Hash Table, Breadth-First Search, Graph Theory, Sorting",last 6 months; all time
+1941,https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/description/,Check if All Characters Have Equal Number of Occurrences,Easy,"Hash Table, String, Counting",more than 6 months; all time
+2696,https://leetcode.com/problems/minimum-string-length-after-removing-substrings/description/,Minimum String Length After Removing Substrings,Easy,"String, Stack, Simulation",more than 6 months; all time

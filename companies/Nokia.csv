@@ -1,0 +1,13 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+14,https://leetcode.com/problems/longest-common-prefix/description/,Longest Common Prefix,Easy,"Array, String, Trie",more than 6 months; all time
+20,https://leetcode.com/problems/valid-parentheses/description/,Valid Parentheses,Easy,"String, Stack, Bracket Sequences",more than 6 months; all time
+146,https://leetcode.com/problems/lru-cache/description/,LRU Cache,Medium,"Hash Table, Linked List, Design, Doubly-Linked List",more than 6 months; all time
+204,https://leetcode.com/problems/count-primes/description/,Count Primes,Medium,"Array, Math, Enumeration, Number Theory, Primality Test, Sieve Theory, Prime Number Sieve",more than 6 months; all time
+206,https://leetcode.com/problems/reverse-linked-list/description/,Reverse Linked List,Easy,"Linked List, Recursion",last 3 months; last 6 months; all time
+242,https://leetcode.com/problems/valid-anagram/description/,Valid Anagram,Easy,"Hash Table, String, Sorting",more than 6 months; all time
+412,https://leetcode.com/problems/fizz-buzz/description/,Fizz Buzz,Easy,"Math, String, Simulation",all time
+468,https://leetcode.com/problems/validate-ip-address/description/,Validate IP Address,Medium,String,last 30 days; last 3 months; last 6 months; all time
+875,https://leetcode.com/problems/koko-eating-bananas/description/,Koko Eating Bananas,Medium,"Array, Binary Search",more than 6 months; all time
+1250,https://leetcode.com/problems/check-if-it-is-a-good-array/description/,Check If It Is a Good Array,Hard,"Array, Math, Number Theory, Bézout's Lemma, Euclidean Algorithm, Greatest Common Divisor, Extended Euclidean Algorithm",more than 6 months; all time
+2144,https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/description/,Minimum Cost of Buying Candies With Discount,Easy,"Array, Greedy, Sorting",more than 6 months; all time
+2751,https://leetcode.com/problems/robot-collisions/description/,Robot Collisions,Hard,"Array, Stack, Sorting, Simulation",last 6 months; all time

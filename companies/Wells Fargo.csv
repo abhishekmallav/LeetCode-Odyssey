@@ -1,0 +1,25 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+14,https://leetcode.com/problems/longest-common-prefix/description/,Longest Common Prefix,Easy,"Array, String, Trie",more than 6 months; all time
+20,https://leetcode.com/problems/valid-parentheses/description/,Valid Parentheses,Easy,"String, Stack, Bracket Sequences",more than 6 months; all time
+53,https://leetcode.com/problems/maximum-subarray/description/,Maximum Subarray,Medium,"Array, Divide and Conquer, Dynamic Programming",more than 6 months; all time
+54,https://leetcode.com/problems/spiral-matrix/description/,Spiral Matrix,Medium,"Array, Matrix, Simulation",more than 6 months; all time
+56,https://leetcode.com/problems/merge-intervals/description/,Merge Intervals,Medium,"Array, Sorting, Quicksort",more than 6 months; all time
+93,https://leetcode.com/problems/restore-ip-addresses/description/,Restore IP Addresses,Medium,"String, Backtracking",more than 6 months; all time
+146,https://leetcode.com/problems/lru-cache/description/,LRU Cache,Medium,"Hash Table, Linked List, Design, Doubly-Linked List",more than 6 months; all time
+160,https://leetcode.com/problems/intersection-of-two-linked-lists/description/,Intersection of Two Linked Lists,Easy,"Hash Table, Linked List, Two Pointers",more than 6 months; all time
+200,https://leetcode.com/problems/number-of-islands/description/,Number of Islands,Medium,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix",more than 6 months; all time
+238,https://leetcode.com/problems/product-of-array-except-self/description/,Product of Array Except Self,Medium,"Array, Prefix Sum",more than 6 months; all time
+253,https://leetcode.com/problems/meeting-rooms-ii/description/,Meeting Rooms II,Medium,"Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum",more than 6 months; all time
+460,https://leetcode.com/problems/lfu-cache/description/,LFU Cache,Hard,"Hash Table, Linked List, Design, Doubly-Linked List",more than 6 months; all time
+696,https://leetcode.com/problems/count-binary-substrings/description/,Count Binary Substrings,Easy,"Two Pointers, String",last 6 months; more than 6 months; all time
+703,https://leetcode.com/problems/kth-largest-element-in-a-stream/description/,Kth Largest Element in a Stream,Easy,"Tree, Design, Binary Search Tree, Heap (Priority Queue), Binary Tree, Data Stream",more than 6 months; all time
+713,https://leetcode.com/problems/subarray-product-less-than-k/description/,Subarray Product Less Than K,Medium,"Array, Binary Search, Sliding Window, Prefix Sum",last 3 months; last 6 months; all time
+796,https://leetcode.com/problems/rotate-string/description/,Rotate String,Easy,"String, String Matching",more than 6 months; all time
+844,https://leetcode.com/problems/backspace-string-compare/description/,Backspace String Compare,Easy,"Two Pointers, String, Stack, Simulation",more than 6 months; all time
+1307,https://leetcode.com/problems/verbal-arithmetic-puzzle/description/,Verbal Arithmetic Puzzle,Hard,"Array, Math, String, Backtracking",more than 6 months; all time
+1768,https://leetcode.com/problems/merge-strings-alternately/description/,Merge Strings Alternately,Easy,"Two Pointers, String",more than 6 months; all time
+1953,https://leetcode.com/problems/maximum-number-of-weeks-for-which-you-can-work/description/,Maximum Number of Weeks for Which You Can Work,Medium,"Array, Greedy",more than 6 months; all time
+2008,https://leetcode.com/problems/maximum-earnings-from-taxi/description/,Maximum Earnings From Taxi,Medium,"Array, Hash Table, Binary Search, Dynamic Programming, Sorting",more than 6 months; all time
+2062,https://leetcode.com/problems/count-vowel-substrings-of-a-string/description/,Count Vowel Substrings of a String,Easy,"Hash Table, String",more than 6 months; all time
+2696,https://leetcode.com/problems/minimum-string-length-after-removing-substrings/description/,Minimum String Length After Removing Substrings,Easy,"String, Stack, Simulation",last 6 months; more than 6 months; all time
+2904,https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/description/,Shortest and Lexicographically Smallest Beautiful String,Medium,"String, Sliding Window",more than 6 months; all time

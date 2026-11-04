@@ -1,0 +1,18 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+25,https://leetcode.com/problems/reverse-nodes-in-k-group/description/,Reverse Nodes in k-Group,Hard,"Linked List, Recursion",more than 6 months; all time
+33,https://leetcode.com/problems/search-in-rotated-sorted-array/description/,Search in Rotated Sorted Array,Medium,"Array, Binary Search",more than 6 months; all time
+73,https://leetcode.com/problems/set-matrix-zeroes/description/,Set Matrix Zeroes,Medium,"Array, Hash Table, Matrix",more than 6 months; all time
+127,https://leetcode.com/problems/word-ladder/description/,Word Ladder,Hard,"Hash Table, String, Breadth-First Search, Bidirectional Search",more than 6 months; all time
+146,https://leetcode.com/problems/lru-cache/description/,LRU Cache,Medium,"Hash Table, Linked List, Design, Doubly-Linked List",last 6 months; more than 6 months; all time
+217,https://leetcode.com/problems/contains-duplicate/description/,Contains Duplicate,Easy,"Array, Hash Table, Sorting",more than 6 months; all time
+273,https://leetcode.com/problems/integer-to-english-words/description/,Integer to English Words,Hard,"Math, String, Recursion",last 6 months; more than 6 months; all time
+465,https://leetcode.com/problems/optimal-account-balancing/description/,Optimal Account Balancing,Hard,"Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask",more than 6 months; all time
+945,https://leetcode.com/problems/minimum-increment-to-make-array-unique/description/,Minimum Increment to Make Array Unique,Medium,"Array, Greedy, Sorting, Counting",more than 6 months; all time
+1041,https://leetcode.com/problems/robot-bounded-in-circle/description/,Robot Bounded In Circle,Medium,"Math, String, Simulation",more than 6 months; all time
+1154,https://leetcode.com/problems/day-of-the-year/description/,Day of the Year,Easy,"Math, String",more than 6 months; all time
+2231,https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/description/,Largest Number After Digit Swaps by Parity,Easy,"Sorting, Heap (Priority Queue)",more than 6 months; all time
+2366,https://leetcode.com/problems/minimum-replacements-to-sort-the-array/description/,Minimum Replacements to Sort the Array,Hard,"Array, Math, Greedy",more than 6 months; all time
+2932,https://leetcode.com/problems/maximum-strong-pair-xor-i/description/,Maximum Strong Pair XOR I,Easy,"Array, Hash Table, Bit Manipulation, Trie, Sliding Window",more than 6 months; all time
+2935,https://leetcode.com/problems/maximum-strong-pair-xor-ii/description/,Maximum Strong Pair XOR II,Hard,"Array, Hash Table, Bit Manipulation, Trie, Sliding Window",more than 6 months; all time
+2964,https://leetcode.com/problems/number-of-divisible-triplet-sums/description/,Number of Divisible Triplet Sums,Medium,"Array, Hash Table",more than 6 months; all time
+3091,https://leetcode.com/problems/apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k/description/,Apply Operations to Make Sum of Array Greater Than or Equal to k,Medium,"Math, Greedy, Enumeration",more than 6 months; all time

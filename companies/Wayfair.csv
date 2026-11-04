@@ -1,0 +1,21 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+49,https://leetcode.com/problems/group-anagrams/description/,Group Anagrams,Medium,"Array, Hash Table, String, Sorting",more than 6 months; all time
+125,https://leetcode.com/problems/valid-palindrome/description/,Valid Palindrome,Easy,"Two Pointers, String",more than 6 months; all time
+239,https://leetcode.com/problems/sliding-window-maximum/description/,Sliding Window Maximum,Hard,"Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue, Range Minimum/Maximum Query",more than 6 months; all time
+415,https://leetcode.com/problems/add-strings/description/,Add Strings,Easy,"Math, String, Simulation",more than 6 months; all time
+780,https://leetcode.com/problems/reaching-points/description/,Reaching Points,Hard,"Math, Euclidean Algorithm, Greatest Common Divisor",more than 6 months; all time
+844,https://leetcode.com/problems/backspace-string-compare/description/,Backspace String Compare,Easy,"Two Pointers, String, Stack, Simulation",more than 6 months; all time
+1014,https://leetcode.com/problems/best-sightseeing-pair/description/,Best Sightseeing Pair,Medium,"Array, Dynamic Programming",more than 6 months; all time
+1189,https://leetcode.com/problems/maximum-number-of-balloons/description/,Maximum Number of Balloons,Easy,"Hash Table, String, Counting",more than 6 months; all time
+1194,https://leetcode.com/problems/tournament-winners/description/,Tournament Winners,Hard,Database,more than 6 months; all time
+1204,https://leetcode.com/problems/last-person-to-fit-in-the-bus/description/,Last Person to Fit in the Bus,Medium,Database,more than 6 months; all time
+1212,https://leetcode.com/problems/team-scores-in-football-tournament/description/,Team Scores in Football Tournament,Medium,Database,more than 6 months; all time
+1244,https://leetcode.com/problems/design-a-leaderboard/description/,Design A Leaderboard,Medium,"Hash Table, Design, Sorting",more than 6 months; all time
+1405,https://leetcode.com/problems/longest-happy-string/description/,Longest Happy String,Medium,"String, Greedy, Heap (Priority Queue)",more than 6 months; all time
+1481,https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/description/,Least Number of Unique Integers after K Removals,Medium,"Array, Hash Table, Greedy, Sorting, Counting",more than 6 months; all time
+1604,https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/description/,Alert Using Same Key-Card Three or More Times in a One Hour Period,Medium,"Array, Hash Table, String, Sorting",more than 6 months; all time
+1895,https://leetcode.com/problems/largest-magic-square/description/,Largest Magic Square,Medium,"Array, Matrix, Prefix Sum",more than 6 months; all time
+1957,https://leetcode.com/problems/delete-characters-to-make-fancy-string/description/,Delete Characters to Make Fancy String,Easy,String,more than 6 months; all time
+2139,https://leetcode.com/problems/minimum-moves-to-reach-target-score/description/,Minimum Moves to Reach Target Score,Medium,"Math, Greedy",more than 6 months; all time
+2380,https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string/description/,Time Needed to Rearrange a Binary String,Medium,"String, Dynamic Programming, Simulation",more than 6 months; all time
+2950,https://leetcode.com/problems/number-of-divisible-substrings/description/,Number of Divisible Substrings,Medium,"Hash Table, String, Counting, Prefix Sum",more than 6 months; all time

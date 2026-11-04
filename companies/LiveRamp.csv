@@ -1,0 +1,7 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+207,https://leetcode.com/problems/course-schedule/description/,Course Schedule,Medium,"Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort, Directed Acyclic Graph",more than 6 months; all time
+575,https://leetcode.com/problems/distribute-candies/description/,Distribute Candies,Easy,"Array, Hash Table",more than 6 months; all time
+581,https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/,Shortest Unsorted Continuous Subarray,Medium,"Array, Two Pointers, Stack, Greedy, Sorting, Monotonic Stack",more than 6 months; all time
+594,https://leetcode.com/problems/longest-harmonious-subsequence/description/,Longest Harmonious Subsequence,Easy,"Array, Hash Table, Sliding Window, Sorting, Counting",more than 6 months; all time
+949,https://leetcode.com/problems/largest-time-for-given-digits/description/,Largest Time for Given Digits,Medium,"Array, String, Backtracking, Enumeration",more than 6 months; all time
+981,https://leetcode.com/problems/time-based-key-value-store/description/,Time Based Key-Value Store,Medium,"Hash Table, String, Binary Search, Design",more than 6 months; all time

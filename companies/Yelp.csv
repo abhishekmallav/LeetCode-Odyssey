@@ -1,0 +1,29 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+1,https://leetcode.com/problems/two-sum/description/,Two Sum,Easy,"Array, Hash Table",more than 6 months; all time
+3,https://leetcode.com/problems/longest-substring-without-repeating-characters/description/,Longest Substring Without Repeating Characters,Medium,"Hash Table, String, Sliding Window",more than 6 months; all time
+14,https://leetcode.com/problems/longest-common-prefix/description/,Longest Common Prefix,Easy,"Array, String, Trie",more than 6 months; all time
+49,https://leetcode.com/problems/group-anagrams/description/,Group Anagrams,Medium,"Array, Hash Table, String, Sorting",more than 6 months; all time
+56,https://leetcode.com/problems/merge-intervals/description/,Merge Intervals,Medium,"Array, Sorting, Quicksort",more than 6 months; all time
+126,https://leetcode.com/problems/word-ladder-ii/description/,Word Ladder II,Hard,"Hash Table, String, Backtracking, Breadth-First Search, Bidirectional Search",more than 6 months; all time
+127,https://leetcode.com/problems/word-ladder/description/,Word Ladder,Hard,"Hash Table, String, Breadth-First Search, Bidirectional Search",more than 6 months; all time
+151,https://leetcode.com/problems/reverse-words-in-a-string/description/,Reverse Words in a String,Medium,"Two Pointers, String",more than 6 months; all time
+206,https://leetcode.com/problems/reverse-linked-list/description/,Reverse Linked List,Easy,"Linked List, Recursion",more than 6 months; all time
+207,https://leetcode.com/problems/course-schedule/description/,Course Schedule,Medium,"Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort, Directed Acyclic Graph",more than 6 months; all time
+218,https://leetcode.com/problems/the-skyline-problem/description/,The Skyline Problem,Hard,"Array, Divide and Conquer, Binary Indexed Tree, Segment Tree, Sweep Line, Sorting, Heap (Priority Queue), Ordered Set",more than 6 months; all time
+242,https://leetcode.com/problems/valid-anagram/description/,Valid Anagram,Easy,"Hash Table, String, Sorting",more than 6 months; all time
+347,https://leetcode.com/problems/top-k-frequent-elements/description/,Top K Frequent Elements,Medium,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect",more than 6 months; all time
+380,https://leetcode.com/problems/insert-delete-getrandom-o1/description/,Insert Delete GetRandom O(1),Medium,"Array, Hash Table, Math, Design, Randomized",more than 6 months; all time
+381,https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/description/,Insert Delete GetRandom O(1) - Duplicates allowed,Hard,"Array, Hash Table, Math, Design, Randomized",more than 6 months; all time
+394,https://leetcode.com/problems/decode-string/description/,Decode String,Medium,"String, Stack, Recursion",more than 6 months; all time
+443,https://leetcode.com/problems/string-compression/description/,String Compression,Medium,"Two Pointers, String",more than 6 months; all time
+564,https://leetcode.com/problems/find-the-closest-palindrome/description/,Find the Closest Palindrome,Hard,"Math, String",more than 6 months; all time
+599,https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/,Minimum Index Sum of Two Lists,Easy,"Array, Hash Table, String",more than 6 months; all time
+692,https://leetcode.com/problems/top-k-frequent-words/description/,Top K Frequent Words,Medium,"Array, Hash Table, String, Trie, Sorting, Heap (Priority Queue), Bucket Sort, Counting",more than 6 months; all time
+784,https://leetcode.com/problems/letter-case-permutation/description/,Letter Case Permutation,Medium,"String, Backtracking, Bit Manipulation",more than 6 months; all time
+1126,https://leetcode.com/problems/active-businesses/description/,Active Businesses,Medium,Database,more than 6 months; all time
+1333,https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/description/,"Filter Restaurants by Vegan-Friendly, Price and Distance",Medium,"Array, Sorting",more than 6 months; all time
+1413,https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/description/,Minimum Value to Get Positive Step by Step Sum,Easy,"Array, Prefix Sum",all time
+1436,https://leetcode.com/problems/destination-city/description/,Destination City,Easy,"Array, Hash Table, String",more than 6 months; all time
+1455,https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/description/,Check If a Word Occurs As a Prefix of Any Word in a Sentence,Easy,"Two Pointers, String, String Matching",more than 6 months; all time
+2038,https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/description/,Remove Colored Pieces if Both Neighbors are the Same Color,Medium,"Math, String, Greedy, Game Theory",more than 6 months; all time
+2904,https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/description/,Shortest and Lexicographically Smallest Beautiful String,Medium,"String, Sliding Window",more than 6 months; all time

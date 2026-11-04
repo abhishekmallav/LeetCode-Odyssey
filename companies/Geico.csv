@@ -1,0 +1,19 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+12,https://leetcode.com/problems/integer-to-roman/description/,Integer to Roman,Medium,"Hash Table, Math, String",more than 6 months; all time
+36,https://leetcode.com/problems/valid-sudoku/description/,Valid Sudoku,Medium,"Array, Hash Table, Matrix",more than 6 months; all time
+41,https://leetcode.com/problems/first-missing-positive/description/,First Missing Positive,Hard,"Array, Hash Table",more than 6 months; all time
+56,https://leetcode.com/problems/merge-intervals/description/,Merge Intervals,Medium,"Array, Sorting, Quicksort",more than 6 months; all time
+122,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/,Best Time to Buy and Sell Stock II,Medium,"Array, Dynamic Programming, Greedy",more than 6 months; all time
+309,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/,Best Time to Buy and Sell Stock with Cooldown,Medium,"Array, Dynamic Programming",more than 6 months; all time
+322,https://leetcode.com/problems/coin-change/description/,Coin Change,Medium,"Array, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack",more than 6 months; all time
+1047,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/,Remove All Adjacent Duplicates In String,Easy,"String, Stack",more than 6 months; all time
+1102,https://leetcode.com/problems/path-with-maximum-minimum-value/description/,Path With Maximum Minimum Value,Medium,"Array, Binary Search, Depth-First Search, Breadth-First Search, Union-Find, Heap (Priority Queue), Matrix, Dijkstra's Algorithm",more than 6 months; all time
+1386,https://leetcode.com/problems/cinema-seat-allocation/description/,Cinema Seat Allocation,Medium,"Array, Hash Table, Greedy, Bit Manipulation",last 6 months; more than 6 months; all time
+1404,https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/description/,Number of Steps to Reduce a Number in Binary Representation to One,Medium,"String, Bit Manipulation, Simulation",more than 6 months; all time
+1405,https://leetcode.com/problems/longest-happy-string/description/,Longest Happy String,Medium,"String, Greedy, Heap (Priority Queue)",more than 6 months; all time
+1910,https://leetcode.com/problems/remove-all-occurrences-of-a-substring/description/,Remove All Occurrences of a Substring,Medium,"String, Stack, Simulation",all time
+2061,https://leetcode.com/problems/number-of-spaces-cleaning-robot-cleaned/description/,Number of Spaces Cleaning Robot Cleaned,Medium,"Array, Matrix, Simulation",more than 6 months; all time
+2086,https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters/description/,Minimum Number of Food Buckets to Feed the Hamsters,Medium,"String, Dynamic Programming, Greedy",last 6 months; more than 6 months; all time
+2384,https://leetcode.com/problems/largest-palindromic-number/description/,Largest Palindromic Number,Medium,"Hash Table, String, Greedy, Counting",more than 6 months; all time
+2850,https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid/description/,Minimum Moves to Spread Stones Over Grid,Medium,"Array, Dynamic Programming, Backtracking, Bit Manipulation, Matrix, Bitmask",more than 6 months; all time
+3119,https://leetcode.com/problems/maximum-number-of-potholes-that-can-be-fixed/description/,Maximum Number of Potholes That Can Be Fixed,Medium,"String, Greedy, Sorting",more than 6 months; all time

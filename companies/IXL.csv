@@ -1,0 +1,18 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+23,https://leetcode.com/problems/merge-k-sorted-lists/description/,Merge k Sorted Lists,Hard,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort, Tournament Sort",more than 6 months; all time
+56,https://leetcode.com/problems/merge-intervals/description/,Merge Intervals,Medium,"Array, Sorting, Quicksort",more than 6 months; all time
+162,https://leetcode.com/problems/find-peak-element/description/,Find Peak Element,Medium,"Array, Binary Search",more than 6 months; all time
+166,https://leetcode.com/problems/fraction-to-recurring-decimal/description/,Fraction to Recurring Decimal,Medium,"Hash Table, Math, String",more than 6 months; all time
+207,https://leetcode.com/problems/course-schedule/description/,Course Schedule,Medium,"Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort, Directed Acyclic Graph",more than 6 months; all time
+227,https://leetcode.com/problems/basic-calculator-ii/description/,Basic Calculator II,Medium,"Math, String, Stack",more than 6 months; all time
+234,https://leetcode.com/problems/palindrome-linked-list/description/,Palindrome Linked List,Easy,"Linked List, Two Pointers, Stack, Recursion",more than 6 months; all time
+295,https://leetcode.com/problems/find-median-from-data-stream/description/,Find Median from Data Stream,Hard,"Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream",last 3 months; last 6 months; more than 6 months; all time
+353,https://leetcode.com/problems/design-snake-game/description/,Design Snake Game,Medium,"Array, Hash Table, Design, Queue, Simulation",more than 6 months; all time
+380,https://leetcode.com/problems/insert-delete-getrandom-o1/description/,Insert Delete GetRandom O(1),Medium,"Array, Hash Table, Math, Design, Randomized",more than 6 months; all time
+592,https://leetcode.com/problems/fraction-addition-and-subtraction/description/,Fraction Addition and Subtraction,Medium,"Math, String, Simulation, Euclidean Algorithm, Greatest Common Divisor",more than 6 months; all time
+598,https://leetcode.com/problems/range-addition-ii/description/,Range Addition II,Easy,"Array, Math",more than 6 months; all time
+634,https://leetcode.com/problems/find-the-derangement-of-an-array/description/,Find the Derangement of An Array,Medium,"Math, Dynamic Programming, Combinatorics",more than 6 months; all time
+691,https://leetcode.com/problems/stickers-to-spell-word/description/,Stickers to Spell Word,Hard,"Array, Hash Table, String, Dynamic Programming, Backtracking, Bit Manipulation, Memoization, Bitmask",more than 6 months; all time
+717,https://leetcode.com/problems/1-bit-and-2-bit-characters/description/,1-bit and 2-bit Characters,Easy,Array,more than 6 months; all time
+1347,https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/description/,Minimum Number of Steps to Make Two Strings Anagram,Medium,"Hash Table, String, Counting",more than 6 months; all time
+1465,https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/description/,Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts,Medium,"Array, Greedy, Sorting",more than 6 months; all time

@@ -1,0 +1,32 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+1,https://leetcode.com/problems/two-sum/description/,Two Sum,Easy,"Array, Hash Table",more than 6 months; all time
+8,https://leetcode.com/problems/string-to-integer-atoi/description/,String to Integer (atoi),Medium,String,more than 6 months; all time
+54,https://leetcode.com/problems/spiral-matrix/description/,Spiral Matrix,Medium,"Array, Matrix, Simulation",more than 6 months; all time
+56,https://leetcode.com/problems/merge-intervals/description/,Merge Intervals,Medium,"Array, Sorting, Quicksort",more than 6 months; all time
+68,https://leetcode.com/problems/text-justification/description/,Text Justification,Hard,"Array, String, Simulation",more than 6 months; all time
+198,https://leetcode.com/problems/house-robber/description/,House Robber,Medium,"Array, Dynamic Programming",last 6 months; more than 6 months; all time
+213,https://leetcode.com/problems/house-robber-ii/description/,House Robber II,Medium,"Array, Dynamic Programming",more than 6 months; all time
+348,https://leetcode.com/problems/design-tic-tac-toe/description/,Design Tic-Tac-Toe,Medium,"Array, Hash Table, Design, Matrix, Simulation",last 6 months; more than 6 months; all time
+362,https://leetcode.com/problems/design-hit-counter/description/,Design Hit Counter,Medium,"Array, Binary Search, Design, Queue, Data Stream",last 30 days; last 3 months; last 6 months; more than 6 months; all time
+438,https://leetcode.com/problems/find-all-anagrams-in-a-string/description/,Find All Anagrams in a String,Medium,"Hash Table, String, Sliding Window",last 3 months; last 6 months; more than 6 months; all time
+567,https://leetcode.com/problems/permutation-in-string/description/,Permutation in String,Medium,"Hash Table, Two Pointers, String, Sliding Window",more than 6 months; all time
+742,https://leetcode.com/problems/closest-leaf-in-a-binary-tree/description/,Closest Leaf in a Binary Tree,Medium,"Tree, Depth-First Search, Breadth-First Search, Binary Tree",more than 6 months; all time
+751,https://leetcode.com/problems/ip-to-cidr/description/,IP to CIDR,Medium,"String, Bit Manipulation",last 6 months; more than 6 months; all time
+845,https://leetcode.com/problems/longest-mountain-in-array/description/,Longest Mountain in Array,Medium,"Array, Two Pointers, Dynamic Programming, Enumeration",more than 6 months; all time
+900,https://leetcode.com/problems/rle-iterator/description/,RLE Iterator,Medium,"Array, Design, Counting, Iterator",last 6 months; more than 6 months; all time
+933,https://leetcode.com/problems/number-of-recent-calls/description/,Number of Recent Calls,Easy,"Design, Queue, Data Stream",last 6 months; more than 6 months; all time
+980,https://leetcode.com/problems/unique-paths-iii/description/,Unique Paths III,Hard,"Array, Backtracking, Bit Manipulation, Matrix, Hamiltonian Path",more than 6 months; all time
+981,https://leetcode.com/problems/time-based-key-value-store/description/,Time Based Key-Value Store,Medium,"Hash Table, String, Binary Search, Design",last 6 months; more than 6 months; all time
+994,https://leetcode.com/problems/rotting-oranges/description/,Rotting Oranges,Medium,"Array, Breadth-First Search, Matrix",more than 6 months; all time
+1091,https://leetcode.com/problems/shortest-path-in-binary-matrix/description/,Shortest Path in Binary Matrix,Medium,"Array, Breadth-First Search, Matrix",more than 6 months; all time
+1146,https://leetcode.com/problems/snapshot-array/description/,Snapshot Array,Medium,"Array, Hash Table, Binary Search, Design, Persistent Data Structure",more than 6 months; all time
+1197,https://leetcode.com/problems/minimum-knight-moves/description/,Minimum Knight Moves,Medium,"Breadth-First Search, Heuristic Search, Bidirectional Search, A* Search",more than 6 months; all time
+1293,https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/description/,Shortest Path in a Grid with Obstacles Elimination,Hard,"Array, Breadth-First Search, Matrix",last 6 months; more than 6 months; all time
+1865,https://leetcode.com/problems/finding-pairs-with-a-certain-sum/description/,Finding Pairs With a Certain Sum,Medium,"Array, Hash Table, Design",more than 6 months; all time
+1928,https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/description/,Minimum Cost to Reach Destination in Time,Hard,"Array, Dynamic Programming, Graph Theory, Dijkstra's Algorithm",more than 6 months; all time
+2096,https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/description/,Step-By-Step Directions From a Binary Tree Node to Another,Medium,"String, Tree, Depth-First Search, Binary Tree, Binary Lifting, Lowest Common Ancestor",last 6 months; more than 6 months; all time
+2131,https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/description/,Longest Palindrome by Concatenating Two Letter Words,Medium,"Array, Hash Table, String, Greedy, Counting",more than 6 months; all time
+2251,https://leetcode.com/problems/number-of-flowers-in-full-bloom/description/,Number of Flowers in Full Bloom,Hard,"Array, Hash Table, Binary Search, Sorting, Prefix Sum, Ordered Set",more than 6 months; all time
+2276,https://leetcode.com/problems/count-integers-in-intervals/description/,Count Integers in Intervals,Hard,"Design, Segment Tree, Ordered Set",more than 6 months; all time
+2468,https://leetcode.com/problems/split-message-based-on-limit/description/,Split Message Based on Limit,Hard,"String, Enumeration",more than 6 months; all time
+3043,https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/description/,Find the Length of the Longest Common Prefix,Medium,"Array, Hash Table, String, Trie",more than 6 months; all time

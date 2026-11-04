@@ -1,0 +1,19 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+3,https://leetcode.com/problems/longest-substring-without-repeating-characters/description/,Longest Substring Without Repeating Characters,Medium,"Hash Table, String, Sliding Window",all time
+4,https://leetcode.com/problems/median-of-two-sorted-arrays/description/,Median of Two Sorted Arrays,Hard,"Array, Binary Search, Divide and Conquer",more than 6 months; all time
+37,https://leetcode.com/problems/sudoku-solver/description/,Sudoku Solver,Hard,"Array, Hash Table, Backtracking, Matrix, Algorithm X, Dancing Links",more than 6 months; all time
+85,https://leetcode.com/problems/maximal-rectangle/description/,Maximal Rectangle,Hard,"Array, Dynamic Programming, Stack, Matrix, Monotonic Stack",more than 6 months; all time
+127,https://leetcode.com/problems/word-ladder/description/,Word Ladder,Hard,"Hash Table, String, Breadth-First Search, Bidirectional Search",more than 6 months; all time
+128,https://leetcode.com/problems/longest-consecutive-sequence/description/,Longest Consecutive Sequence,Medium,"Array, Hash Table, Union-Find",all time
+295,https://leetcode.com/problems/find-median-from-data-stream/description/,Find Median from Data Stream,Hard,"Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream",all time
+354,https://leetcode.com/problems/russian-doll-envelopes/description/,Russian Doll Envelopes,Hard,"Array, Binary Search, Dynamic Programming, Sorting, Longest Increasing Subsequence",last 3 months; last 6 months; all time
+1567,https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/description/,Maximum Length of Subarray With Positive Product,Medium,"Array, Dynamic Programming, Greedy",more than 6 months; all time
+2024,https://leetcode.com/problems/maximize-the-confusion-of-an-exam/description/,Maximize the Confusion of an Exam,Medium,"String, Binary Search, Sliding Window, Prefix Sum",more than 6 months; all time
+2035,https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/description/,Partition Array Into Two Arrays to Minimize Sum Difference,Hard,"Array, Two Pointers, Binary Search, Dynamic Programming, Bit Manipulation, Meet in the Middle, Sorting, Ordered Set, Bitmask",last 3 months; last 6 months; more than 6 months; all time
+2134,https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/description/,Minimum Swaps to Group All 1's Together II,Medium,"Array, Sliding Window",more than 6 months; all time
+2211,https://leetcode.com/problems/count-collisions-on-a-road/description/,Count Collisions on a Road,Medium,"String, Stack, Simulation",more than 6 months; all time
+2327,https://leetcode.com/problems/number-of-people-aware-of-a-secret/description/,Number of People Aware of a Secret,Medium,"Dynamic Programming, Queue, Simulation",more than 6 months; all time
+2509,https://leetcode.com/problems/cycle-length-queries-in-a-tree/description/,Cycle Length Queries in a Tree,Hard,"Array, Tree, Binary Tree, Binary Lifting, Lowest Common Ancestor",more than 6 months; all time
+2560,https://leetcode.com/problems/house-robber-iv/description/,House Robber IV,Medium,"Array, Binary Search, Dynamic Programming, Greedy",more than 6 months; all time
+2866,https://leetcode.com/problems/beautiful-towers-ii/description/,Beautiful Towers II,Medium,"Array, Stack, Monotonic Stack",last 3 months; last 6 months; all time
+3250,https://leetcode.com/problems/find-the-count-of-monotonic-pairs-i/description/,Find the Count of Monotonic Pairs I,Hard,"Array, Math, Dynamic Programming, Combinatorics, Prefix Sum",more than 6 months; all time

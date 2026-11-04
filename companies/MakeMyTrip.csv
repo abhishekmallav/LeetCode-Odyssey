@@ -1,0 +1,21 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+3,https://leetcode.com/problems/longest-substring-without-repeating-characters/description/,Longest Substring Without Repeating Characters,Medium,"Hash Table, String, Sliding Window",more than 6 months; all time
+5,https://leetcode.com/problems/longest-palindromic-substring/description/,Longest Palindromic Substring,Medium,"Two Pointers, String, Dynamic Programming, Manacher",more than 6 months; all time
+22,https://leetcode.com/problems/generate-parentheses/description/,Generate Parentheses,Medium,"String, Dynamic Programming, Backtracking, Bracket Sequences",more than 6 months; all time
+32,https://leetcode.com/problems/longest-valid-parentheses/description/,Longest Valid Parentheses,Hard,"String, Dynamic Programming, Stack, Bracket Sequences",more than 6 months; all time
+41,https://leetcode.com/problems/first-missing-positive/description/,First Missing Positive,Hard,"Array, Hash Table",more than 6 months; all time
+42,https://leetcode.com/problems/trapping-rain-water/description/,Trapping Rain Water,Hard,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack",more than 6 months; all time
+43,https://leetcode.com/problems/multiply-strings/description/,Multiply Strings,Medium,"Math, String, Simulation",more than 6 months; all time
+49,https://leetcode.com/problems/group-anagrams/description/,Group Anagrams,Medium,"Array, Hash Table, String, Sorting",more than 6 months; all time
+56,https://leetcode.com/problems/merge-intervals/description/,Merge Intervals,Medium,"Array, Sorting, Quicksort",more than 6 months; all time
+75,https://leetcode.com/problems/sort-colors/description/,Sort Colors,Medium,"Array, Two Pointers, Sorting, Quicksort, Bubble Sort",more than 6 months; all time
+79,https://leetcode.com/problems/word-search/description/,Word Search,Medium,"Array, String, Backtracking, Depth-First Search, Matrix",more than 6 months; all time
+127,https://leetcode.com/problems/word-ladder/description/,Word Ladder,Hard,"Hash Table, String, Breadth-First Search, Bidirectional Search",more than 6 months; all time
+198,https://leetcode.com/problems/house-robber/description/,House Robber,Medium,"Array, Dynamic Programming",more than 6 months; all time
+213,https://leetcode.com/problems/house-robber-ii/description/,House Robber II,Medium,"Array, Dynamic Programming",more than 6 months; all time
+787,https://leetcode.com/problems/cheapest-flights-within-k-stops/description/,Cheapest Flights Within K Stops,Medium,"Dynamic Programming, Depth-First Search, Breadth-First Search, Graph Theory, Heap (Priority Queue), Shortest Path",more than 6 months; all time
+918,https://leetcode.com/problems/maximum-sum-circular-subarray/description/,Maximum Sum Circular Subarray,Medium,"Array, Divide and Conquer, Dynamic Programming, Queue, Monotonic Queue",more than 6 months; all time
+1714,https://leetcode.com/problems/sum-of-special-evenly-spaced-elements-in-array/description/,Sum Of Special Evenly-Spaced Elements In Array,Hard,"Array, Dynamic Programming, Sqrt Decomposition",more than 6 months; all time
+2368,https://leetcode.com/problems/reachable-nodes-with-restrictions/description/,Reachable Nodes With Restrictions,Medium,"Array, Hash Table, Tree, Depth-First Search, Breadth-First Search, Union-Find, Graph Theory",more than 6 months; all time
+2370,https://leetcode.com/problems/longest-ideal-subsequence/description/,Longest Ideal Subsequence,Medium,"Hash Table, String, Dynamic Programming",more than 6 months; all time
+2958,https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/description/,Length of Longest Subarray With at Most K Frequency,Medium,"Array, Hash Table, Sliding Window",more than 6 months; all time

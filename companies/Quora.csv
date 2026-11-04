@@ -1,0 +1,20 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+14,https://leetcode.com/problems/longest-common-prefix/description/,Longest Common Prefix,Easy,"Array, String, Trie",more than 6 months; all time
+68,https://leetcode.com/problems/text-justification/description/,Text Justification,Hard,"Array, String, Simulation",more than 6 months; all time
+297,https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/,Serialize and Deserialize Binary Tree,Hard,"String, Tree, Depth-First Search, Breadth-First Search, Design, Binary Tree",more than 6 months; all time
+380,https://leetcode.com/problems/insert-delete-getrandom-o1/description/,Insert Delete GetRandom O(1),Medium,"Array, Hash Table, Math, Design, Randomized",last 6 months; more than 6 months; all time
+560,https://leetcode.com/problems/subarray-sum-equals-k/description/,Subarray Sum Equals K,Medium,"Array, Hash Table, Prefix Sum",more than 6 months; all time
+717,https://leetcode.com/problems/1-bit-and-2-bit-characters/description/,1-bit and 2-bit Characters,Easy,Array,more than 6 months; all time
+855,https://leetcode.com/problems/exam-room/description/,Exam Room,Medium,"Design, Heap (Priority Queue), Ordered Set",more than 6 months; all time
+923,https://leetcode.com/problems/3sum-with-multiplicity/description/,3Sum With Multiplicity,Medium,"Array, Hash Table, Two Pointers, Sorting, Counting",more than 6 months; all time
+1256,https://leetcode.com/problems/encode-number/description/,Encode Number,Medium,"Math, String, Bit Manipulation",more than 6 months; all time
+1281,https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/description/,Subtract the Product and Sum of Digits of an Integer,Easy,Math,more than 6 months; all time
+1295,https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/,Find Numbers with Even Number of Digits,Easy,"Array, Math",more than 6 months; all time
+1329,https://leetcode.com/problems/sort-the-matrix-diagonally/description/,Sort the Matrix Diagonally,Medium,"Array, Sorting, Matrix",more than 6 months; all time
+1354,https://leetcode.com/problems/construct-target-array-with-multiple-sums/description/,Construct Target Array With Multiple Sums,Hard,"Array, Heap (Priority Queue)",more than 6 months; all time
+1865,https://leetcode.com/problems/finding-pairs-with-a-certain-sum/description/,Finding Pairs With a Certain Sum,Medium,"Array, Hash Table, Design",more than 6 months; all time
+1876,https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/description/,Substrings of Size Three with Distinct Characters,Easy,"Hash Table, String, Sliding Window, Counting",more than 6 months; all time
+1878,https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/description/,Get Biggest Three Rhombus Sums in a Grid,Medium,"Array, Math, Sorting, Heap (Priority Queue), Matrix, Prefix Sum",more than 6 months; all time
+1935,https://leetcode.com/problems/maximum-number-of-words-you-can-type/description/,Maximum Number of Words You Can Type,Easy,"Hash Table, String",more than 6 months; all time
+2080,https://leetcode.com/problems/range-frequency-queries/description/,Range Frequency Queries,Medium,"Array, Hash Table, Binary Search, Design, Segment Tree",more than 6 months; all time
+2269,https://leetcode.com/problems/find-the-k-beauty-of-a-number/description/,Find the K-Beauty of a Number,Easy,"Math, String, Sliding Window",more than 6 months; all time

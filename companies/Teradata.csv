@@ -1,0 +1,9 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+546,https://leetcode.com/problems/remove-boxes/description/,Remove Boxes,Hard,"Array, Dynamic Programming, Memoization",more than 6 months; all time
+857,https://leetcode.com/problems/minimum-cost-to-hire-k-workers/description/,Minimum Cost to Hire K Workers,Hard,"Array, Greedy, Sorting, Heap (Priority Queue)",last 30 days; last 3 months; last 6 months; all time
+1402,https://leetcode.com/problems/reducing-dishes/description/,Reducing Dishes,Hard,"Array, Dynamic Programming, Greedy, Sorting",last 3 months; last 6 months; all time
+1885,https://leetcode.com/problems/count-pairs-in-two-arrays/description/,Count Pairs in Two Arrays,Medium,"Array, Two Pointers, Binary Search, Sorting",more than 6 months; all time
+2528,https://leetcode.com/problems/maximize-the-minimum-powered-city/description/,Maximize the Minimum Powered City,Hard,"Array, Binary Search, Greedy, Queue, Sliding Window, Prefix Sum",last 3 months; last 6 months; all time
+3082,https://leetcode.com/problems/find-the-sum-of-the-power-of-all-subsequences/description/,Find the Sum of the Power of All Subsequences,Hard,"Array, Dynamic Programming, Knapsack Problem, 0-1 Knapsack",last 30 days; last 3 months; last 6 months; all time
+3629,https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation/description/,Minimum Jumps to Reach End via Prime Teleportation,Medium,"Array, Hash Table, Math, Breadth-First Search, Number Theory",last 30 days; last 3 months; last 6 months; all time
+3766,https://leetcode.com/problems/minimum-operations-to-make-binary-palindrome/description/,Minimum Operations to Make Binary Palindrome,Medium,"Array, Two Pointers, Binary Search, Bit Manipulation",all time

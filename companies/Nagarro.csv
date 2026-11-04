@@ -1,0 +1,9 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+3,https://leetcode.com/problems/longest-substring-without-repeating-characters/description/,Longest Substring Without Repeating Characters,Medium,"Hash Table, String, Sliding Window",more than 6 months; all time
+75,https://leetcode.com/problems/sort-colors/description/,Sort Colors,Medium,"Array, Two Pointers, Sorting, Quicksort, Bubble Sort",more than 6 months; all time
+141,https://leetcode.com/problems/linked-list-cycle/description/,Linked List Cycle,Easy,"Hash Table, Linked List, Two Pointers, Floyd's Cycle Finding Algorithm",more than 6 months; all time
+225,https://leetcode.com/problems/implement-stack-using-queues/description/,Implement Stack using Queues,Easy,"Stack, Design, Queue",more than 6 months; all time
+242,https://leetcode.com/problems/valid-anagram/description/,Valid Anagram,Easy,"Hash Table, String, Sorting",more than 6 months; all time
+2320,https://leetcode.com/problems/count-number-of-ways-to-place-houses/description/,Count Number of Ways to Place Houses,Medium,Dynamic Programming,more than 6 months; all time
+2434,https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/description/,Using a Robot to Print the Lexicographically Smallest String,Medium,"Hash Table, String, Stack, Greedy",all time
+3852,https://leetcode.com/problems/smallest-pair-with-different-frequencies/description/,Smallest Pair With Different Frequencies,Easy,"Array, Hash Table, Counting",all time

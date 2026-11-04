@@ -1,0 +1,10 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+5,https://leetcode.com/problems/longest-palindromic-substring/description/,Longest Palindromic Substring,Medium,"Two Pointers, String, Dynamic Programming, Manacher",more than 6 months; all time
+14,https://leetcode.com/problems/longest-common-prefix/description/,Longest Common Prefix,Easy,"Array, String, Trie",last 6 months; more than 6 months; all time
+20,https://leetcode.com/problems/valid-parentheses/description/,Valid Parentheses,Easy,"String, Stack, Bracket Sequences",more than 6 months; all time
+121,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/,Best Time to Buy and Sell Stock,Easy,"Array, Dynamic Programming",more than 6 months; all time
+560,https://leetcode.com/problems/subarray-sum-equals-k/description/,Subarray Sum Equals K,Medium,"Array, Hash Table, Prefix Sum",all time
+1652,https://leetcode.com/problems/defuse-the-bomb/description/,Defuse the Bomb,Easy,"Array, Sliding Window",last 6 months; all time
+1823,https://leetcode.com/problems/find-the-winner-of-the-circular-game/description/,Find the Winner of the Circular Game,Medium,"Array, Math, Recursion, Queue, Simulation",last 30 days; last 3 months; last 6 months; all time
+2264,https://leetcode.com/problems/largest-3-same-digit-number-in-string/description/,Largest 3-Same-Digit Number in String,Easy,String,more than 6 months; all time
+3662,https://leetcode.com/problems/filter-characters-by-frequency/description/,Filter Characters by Frequency,Easy,"Hash Table, String, Counting",all time

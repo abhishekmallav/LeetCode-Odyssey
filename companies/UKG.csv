@@ -1,0 +1,12 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+1,https://leetcode.com/problems/two-sum/description/,Two Sum,Easy,"Array, Hash Table",more than 6 months; all time
+125,https://leetcode.com/problems/valid-palindrome/description/,Valid Palindrome,Easy,"Two Pointers, String",more than 6 months; all time
+410,https://leetcode.com/problems/split-array-largest-sum/description/,Split Array Largest Sum,Hard,"Array, Binary Search, Dynamic Programming, Greedy, Prefix Sum",last 6 months; all time
+761,https://leetcode.com/problems/special-binary-string/description/,Special Binary String,Hard,"String, Divide and Conquer, Sorting",more than 6 months; all time
+2539,https://leetcode.com/problems/count-the-number-of-good-subsequences/description/,Count the Number of Good Subsequences,Medium,"Hash Table, Math, String, Combinatorics, Counting",more than 6 months; all time
+2592,https://leetcode.com/problems/maximize-greatness-of-an-array/description/,Maximize Greatness of an Array,Medium,"Array, Two Pointers, Greedy, Sorting",more than 6 months; all time
+3136,https://leetcode.com/problems/valid-word/description/,Valid Word,Easy,String,more than 6 months; all time
+3138,https://leetcode.com/problems/minimum-length-of-anagram-concatenation/description/,Minimum Length of Anagram Concatenation,Medium,"Hash Table, String, Counting",more than 6 months; all time
+3380,https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-i/description/,Maximum Area Rectangle With Point Constraints I,Medium,"Array, Math, Binary Indexed Tree, Segment Tree, Geometry, Sorting, Enumeration",more than 6 months; all time
+3382,https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-ii/description/,Maximum Area Rectangle With Point Constraints II,Hard,"Array, Math, Binary Indexed Tree, Segment Tree, Geometry, Sorting",more than 6 months; all time
+3511,https://leetcode.com/problems/make-a-positive-array/description/,Make a Positive Array,Medium,"Array, Greedy, Prefix Sum",more than 6 months; all time

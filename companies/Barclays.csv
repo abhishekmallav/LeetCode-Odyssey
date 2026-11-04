@@ -1,0 +1,21 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+1,https://leetcode.com/problems/two-sum/description/,Two Sum,Easy,"Array, Hash Table",more than 6 months; all time
+14,https://leetcode.com/problems/longest-common-prefix/description/,Longest Common Prefix,Easy,"Array, String, Trie",more than 6 months; all time
+20,https://leetcode.com/problems/valid-parentheses/description/,Valid Parentheses,Easy,"String, Stack, Bracket Sequences",more than 6 months; all time
+56,https://leetcode.com/problems/merge-intervals/description/,Merge Intervals,Medium,"Array, Sorting, Quicksort",more than 6 months; all time
+151,https://leetcode.com/problems/reverse-words-in-a-string/description/,Reverse Words in a String,Medium,"Two Pointers, String",more than 6 months; all time
+176,https://leetcode.com/problems/second-highest-salary/description/,Second Highest Salary,Medium,Database,last 6 months; more than 6 months; all time
+200,https://leetcode.com/problems/number-of-islands/description/,Number of Islands,Medium,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix",more than 6 months; all time
+386,https://leetcode.com/problems/lexicographical-numbers/description/,Lexicographical Numbers,Medium,"Depth-First Search, Trie",more than 6 months; all time
+452,https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/,Minimum Number of Arrows to Burst Balloons,Medium,"Array, Greedy, Sorting",last 3 months; last 6 months; all time
+496,https://leetcode.com/problems/next-greater-element-i/description/,Next Greater Element I,Easy,"Array, Hash Table, Stack, Monotonic Stack",more than 6 months; all time
+546,https://leetcode.com/problems/remove-boxes/description/,Remove Boxes,Hard,"Array, Dynamic Programming, Memoization",last 30 days; last 3 months; last 6 months; all time
+763,https://leetcode.com/problems/partition-labels/description/,Partition Labels,Medium,"Hash Table, Two Pointers, String, Greedy",last 6 months; more than 6 months; all time
+1482,https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/description/,Minimum Number of Days to Make m Bouquets,Medium,"Array, Binary Search",more than 6 months; all time
+2127,https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/description/,Maximum Employees to Be Invited to a Meeting,Hard,"Array, Dynamic Programming, Depth-First Search, Graph Theory, Topological Sort, Kosaraju's Algorithm, Tarjan's SCC Algorithm",all time
+2241,https://leetcode.com/problems/design-an-atm-machine/description/,Design an ATM Machine,Medium,"Array, Greedy, Design",all time
+2833,https://leetcode.com/problems/furthest-point-from-origin/description/,Furthest Point From Origin,Easy,"String, Counting",more than 6 months; all time
+2961,https://leetcode.com/problems/double-modular-exponentiation/description/,Double Modular Exponentiation,Medium,"Array, Math, Simulation",more than 6 months; all time
+3070,https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k/description/,Count Submatrices with Top-Left Element and Sum Less Than k,Medium,"Array, Matrix, Prefix Sum",more than 6 months; all time
+3080,https://leetcode.com/problems/mark-elements-on-array-by-performing-queries/description/,Mark Elements on Array by Performing Queries,Medium,"Array, Hash Table, Sorting, Heap (Priority Queue), Simulation",more than 6 months; all time
+3474,https://leetcode.com/problems/lexicographically-smallest-generated-string/description/,Lexicographically Smallest Generated String,Hard,"String, Greedy, String Matching",more than 6 months; all time

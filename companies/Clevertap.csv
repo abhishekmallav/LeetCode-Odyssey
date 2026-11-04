@@ -1,0 +1,8 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+56,https://leetcode.com/problems/merge-intervals/description/,Merge Intervals,Medium,"Array, Sorting, Quicksort",more than 6 months; all time
+125,https://leetcode.com/problems/valid-palindrome/description/,Valid Palindrome,Easy,"Two Pointers, String",more than 6 months; all time
+127,https://leetcode.com/problems/word-ladder/description/,Word Ladder,Hard,"Hash Table, String, Breadth-First Search, Bidirectional Search",more than 6 months; all time
+179,https://leetcode.com/problems/largest-number/description/,Largest Number,Medium,"Array, String, Greedy, Sorting",more than 6 months; all time
+442,https://leetcode.com/problems/find-all-duplicates-in-an-array/description/,Find All Duplicates in an Array,Medium,"Array, Hash Table, Sorting",more than 6 months; all time
+990,https://leetcode.com/problems/satisfiability-of-equality-equations/description/,Satisfiability of Equality Equations,Medium,"Array, String, Union-Find, Graph Theory",more than 6 months; all time
+1283,https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/description/,Find the Smallest Divisor Given a Threshold,Medium,"Array, Binary Search",more than 6 months; all time

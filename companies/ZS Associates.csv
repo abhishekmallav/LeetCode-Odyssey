@@ -1,0 +1,11 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+5,https://leetcode.com/problems/longest-palindromic-substring/description/,Longest Palindromic Substring,Medium,"Two Pointers, String, Dynamic Programming, Manacher",more than 6 months; all time
+20,https://leetcode.com/problems/valid-parentheses/description/,Valid Parentheses,Easy,"String, Stack, Bracket Sequences",more than 6 months; all time
+176,https://leetcode.com/problems/second-highest-salary/description/,Second Highest Salary,Medium,Database,more than 6 months; all time
+177,https://leetcode.com/problems/nth-highest-salary/description/,Nth Highest Salary,Medium,Database,more than 6 months; all time
+185,https://leetcode.com/problems/department-top-three-salaries/description/,Department Top Three Salaries,Hard,Database,all time
+238,https://leetcode.com/problems/product-of-array-except-self/description/,Product of Array Except Self,Medium,"Array, Prefix Sum",more than 6 months; all time
+570,https://leetcode.com/problems/managers-with-at-least-5-direct-reports/description/,Managers with at Least 5 Direct Reports,Medium,Database,all time
+594,https://leetcode.com/problems/longest-harmonious-subsequence/description/,Longest Harmonious Subsequence,Easy,"Array, Hash Table, Sliding Window, Sorting, Counting",more than 6 months; all time
+907,https://leetcode.com/problems/sum-of-subarray-minimums/description/,Sum of Subarray Minimums,Medium,"Array, Dynamic Programming, Stack, Monotonic Stack",more than 6 months; all time
+1139,https://leetcode.com/problems/largest-1-bordered-square/description/,Largest 1-Bordered Square,Medium,"Array, Dynamic Programming, Matrix",more than 6 months; all time

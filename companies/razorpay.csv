@@ -1,0 +1,14 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+11,https://leetcode.com/problems/container-with-most-water/description/,Container With Most Water,Medium,"Array, Two Pointers, Greedy",more than 6 months; all time
+56,https://leetcode.com/problems/merge-intervals/description/,Merge Intervals,Medium,"Array, Sorting, Quicksort",more than 6 months; all time
+62,https://leetcode.com/problems/unique-paths/description/,Unique Paths,Medium,"Math, Dynamic Programming, Combinatorics",more than 6 months; all time
+146,https://leetcode.com/problems/lru-cache/description/,LRU Cache,Medium,"Hash Table, Linked List, Design, Doubly-Linked List",more than 6 months; all time
+171,https://leetcode.com/problems/excel-sheet-column-number/description/,Excel Sheet Column Number,Easy,"Math, String",more than 6 months; all time
+189,https://leetcode.com/problems/rotate-array/description/,Rotate Array,Medium,"Array, Math, Two Pointers",more than 6 months; all time
+387,https://leetcode.com/problems/first-unique-character-in-a-string/description/,First Unique Character in a String,Easy,"Hash Table, String, Queue, Counting",more than 6 months; all time
+394,https://leetcode.com/problems/decode-string/description/,Decode String,Medium,"String, Stack, Recursion",more than 6 months; all time
+483,https://leetcode.com/problems/smallest-good-base/description/,Smallest Good Base,Hard,"Math, Binary Search",all time
+1574,https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/description/,Shortest Subarray to be Removed to Make Array Sorted,Medium,"Array, Two Pointers, Binary Search, Stack, Monotonic Stack",more than 6 months; all time
+2054,https://leetcode.com/problems/two-best-non-overlapping-events/description/,Two Best Non-Overlapping Events,Medium,"Array, Binary Search, Dynamic Programming, Sorting, Heap (Priority Queue)",more than 6 months; all time
+2070,https://leetcode.com/problems/most-beautiful-item-for-each-query/description/,Most Beautiful Item for Each Query,Medium,"Array, Binary Search, Sorting",more than 6 months; all time
+2499,https://leetcode.com/problems/minimum-total-cost-to-make-arrays-unequal/description/,Minimum Total Cost to Make Arrays Unequal,Hard,"Array, Hash Table, Greedy, Counting",more than 6 months; all time

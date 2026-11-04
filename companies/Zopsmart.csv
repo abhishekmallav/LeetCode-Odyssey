@@ -1,0 +1,17 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+5,https://leetcode.com/problems/longest-palindromic-substring/description/,Longest Palindromic Substring,Medium,"Two Pointers, String, Dynamic Programming, Manacher",more than 6 months; all time
+6,https://leetcode.com/problems/zigzag-conversion/description/,Zigzag Conversion,Medium,String,last 30 days; last 3 months; last 6 months; more than 6 months; all time
+11,https://leetcode.com/problems/container-with-most-water/description/,Container With Most Water,Medium,"Array, Two Pointers, Greedy",more than 6 months; all time
+17,https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/,Letter Combinations of a Phone Number,Medium,"Hash Table, String, Backtracking",more than 6 months; all time
+25,https://leetcode.com/problems/reverse-nodes-in-k-group/description/,Reverse Nodes in k-Group,Hard,"Linked List, Recursion",last 30 days; last 3 months; last 6 months; all time
+42,https://leetcode.com/problems/trapping-rain-water/description/,Trapping Rain Water,Hard,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack",more than 6 months; all time
+93,https://leetcode.com/problems/restore-ip-addresses/description/,Restore IP Addresses,Medium,"String, Backtracking",last 3 months; last 6 months; all time
+151,https://leetcode.com/problems/reverse-words-in-a-string/description/,Reverse Words in a String,Medium,"Two Pointers, String",more than 6 months; all time
+242,https://leetcode.com/problems/valid-anagram/description/,Valid Anagram,Easy,"Hash Table, String, Sorting",more than 6 months; all time
+299,https://leetcode.com/problems/bulls-and-cows/description/,Bulls and Cows,Medium,"Hash Table, String, Counting",more than 6 months; all time
+394,https://leetcode.com/problems/decode-string/description/,Decode String,Medium,"String, Stack, Recursion",last 30 days; last 3 months; last 6 months; more than 6 months; all time
+402,https://leetcode.com/problems/remove-k-digits/description/,Remove K Digits,Medium,"String, Stack, Greedy, Monotonic Stack",more than 6 months; all time
+592,https://leetcode.com/problems/fraction-addition-and-subtraction/description/,Fraction Addition and Subtraction,Medium,"Math, String, Simulation, Euclidean Algorithm, Greatest Common Divisor",more than 6 months; all time
+991,https://leetcode.com/problems/broken-calculator/description/,Broken Calculator,Medium,"Math, Greedy",more than 6 months; all time
+2074,https://leetcode.com/problems/reverse-nodes-in-even-length-groups/description/,Reverse Nodes in Even Length Groups,Medium,Linked List,more than 6 months; all time
+3602,https://leetcode.com/problems/hexadecimal-and-hexatrigesimal-conversion/description/,Hexadecimal and Hexatrigesimal Conversion,Easy,"Math, String",more than 6 months; all time

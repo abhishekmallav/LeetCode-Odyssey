@@ -1,0 +1,29 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+10,https://leetcode.com/problems/regular-expression-matching/description/,Regular Expression Matching,Hard,"String, Dynamic Programming, Recursion",last 6 months; more than 6 months; all time
+64,https://leetcode.com/problems/minimum-path-sum/description/,Minimum Path Sum,Medium,"Array, Dynamic Programming, Matrix",all time
+68,https://leetcode.com/problems/text-justification/description/,Text Justification,Hard,"Array, String, Simulation",more than 6 months; all time
+84,https://leetcode.com/problems/largest-rectangle-in-histogram/description/,Largest Rectangle in Histogram,Hard,"Array, Stack, Monotonic Stack, Range Minimum/Maximum Query",more than 6 months; all time
+149,https://leetcode.com/problems/max-points-on-a-line/description/,Max Points on a Line,Hard,"Array, Hash Table, Math, Geometry, Euclidean Algorithm, Greatest Common Divisor",more than 6 months; all time
+162,https://leetcode.com/problems/find-peak-element/description/,Find Peak Element,Medium,"Array, Binary Search",more than 6 months; all time
+164,https://leetcode.com/problems/maximum-gap/description/,Maximum Gap,Medium,"Array, Sorting, Bucket Sort, Radix Sort, Pigeonhole Principle",last 3 months; last 6 months; all time
+200,https://leetcode.com/problems/number-of-islands/description/,Number of Islands,Medium,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix",last 3 months; last 6 months; more than 6 months; all time
+229,https://leetcode.com/problems/majority-element-ii/description/,Majority Element II,Medium,"Array, Hash Table, Sorting, Counting, Boyer–Moore Majority Vote Algorithm",all time
+253,https://leetcode.com/problems/meeting-rooms-ii/description/,Meeting Rooms II,Medium,"Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum",more than 6 months; all time
+269,https://leetcode.com/problems/alien-dictionary/description/,Alien Dictionary,Hard,"Array, String, Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort, Directed Acyclic Graph",more than 6 months; all time
+304,https://leetcode.com/problems/range-sum-query-2d-immutable/description/,Range Sum Query 2D - Immutable,Medium,"Array, Design, Matrix, Prefix Sum",more than 6 months; all time
+305,https://leetcode.com/problems/number-of-islands-ii/description/,Number of Islands II,Hard,"Array, Hash Table, Union-Find",all time
+317,https://leetcode.com/problems/shortest-distance-from-all-buildings/description/,Shortest Distance from All Buildings,Hard,"Array, Breadth-First Search, Matrix",last 6 months; more than 6 months; all time
+348,https://leetcode.com/problems/design-tic-tac-toe/description/,Design Tic-Tac-Toe,Medium,"Array, Hash Table, Design, Matrix, Simulation",more than 6 months; all time
+359,https://leetcode.com/problems/logger-rate-limiter/description/,Logger Rate Limiter,Easy,"Hash Table, Design, Data Stream",last 3 months; last 6 months; more than 6 months; all time
+489,https://leetcode.com/problems/robot-room-cleaner/description/,Robot Room Cleaner,Hard,"Backtracking, Interactive",last 6 months; all time
+528,https://leetcode.com/problems/random-pick-with-weight/description/,Random Pick with Weight,Medium,"Array, Math, Binary Search, Prefix Sum, Randomized",last 3 months; last 6 months; more than 6 months; all time
+622,https://leetcode.com/problems/design-circular-queue/description/,Design Circular Queue,Medium,"Array, Linked List, Design, Queue",all time
+631,https://leetcode.com/problems/design-excel-sum-formula/description/,Design Excel Sum Formula,Hard,"Array, Hash Table, String, Graph Theory, Design, Topological Sort, Matrix",more than 6 months; all time
+853,https://leetcode.com/problems/car-fleet/description/,Car Fleet,Medium,"Array, Stack, Sorting, Monotonic Stack",more than 6 months; all time
+871,https://leetcode.com/problems/minimum-number-of-refueling-stops/description/,Minimum Number of Refueling Stops,Hard,"Array, Dynamic Programming, Greedy, Heap (Priority Queue)",last 6 months; more than 6 months; all time
+939,https://leetcode.com/problems/minimum-area-rectangle/description/,Minimum Area Rectangle,Medium,"Array, Hash Table, Math, Geometry, Sorting",more than 6 months; all time
+1197,https://leetcode.com/problems/minimum-knight-moves/description/,Minimum Knight Moves,Medium,"Breadth-First Search, Heuristic Search, Bidirectional Search, A* Search",more than 6 months; all time
+1296,https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/description/,Divide Array in Sets of K Consecutive Numbers,Medium,"Array, Hash Table, Greedy, Sorting",more than 6 months; all time
+1631,https://leetcode.com/problems/path-with-minimum-effort/description/,Path With Minimum Effort,Medium,"Array, Binary Search, Depth-First Search, Breadth-First Search, Union-Find, Heap (Priority Queue), Matrix, Dijkstra's Algorithm",last 6 months; more than 6 months; all time
+1944,https://leetcode.com/problems/number-of-visible-people-in-a-queue/description/,Number of Visible People in a Queue,Hard,"Array, Stack, Monotonic Stack",last 6 months; more than 6 months; all time
+2008,https://leetcode.com/problems/maximum-earnings-from-taxi/description/,Maximum Earnings From Taxi,Medium,"Array, Hash Table, Binary Search, Dynamic Programming, Sorting",more than 6 months; all time

@@ -1,0 +1,18 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+1,https://leetcode.com/problems/two-sum/description/,Two Sum,Easy,"Array, Hash Table",more than 6 months; all time
+5,https://leetcode.com/problems/longest-palindromic-substring/description/,Longest Palindromic Substring,Medium,"Two Pointers, String, Dynamic Programming, Manacher",more than 6 months; all time
+12,https://leetcode.com/problems/integer-to-roman/description/,Integer to Roman,Medium,"Hash Table, Math, String",more than 6 months; all time
+20,https://leetcode.com/problems/valid-parentheses/description/,Valid Parentheses,Easy,"String, Stack, Bracket Sequences",last 30 days; last 3 months; last 6 months; more than 6 months; all time
+49,https://leetcode.com/problems/group-anagrams/description/,Group Anagrams,Medium,"Array, Hash Table, String, Sorting",more than 6 months; all time
+70,https://leetcode.com/problems/climbing-stairs/description/,Climbing Stairs,Easy,"Math, Dynamic Programming, Memoization",more than 6 months; all time
+121,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/,Best Time to Buy and Sell Stock,Easy,"Array, Dynamic Programming",more than 6 months; all time
+200,https://leetcode.com/problems/number-of-islands/description/,Number of Islands,Medium,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix",more than 6 months; all time
+202,https://leetcode.com/problems/happy-number/description/,Happy Number,Easy,"Hash Table, Math, Two Pointers, Floyd's Cycle Finding Algorithm",more than 6 months; all time
+235,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/,Lowest Common Ancestor of a Binary Search Tree,Medium,"Tree, Depth-First Search, Binary Search Tree, Binary Tree, Binary Lifting, Lowest Common Ancestor",last 3 months; last 6 months; all time
+236,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/,Lowest Common Ancestor of a Binary Tree,Medium,"Tree, Depth-First Search, Binary Tree, Binary Lifting, Lowest Common Ancestor",last 3 months; last 6 months; all time
+268,https://leetcode.com/problems/missing-number/description/,Missing Number,Easy,"Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting",more than 6 months; all time
+287,https://leetcode.com/problems/find-the-duplicate-number/description/,Find the Duplicate Number,Medium,"Array, Two Pointers, Binary Search, Bit Manipulation, Pigeonhole Principle, Floyd's Cycle Finding Algorithm",all time
+2291,https://leetcode.com/problems/maximum-profit-from-trading-stocks/description/,Maximum Profit From Trading Stocks,Medium,"Array, Dynamic Programming",more than 6 months; all time
+3004,https://leetcode.com/problems/maximum-subtree-of-the-same-color/description/,Maximum Subtree of the Same Color,Medium,"Array, Dynamic Programming, Tree, Depth-First Search",more than 6 months; all time
+3068,https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/,Find the Maximum Sum of Node Values,Hard,"Array, Dynamic Programming, Greedy, Bit Manipulation, Tree, Sorting",more than 6 months; all time
+3998,https://leetcode.com/problems/transform-binary-string-using-subsequence-sort/description/,Transform Binary String Using Subsequence Sort,Medium,"Array, Two Pointers, String, Greedy",last 3 months; last 6 months; all time

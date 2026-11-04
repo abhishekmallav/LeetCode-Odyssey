@@ -1,0 +1,10 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+20,https://leetcode.com/problems/valid-parentheses/description/,Valid Parentheses,Easy,"String, Stack, Bracket Sequences",last 6 months; all time
+392,https://leetcode.com/problems/is-subsequence/description/,Is Subsequence,Easy,"Two Pointers, String, Dynamic Programming",all time
+465,https://leetcode.com/problems/optimal-account-balancing/description/,Optimal Account Balancing,Hard,"Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask",last 30 days; last 3 months; last 6 months; all time
+780,https://leetcode.com/problems/reaching-points/description/,Reaching Points,Hard,"Math, Euclidean Algorithm, Greatest Common Divisor",last 6 months; all time
+1180,https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter/description/,Count Substrings with Only One Distinct Letter,Easy,"Math, String",more than 6 months; all time
+1196,https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket/description/,How Many Apples Can You Put into the Basket,Easy,"Array, Greedy, Sorting",more than 6 months; all time
+1243,https://leetcode.com/problems/array-transformation/description/,Array Transformation,Easy,"Array, Simulation",last 3 months; last 6 months; more than 6 months; all time
+1271,https://leetcode.com/problems/hexspeak/description/,Hexspeak,Easy,"Math, String",more than 6 months; all time
+1759,https://leetcode.com/problems/count-number-of-homogenous-substrings/description/,Count Number of Homogenous Substrings,Medium,"Math, String",more than 6 months; all time

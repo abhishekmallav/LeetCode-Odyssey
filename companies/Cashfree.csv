@@ -1,0 +1,8 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+13,https://leetcode.com/problems/roman-to-integer/description/,Roman to Integer,Easy,"Hash Table, Math, String",more than 6 months; all time
+658,https://leetcode.com/problems/find-k-closest-elements/description/,Find K Closest Elements,Medium,"Array, Two Pointers, Binary Search, Sliding Window, Sorting, Heap (Priority Queue)",more than 6 months; all time
+665,https://leetcode.com/problems/non-decreasing-array/description/,Non-decreasing Array,Medium,Array,more than 6 months; all time
+907,https://leetcode.com/problems/sum-of-subarray-minimums/description/,Sum of Subarray Minimums,Medium,"Array, Dynamic Programming, Stack, Monotonic Stack",all time
+1695,https://leetcode.com/problems/maximum-erasure-value/description/,Maximum Erasure Value,Medium,"Array, Hash Table, Sliding Window",more than 6 months; all time
+2560,https://leetcode.com/problems/house-robber-iv/description/,House Robber IV,Medium,"Array, Binary Search, Dynamic Programming, Greedy",more than 6 months; all time
+2858,https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable/description/,Minimum Edge Reversals So Every Node Is Reachable,Hard,"Dynamic Programming, Depth-First Search, Breadth-First Search, Graph Theory",more than 6 months; all time

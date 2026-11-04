@@ -1,0 +1,11 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+1,https://leetcode.com/problems/two-sum/description/,Two Sum,Easy,"Array, Hash Table",last 6 months; all time
+6,https://leetcode.com/problems/zigzag-conversion/description/,Zigzag Conversion,Medium,String,more than 6 months; all time
+46,https://leetcode.com/problems/permutations/description/,Permutations,Medium,"Array, Backtracking",more than 6 months; all time
+121,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/,Best Time to Buy and Sell Stock,Easy,"Array, Dynamic Programming",more than 6 months; all time
+347,https://leetcode.com/problems/top-k-frequent-elements/description/,Top K Frequent Elements,Medium,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect",more than 6 months; all time
+419,https://leetcode.com/problems/battleships-in-a-board/description/,Battleships in a Board,Medium,"Array, Depth-First Search, Matrix",more than 6 months; all time
+844,https://leetcode.com/problems/backspace-string-compare/description/,Backspace String Compare,Easy,"Two Pointers, String, Stack, Simulation",more than 6 months; all time
+1227,https://leetcode.com/problems/airplane-seat-assignment-probability/description/,Airplane Seat Assignment Probability,Medium,"Math, Dynamic Programming, Brainteaser, Probability and Statistics",more than 6 months; all time
+1963,https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/description/,Minimum Number of Swaps to Make the String Balanced,Medium,"Two Pointers, String, Stack, Greedy, Bracket Sequences",more than 6 months; all time
+2184,https://leetcode.com/problems/number-of-ways-to-build-sturdy-brick-wall/description/,Number of Ways to Build Sturdy Brick Wall,Medium,"Array, Dynamic Programming, Bit Manipulation, Bitmask",more than 6 months; all time

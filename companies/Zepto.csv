@@ -1,0 +1,24 @@
+﻿Problem No,Link,Title,Difficulty,Topics,range
+3,https://leetcode.com/problems/longest-substring-without-repeating-characters/description/,Longest Substring Without Repeating Characters,Medium,"Hash Table, String, Sliding Window",more than 6 months; all time
+29,https://leetcode.com/problems/divide-two-integers/description/,Divide Two Integers,Medium,"Math, Bit Manipulation",more than 6 months; all time
+31,https://leetcode.com/problems/next-permutation/description/,Next Permutation,Medium,"Array, Two Pointers",more than 6 months; all time
+33,https://leetcode.com/problems/search-in-rotated-sorted-array/description/,Search in Rotated Sorted Array,Medium,"Array, Binary Search",more than 6 months; all time
+56,https://leetcode.com/problems/merge-intervals/description/,Merge Intervals,Medium,"Array, Sorting, Quicksort",more than 6 months; all time
+63,https://leetcode.com/problems/unique-paths-ii/description/,Unique Paths II,Medium,"Array, Dynamic Programming, Matrix",more than 6 months; all time
+128,https://leetcode.com/problems/longest-consecutive-sequence/description/,Longest Consecutive Sequence,Medium,"Array, Hash Table, Union-Find",more than 6 months; all time
+162,https://leetcode.com/problems/find-peak-element/description/,Find Peak Element,Medium,"Array, Binary Search",more than 6 months; all time
+200,https://leetcode.com/problems/number-of-islands/description/,Number of Islands,Medium,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix",more than 6 months; all time
+215,https://leetcode.com/problems/kth-largest-element-in-an-array/description/,Kth Largest Element in an Array,Medium,"Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect",more than 6 months; all time
+239,https://leetcode.com/problems/sliding-window-maximum/description/,Sliding Window Maximum,Hard,"Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue, Range Minimum/Maximum Query",more than 6 months; all time
+424,https://leetcode.com/problems/longest-repeating-character-replacement/description/,Longest Repeating Character Replacement,Medium,"Hash Table, String, Sliding Window",more than 6 months; all time
+437,https://leetcode.com/problems/path-sum-iii/description/,Path Sum III,Medium,"Tree, Depth-First Search, Binary Tree",more than 6 months; all time
+687,https://leetcode.com/problems/longest-univalue-path/description/,Longest Univalue Path,Medium,"Tree, Depth-First Search, Binary Tree, DP on Trees",more than 6 months; all time
+863,https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/description/,All Nodes Distance K in Binary Tree,Medium,"Hash Table, Tree, Depth-First Search, Breadth-First Search, Binary Tree",last 6 months; all time
+875,https://leetcode.com/problems/koko-eating-bananas/description/,Koko Eating Bananas,Medium,"Array, Binary Search",more than 6 months; all time
+962,https://leetcode.com/problems/maximum-width-ramp/description/,Maximum Width Ramp,Medium,"Array, Two Pointers, Stack, Monotonic Stack",more than 6 months; all time
+983,https://leetcode.com/problems/minimum-cost-for-tickets/description/,Minimum Cost For Tickets,Medium,"Array, Dynamic Programming",more than 6 months; all time
+994,https://leetcode.com/problems/rotting-oranges/description/,Rotting Oranges,Medium,"Array, Breadth-First Search, Matrix",more than 6 months; all time
+1094,https://leetcode.com/problems/car-pooling/description/,Car Pooling,Medium,"Array, Sorting, Heap (Priority Queue), Simulation, Prefix Sum",all time
+1385,https://leetcode.com/problems/find-the-distance-value-between-two-arrays/description/,Find the Distance Value Between Two Arrays,Easy,"Array, Two Pointers, Binary Search, Sorting",more than 6 months; all time
+1905,https://leetcode.com/problems/count-sub-islands/description/,Count Sub Islands,Medium,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix",more than 6 months; all time
+2659,https://leetcode.com/problems/make-array-empty/description/,Make Array Empty,Hard,"Array, Binary Search, Greedy, Binary Indexed Tree, Segment Tree, Sorting, Ordered Set",more than 6 months; all time
