@@ -1,6 +1,6 @@
 import { lazy, Suspense, useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import type { CSSProperties } from 'react';
-import { bookLook, companyLabel, filterProblems, popularCompanies, wrapIndex } from './model';
+import { bookLook, companyLabel, difficultyColors, filterProblems, inkColor, popularCompanies, topicColor, wrapIndex } from './model';
 import type { Filters, Problem } from './model';
 
 const Bookshelf = lazy(() => import('./Bookshelf'));
@@ -53,14 +53,14 @@ function ProblemDetail({ problem, previous, next, close }: { problem: Problem; p
   }
   return <section className="detail-desk" aria-labelledby="problem-title" onKeyDown={e => { if (e.key === 'Escape') close(); }}>
     <div className="desk-cover" aria-hidden="true" style={{ '--book-top': look.top, '--book-bottom': look.bottom } as CSSProperties}>
-      <div className="book-cover" style={{ backgroundImage: `linear-gradient(${look.angle}deg, ${look.top}, ${look.bottom})` }}><span className="cover-number">No. {problem.id.padStart(4, '0')}</span><span className="cover-rule" /><span className="cover-title">{problem.title}</span><span className="cover-footer"><span>{problem.difficulty}</span><span className="cover-braces">{'{ }'}</span></span></div>
+      <div className="book-cover" style={{ background: look.top, color: inkColor(look.top) }}><span className="cover-number">No. {problem.id.padStart(4, '0')}</span><span className="cover-rule" /><span className="cover-title">{problem.title}</span><span className="cover-footer"><span className="cover-difficulty" style={{ background: difficultyColors[problem.difficulty], color: inkColor(difficultyColors[problem.difficulty]) }}>{problem.difficulty}</span><span className="cover-braces">{'{ }'}</span></span></div>
       <p className="cover-caption">a little problem.<br />a new way to think.</p><DrawnArrow />
     </div>
     <article className="note-card">
       <div className="note-kicker">LeetCode / No. {problem.id}<span className={`difficulty-text ${problem.difficulty.toLowerCase()}`}>{problem.difficulty}</span></div>
       <h2 id="problem-title" ref={heading} tabIndex={-1}>{problem.title}</h2>
       <div className="metadata-section"><h3>Topics</h3>
-        {problem.topics.length ? <ul className="tag-list">{problem.topics.map(t => <li key={t}>{t}</li>)}</ul> : <p className="muted">No topics listed in the catalog.</p>}
+        {problem.topics.length ? <ul className="tag-list">{problem.topics.map(t => <li key={t} style={{ background: topicColor(t), color: inkColor(topicColor(t)), borderColor: topicColor(t) }}>{t}</li>)}</ul> : <p className="muted">No topics listed in the catalog.</p>}
       </div>
       <div className="metadata-section"><h3>Asked at <span className="muted">{problem.companies.length ? `(${problem.companies.length})` : ''}</span></h3>
         {problem.companies.length ? <>
@@ -143,10 +143,10 @@ export default function App() {
   }
   function close() { setSelected(null); browse.current?.focus({ preventScroll: true }); browse.current?.scrollIntoView({ behavior: reduced ? 'instant' : 'smooth', block: 'center' }); }
   return <>
-    <a href="#library" className="skip-link">Skip to the shelves</a>
+    <a href="#library" className="skip-link">Skip to the shelf</a>
     <header className="site-header">
       <div className="heading-row"><h1>LeetCode Odyssey<span className="byline">by Abhishek :)<DrawnArrow /></span></h1><span className="header-doodle" aria-hidden="true">{'{ }'}<span>one problem<br />at a time.</span></span></div>
-      <div className="library-summary"><p>{problems.length ? problems.length.toLocaleString() : '…'} problems on the shelves</p><button className="surprise-button" onClick={surprise} disabled={!problems.length} aria-label="Surprise me: open a random problem from the full catalog"><Dice /> Surprise me</button></div>
+      <div className="library-summary"><p>{problems.length ? problems.length.toLocaleString() : '…'} problems on the shelf</p><button className="surprise-button" onClick={surprise} disabled={!problems.length} aria-label="Surprise me: open a random problem from the full catalog"><Dice /> Surprise me</button></div>
       <div className="search-wrap"><label className="sr-only" htmlFor="problem-search">Search by problem number or title</label>
         <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10" cy="10" r="6" /><path d="m15 15 5 5" /></svg>
         <input id="problem-search" type="search" placeholder="What are you looking for? Try #41 or a title…" value={filters.query} onChange={e => update('query', e.target.value)} autoComplete="off" />
@@ -161,16 +161,16 @@ export default function App() {
       <div className="popular-row"><span className="popular-label">Asked at</span><div className="company-shortcuts" role="group" aria-label="Popular companies">
         {popularCompanies.filter(c => companies.includes(c)).map(c => <button key={c} aria-pressed={filters.company === c} onClick={() => update('company', filters.company === c ? '' : c)}>{companyLabel(c)}</button>)}
       </div></div>
-      <div className="filter-summary"><p role="status">{activeFilters ? `${filtered.length.toLocaleString()} matching problems` : 'A little library for your next big aha.'}</p>{activeFilters && <button className="text-button" onClick={() => setFilters(emptyFilters)}>Clear filters ×</button>}</div>
+      <div className="filter-summary"><p role="status">{activeFilters ? `${filtered.length.toLocaleString()} matching problems` : 'A little library for your DSA prep'}</p>{activeFilters && <button className="text-button" onClick={() => setFilters(emptyFilters)}>Clear filters ×</button>}</div>
     </header>
     <main id="library">
       {error ? <div className="catalog-message" role="alert"><p>{error}</p><button onClick={() => setRetry(v => v + 1)}>Try again</button></div> : !problems.length ? <div className="catalog-message" role="status">Opening the library…</div> : <>
-        <section className="shelves" aria-label="Problem bookshelves">
-          {!filtered.length ? <div className="empty-shelf"><span aria-hidden="true">{'{ … }'}</span><h2>A quiet corner of the library.</h2><p>No problems match these filters.</p><button onClick={() => setFilters(emptyFilters)}>Clear filters</button></div> : listView ? <ProblemList problems={filtered} onSelect={open} /> : <Suspense fallback={<div className="shelf-placeholder" role="status">Opening the shelves…</div>}><Bookshelf problems={filtered} selectedId={selected?.id || null} paused={paused || Boolean(hovered)} reduced={reduced} step={step} onSelect={open} onHover={onHover} onFallback={fallback} /></Suspense>}
-          <div className="shelf-controls" ref={browse} tabIndex={0} aria-label="Shelf controls. Left and right arrow keys browse the shelves." onKeyDown={e => { if (e.target === e.currentTarget && ['ArrowLeft', 'ArrowRight'].includes(e.key)) { e.preventDefault(); setStep(s => s + (e.key === 'ArrowRight' ? 1 : -1)); } }}>
+        <section className="shelves" aria-label="Problem bookshelf">
+          {!filtered.length ? <div className="empty-shelf"><span aria-hidden="true">{'{ … }'}</span><h2>A quiet corner of the library.</h2><p>No problems match these filters.</p><button onClick={() => setFilters(emptyFilters)}>Clear filters</button></div> : listView ? <ProblemList problems={filtered} onSelect={open} /> : <Suspense fallback={<div className="shelf-placeholder" role="status">Opening the shelf…</div>}><Bookshelf problems={filtered} selectedId={selected?.id || null} paused={paused || Boolean(hovered)} reduced={reduced} step={step} onSelect={open} onHover={onHover} onFallback={fallback} /></Suspense>}
+          <div className="shelf-controls" ref={browse} tabIndex={0} aria-label="Shelf controls. Left and right arrow keys browse the shelf." onKeyDown={e => { if (e.target === e.currentTarget && ['ArrowLeft', 'ArrowRight'].includes(e.key)) { e.preventDefault(); setStep(s => s + (e.key === 'ArrowRight' ? 1 : -1)); } }}>
             <div className="shelf-hint" aria-live="polite">{hovered ? <><span className={`difficulty-text ${hovered.difficulty.toLowerCase()}`}>#{hovered.id} / {hovered.difficulty}</span><span className="hover-title">{hovered.title}</span></> : <><span>Pick a spine. Find your next challenge.</span><span className="hint-secondary">Hover to peek · click to open · browse with the arrows <DrawnArrow /></span></>}</div>
             <div className="shelf-buttons">
-              {!listView && <><button className="arrow-button" aria-label="Browse shelves left" onClick={() => setStep(s => s - 1)}>←</button><button className="arrow-button" aria-label="Browse shelves right" onClick={() => setStep(s => s + 1)}>→</button><button className="motion-button" aria-pressed={paused} disabled={reduced} onClick={() => setPaused(v => !v)}>{reduced ? 'Motion reduced' : paused ? '▷ Resume' : 'Ⅱ Pause'}</button></>}
+              {!listView && <><button className="arrow-button" aria-label="Browse shelf left" onClick={() => setStep(s => s - 1)}>←</button><button className="arrow-button" aria-label="Browse shelf right" onClick={() => setStep(s => s + 1)}>→</button><button className="motion-button" aria-pressed={paused} disabled={reduced} onClick={() => setPaused(v => !v)}>{reduced ? 'Motion reduced' : paused ? '▷ Resume' : 'Ⅱ Pause'}</button></>}
               <button className="view-button" onClick={() => { setListView(v => !v); setHovered(null); }}>{listView ? 'Shelf view' : 'List view'}</button>
             </div>
           </div>

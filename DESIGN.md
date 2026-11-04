@@ -1,14 +1,19 @@
 # LeetCode Odyssey
 
-Direction: preserve the tactile, handwritten black bookshelf composition of interesting-reads.vercel.app, adapted to two shelves and problem metadata. Branding: LeetCode Odyssey by Abhishek :).
+Direction: preserve the tactile, handwritten black bookshelf composition of interesting-reads.vercel.app, using one shallow curved carousel and problem metadata. Branding: LeetCode Odyssey by Abhishek :).
 
-ENERGY 4 / RHYTHM 3 / MOTION 3. The books are the focal point; controls stay quiet. The motion helps browse the catalog and makes filtering physical. Pause and reduced-motion controls always take precedence.
+ENERGY 3 / RHYTHM 3 / MOTION 3. The tall topic-colored books are the focal point; controls stay quiet. Continuous carousel motion browses the catalog and physics makes filtering visible, as explicitly requested. Pause and reduced-motion controls always take precedence.
 
 - Pure black #000000; warm white #F3EFE7; cream #EEE5D3; muted text #ADA69A; charcoal #141414.
 - Caveat 700 for titles; Architects Daughter 400 for controls and annotations; Fraunces 400/600 for book titles and readable detail text.
-- Upper shelf travels left to right; lower shelf right to left. Wider spines and 1.45-unit spacing reduce the visible book count for readability. Book-window recycling and offset rebasing commit together to preserve continuous movement.
-- Green means Easy, yellow means Medium, red means Hard. Each problem has deterministic variations in hue, saturation, endpoint brightness, and gradient direction. Labels and printed difficulty marks accompany color. Dark spine text stays readable across the saturated gradients.
+- One shelf travels left to right along a subtle arc: radius is 5.5 times the visible span, roughly four times flatter than the earlier curve. A perspective camera and changing yaw retain dimensional movement. The shelf follows the same curve. Book-window recycling and offset rebasing commit together, preserving the position of books that remain in view.
+- Each book has separate front/back hardback boards, printed cover artwork, a recessed striped page block and a bound spine. Shared woven-cloth bump textures catch the light; the pages have their own paper texture. Lit materials replace the unlit spine so directional lighting, binding highlights and cast shadows reveal the book's depth. Hover turns the book slightly farther to expose its cover.
+- Topic colors use a permanent name-based mapping into a curated palette: violet #5225CF, marigold #FFC400, teal #00A98C, orange #FF681C, blue #2378D4 and complementary hues. Each unique topic gets a section with stable random proportions and shared wavy boundaries, so the pattern never changes on reload. A problem without topics gets one Uncategorized section; no topics are invented.
+- Green #20ED73 means Easy, yellow #FFE000 means Medium, red #FF342D means Hard, exclusively on the bottom difficulty stickers. E/M/H marks make the signal readable without color. Topic chips in the detail view use the same topic colors as the spines.
+- Spine lettering switches between pure black and white for each section, selecting the higher calculated contrast. Both versions of the same lettering are clipped to the exact wave paths. Binding shading stays outside the title area. The cover uses its first topic color and matching high-contrast ink.
+- The visible book budget is max(1, floor(canvas width / 76.8)): 25 at 1920px, 18 at 1440px, 13 at 1024px, 10 at 768px, 5 at 390px and 4 at 320px. Two additional edge-buffer books render beyond that budget to keep the scrolling row filled. Scrollbars can reduce the available width. Taller 7.1–8.5-unit spines and camera fitting balance readability against height. Short yellow solid spacers appear in deterministic irregular gaps to echo the supplied shelf reference.
+- A dark edge gradient and masked 7px backdrop blur hide the book-window boundary without blocking pointer events. The shelf strip also extends past the visible window so its ends never appear as floating tips.
 - Thin irregular shelf outlines and drawn arrows preserve the library's handmade identity. Rounded outlines group filter controls; a selected filter fills cream.
-- Selecting a book opens an inline desk below both shelves, with a book cover beside a metadata card. On narrow screens the desk stacks.
-- Popular-company shortcuts sit above a searchable all-company selector. Difficulty and topic selections combine with company and number/title search.
+- Selecting a book opens an inline desk below the shelf, with a book cover beside a metadata card. On narrow screens the desk stacks.
+- Popular-company shortcuts sit above a searchable all-company selector. Difficulty and topic selections combine with company and number/title search. Filter labels and company shortcuts are uppercase, as explicitly requested; their underlying values and matching behavior stay case-correct.
 - All problems remain accessible; only the visible book window is rendered. Keyboard shelf controls and a static fallback accompany the WebGL shelf.

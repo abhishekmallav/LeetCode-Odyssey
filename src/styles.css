@@ -13,6 +13,14 @@ main{padding-top:0}.shelves{position:relative}.shelf-canvas,.shelf-placeholder{h
 @media(max-width:639px){.difficulty-filters button,.topic-picker select,.company-picker summary,.company-shortcuts button,.surprise-button,.shelf-buttons button,.detail-actions button,.company-menu li button,.text-button{min-height:44px}.shelf-buttons .arrow-button{width:44px}.topic-picker>span:last-child{top:11px}}
 .catalog-message{min-height:648px}
 @media(max-width:639px){.catalog-message{min-height:665px}}
-.cover-title{color:#000;font-size:28px}
+.cover-title{color:inherit;font-size:28px}
+.cover-rule{background:currentColor;opacity:.5}.cover-braces{border-color:currentColor}.cover-difficulty{padding:5px 9px;border:1px solid #000;border-radius:50%}
+.filter-toolbar button,.topic-picker select,.topic-picker option,.company-picker summary,.company-menu label,.company-menu button,.company-menu input::placeholder,.company-shortcuts button,.popular-row{text-transform:uppercase;letter-spacing:.05em}
+.shelf-vignette{background:linear-gradient(90deg,#000 0%,#000e 2%,#0007 7%,transparent 15%,transparent 85%,#0007 93%,#000e 98%,#000 100%)}
+.shelf-vignette:before,.shelf-vignette:after{content:'';position:absolute;top:0;bottom:0;width:16%;backdrop-filter:blur(7px);-webkit-backdrop-filter:blur(7px);pointer-events:none}
+.shelf-vignette:before{left:0;mask-image:linear-gradient(90deg,#000,transparent);-webkit-mask-image:linear-gradient(90deg,#000,transparent)}
+.shelf-vignette:after{right:0;mask-image:linear-gradient(270deg,#000,transparent);-webkit-mask-image:linear-gradient(270deg,#000,transparent)}
+.shelf-canvas,.shelf-placeholder{height:540px}
+@media(max-width:639px){.shelf-canvas,.shelf-placeholder{height:510px}}
 @media(max-width:900px){.cover-title{font-size:26px}}
 @media(max-width:639px){.cover-title{font-size:23px}}

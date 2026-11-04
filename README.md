@@ -1,6 +1,6 @@
 # LeetCode Odyssey by Abhishek :)
 
-A searchable LeetCode library on two counter-moving 3D bookshelves, inspired by [Interesting Reads by AevyTV](https://interesting-reads.vercel.app/).
+A searchable LeetCode library on a curved 3D bookshelf, inspired by [Interesting Reads by AevyTV](https://interesting-reads.vercel.app/).
 
 ## Run locally
 
@@ -17,8 +17,9 @@ Open the Local URL printed by Vite. The source catalog is [leetcode_problems.csv
 
 - Search by problem number (`41` or `#41`) or title.
 - Combine difficulty, topic, and company filters. Popular companies have shortcuts; the company dropdown searches all companies with matching questions.
-- The upper shelf moves left to right; the lower shelf moves right to left. Book dimensions and difficulty gradients stay stable per problem.
-- Hover to see the full title, or click a book to open its details below the shelves. The arrows move through the shelves; List view provides keyboard-accessible selection of every problem.
+- A single shelf moves left to right along a subtle curve. Taller books turn as they travel, with textured front/back covers, page edges, highlights, shadows and short solid spacers. The visible density targets 25 books at 1920px and proportionally fewer on smaller screens; two additional edge-buffer books and a dark blurred fade keep the scrolling boundary out of view.
+- Each topic has a permanent color. Wavy sections divide each spine in stable random proportions; black/white lettering adapts to each section. Bottom E/M/H stickers use green, yellow and red for difficulty.
+- Hover to see the full title, or click a book to open its details below the shelf. The arrows move through the shelf; List view provides keyboard-accessible selection of every problem.
 - Filtering drops unrelated visible books with Rapier physics. A moving window limits rendered books; the whole catalog remains accessible.
 - Surprise me picks from the full catalog and clears active filters.
 - Previous/Next follow the active filtered results. Copy URL copies the LeetCode URL. Shelve it closes the detail view; it does not save a bookmark.

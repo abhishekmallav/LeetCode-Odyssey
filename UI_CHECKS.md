@@ -1,23 +1,23 @@
 # UI delivery checks
 
-Checked the local implementation in the integrated Chromium browser. This records the tested scope, not a claim of formal accessibility certification. Physical phones and other browser engines were not tested. The visual direction and its exceptions come from the user's explicit request to match Interesting Reads.
+Checked the local implementation in Chromium. The curved-shelf revamp was checked in an independent headless Chromium instance with software WebGL, because the editor's embedded browser overrides emulated viewport sizes. Earlier loading/error/keyboard checks below are retained from the initial interface; the revamp checks are recorded at the end. This is not formal accessibility certification. Physical phones and other browser engines were not tested. The visual direction and its exceptions come from the user's explicit request to match Interesting Reads.
 
 ## Hard gate
 
 - R-02 PASS: authored interface copy has no em dashes.
-- R-03 PASS: browser checks at 320, 390, 768 and 1440px found no horizontal document overflow; mobile detail selection also remained within the viewport.
+- R-03 PASS: current browser checks at 320, 390, 768, 1024, 1440 and 1920px found no horizontal document overflow. Initial mobile detail selection also remained within the viewport.
 - R-17 PASS: the displayed 4,101-problem count is generated from the CSV; difficulty and filter counts are computed from those records.
 - R-18 PASS: the interface contains no testimonials or claimed customers.
-- R-23 PASS: the user supplied the reference, typography direction, two-shelf structure, branding and difficulty gradients. Book covers, arrows and the book favicon are code-native elements of that requested interface.
+- R-23 PASS: the user supplied the reference, typography direction, branding and screenshot, and confirmed one curved shelf, short solid spacers and permanent topic colors. Book covers, arrows and the book favicon are code-native elements of that requested interface.
 - R-24 PASS: the only external destinations are source-provided LeetCode URLs and the real reference site; no placeholder navigation is present.
-- R-25 PASS: sampled every problem ID with all three difficulty palettes at eleven gradient positions, including 20% binding shading. Updated saturated gradients have minimum spine text contrast of 4.62:1. Muted text on charcoal was 7.63:1; control borders on the search background were 4.15:1.
+- R-25 PASS: computed black/white ink against every topic color in the actual 176-topic catalog; minimum contrast is 4.7087:1. Sticker colors are also tested above 4.5:1. Ink is clipped to each wave region, while binding shading remains outside the title area. Earlier checks measured muted text on charcoal at 7.63:1 and control borders on the search background at 4.15:1.
 - R-26 PASS: browser checks exercised search, combined filters, company search, a 3D book click, random selection, previous/next, company expansion, copy, close and view switching. Repeated company buttons share the tested filter handler.
 - R-27 PASS: observed initial loading, an empty search, a deliberately failed catalog request and successful recovery using Try again.
 - R-28 PASS: there is no FAQ section.
 - R-32 PASS: Tab reached a native filter button with a visible 2px outline. Enter opened the company disclosure, search found JPMorgan, and Escape closed it. The list view gives native problem-selection buttons.
 - R-33 PASS: interface behavior lives in the React/TypeScript source; no runtime source-patching script exists.
 - R-34 PASS: fixed black theme follows the requested reference; no nonfunctional theme toggle is present.
-- R-35 PASS: TypeScript checking, the production build and six focused Node tests passed. Browser interaction and responsive checks are recorded above.
+- R-35 PASS: TypeScript checking, the production build and nine focused Node tests passed. Current browser interaction, responsive and carousel-continuity checks are recorded below.
 - R-36 PASS: no fabricated performance, security or compliance claims are displayed. No mobile frame-rate claim is made.
 - R-37 PASS: DESIGN.md was written before the interface implementation, using the reference study and the user's confirmed choices.
 - R-38 PASS: problem titles, topics, difficulty and companies come from the source CSV; absent metadata gets explicit empty text.
@@ -26,7 +26,7 @@ Checked the local implementation in the integrated Chromium browser. This record
 
 ## Purpose gate
 
-- R-01 PASS: green/yellow/red gradients encode the user-requested difficulty categories; stable per-problem variations distinguish spines.
+- R-01 PASS: wavy topic-colored sections encode actual metadata; stable proportions distinguish spines. Punchy green/yellow/red E/M/H stickers encode difficulty, as requested.
 - R-04 PASS: the die means random selection, the magnifying glass marks search, and braces relate the bookshelf identity to code.
 - R-06 PASS: the reference's Caveat, Architects Daughter and Fraunces families provide the requested handwritten/book typography; controls avoid oversized monospace decoration.
 - R-07 PASS: the background is plain black, without a decorative technical grid.
@@ -41,11 +41,11 @@ Checked the local implementation in the integrated Chromium browser. This record
 
 ## Liveliness
 
-- Dials PASS: ENERGY 4 / RHYTHM 3 / MOTION 3 are recorded in DESIGN.md.
-- Consistency PASS: the quiet header, two moving shelves and expanded detail desk have distinct visual rhythms.
-- Focal point PASS: the dimensional books carry the difficulty colors and primary interaction.
+- Dials PASS: ENERGY 3 / RHYTHM 3 / MOTION 3 are recorded in DESIGN.md.
+- Consistency PASS: the quiet header, single curved shelf and expanded detail desk have distinct visual rhythms.
+- Focal point PASS: the taller dimensional books carry topic colors, difficulty stickers and the primary interaction.
 - Whitespace PASS: space separates filters, shelves, controls and the selected-problem desk.
-- Accent PASS: difficulty is the book color system; cream consistently identifies selected filters and the primary solve action.
+- Accent PASS: topics use a permanent multicolor mapping; cream consistently identifies selected filters and the primary solve action.
 - Motif PASS: handwritten headings, library spines, outlined controls and drawn annotations recur intentionally.
 - Design read PASS: the reference's layout, fonts, exact base colors and public rendering stack were inspected before building.
 
@@ -62,15 +62,26 @@ Checked the local implementation in the integrated Chromium browser. This record
 - R-16 PASS: authored interface copy contains no AI marketing slogans.
 - R-20 PASS: the book spines, problem numbers and difficulty colors make the interface specific to this coding-question library.
 - R-21 PASS: black is explicitly inherited from the requested reference.
-- R-29 PASS: the neutral base and three functional difficulty palettes are documented in DESIGN.md.
+- R-29 PASS: the neutral base, permanent topic palette and functional difficulty stickers are documented in DESIGN.md; the user explicitly requested the multicolor system.
 - R-30 PASS: close reference matching is explicitly requested by the user and acknowledged in the footer.
 - R-31 PASS: visual decisions and their purposes are recorded in DESIGN.md and this report.
 
 ## Remaining verification limits
 
-Hover/title follow-up: hovered books now move 1.2 units forward, lift 0.2 units and scale to 1.07, with the existing reduced-motion preference respected. Spine titles use 42px texture lettering (32px for long titles), fitted within 112px of cross-spine space to avoid clipping. Spine text and detail-cover titles are pure black; cover titles are larger at each breakpoint. The production build and editor diagnostics passed.
+Book-depth follow-up:
 
-Animation follow-up: the old implementation rebased the shelf offset before React committed the replacement book positions. A 220-frame browser render capture reproduced jumps of 0.6975 and 0.6965 world units. The fixed implementation waits for the layout commit. A 260-frame deterministic browser transform check across both wrap directions measured maximum steps of 0.0075 and 0.0065 world units, matching the intended speed at 60 simulated steps per second. This checks continuity, not real-device frame rate. At the checked desktop width, rendered books decreased from 45 to 24 per row. The wider spines and per-problem saturated gradients use the same appearance in the detail cover.
+- Construction PASS: browser scene inspection found distinct front-cover and back-cover boards, printed artwork planes, a recessed page block with a paper map, cloth bump maps, a lit standard-material spine, a shadow-casting directional light and an enabled renderer shadow map. Desktop and phone-width screenshots were inspected.
+- Curve PASS: the new layout test checks widths from 320px through 3840px; edge depth stays below 2.5% of the shelf span. At 1920px, the book yaw range decreased from roughly 0.8 to 0.206 radians. Covers turn farther into view on hover or selection.
+- Edges PASS: each rendered window now includes two additional buffer books. The shelf surface extends beyond the window; a non-interactive dark gradient and masked 7px backdrop blur hide both ends. The earlier counts above describe the first revamp. Current total rendered counts are 27, 20, 15, 12, 7 and 6 at widths 1920, 1440, 1024, 768, 390 and 320px, respectively; two of each are edge buffers. No horizontal document overflow was observed.
+- Filters PASS: computed styles confirm uppercase difficulty buttons, topic selection, company selection and company shortcuts. Search/filter values remain unchanged.
+- Continuity PASS: a 120-frame check using a simulated 0.05-second delta crossed one recycling boundary. Maximum persistent-book displacement was 0.021 world units, matching the configured speed and frame cap. Shadow-map updates were held during this transform-only check; this is not a GPU-performance measurement.
+- Contrast scope: the 4.7087:1 measurement above describes the base printed palette. The new materials add real highlights and moving shadows, so this value should not be interpreted as a pixel-by-pixel audit of every lit frame.
+
+Curved-shelf revamp: verified a perspective camera and changing book yaw across the shelf. The measured book counts, including edge books, are 25 at 1920px, 18 at 1440px, 13 at 1024px, 10 at 768px, 5 at 390px and 4 at 320px. The independent browser hides scrollbars for exact viewport measurements; normal scrollbars can slightly reduce the available width and budget. Desktop and mobile screenshots were inspected for the wavy sections, lettering, solid spacers, difficulty stickers and visible cover depth. Taller spines use 62px texture lettering, or 49px for long titles, fitted to their available space.
+
+Continuity: tracked the actual world positions of persistent books for 360 rendered frames across three recycling boundaries. Maximum displacement was 0.021 world units, equal to the largest permitted movement step (0.42 units/second × 0.05-second delta cap), with no wrap jump. This is a continuity check, not a real-device frame-rate benchmark. Filtered-out books take their drop positions from the latest rendered curve positions.
+
+Interactions: projected the actual 3D position of problem 41 and clicked its spine through browser mouse input; observed its detail title and correct LeetCode URL, then closed it with Shelve it. Regression checks also exercised combined filters, searchable companies and Escape, Surprise me, Previous/Next, copy feedback, list selection, reduced motion and keyboard shelf navigation. No uncaught browser exceptions were observed.
 
 - Vercel deployment has not been run; README.md includes the Vite deployment settings.
 - The lazy 3D/physics bundle is about 1.1 MB compressed. Real phone GPU performance and slow-network loading have not been benchmarked.
