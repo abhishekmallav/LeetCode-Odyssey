@@ -61,7 +61,7 @@ export const shelfCapacity = (width: number) => Math.max(1, Math.floor(width / 7
 export function carouselLayout(width: number) {
   const capacity = shelfCapacity(width);
   const span = Math.max(4.5, capacity - 2) * SHELF_SLOT;
-  return { capacity, span, radius: Math.max(44, span * 5.5) };
+  return { capacity, span, radius: Math.max(60, span * 7.5) };
 }
 export function carouselPose(distance: number, radius: number) {
   const angle = distance / radius;

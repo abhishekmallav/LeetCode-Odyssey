@@ -53,8 +53,9 @@ test('the shelf curve stays subtle across phone, desktop and wide-screen layouts
   for (const width of [320, 390, 768, 1024, 1440, 1920, 2560, 3840]) {
     const { span, radius } = carouselLayout(width);
     const edge = carouselPose(span / 2, radius);
-    assert.ok(edge.z < 0 && Math.abs(edge.z) < span * .025);
-    assert.ok(Math.abs(edge.angle) < .1);
+    assert.ok(edge.z < 0 && Math.abs(edge.z) < span * .018);
+    assert.ok(Math.abs(edge.angle) < .07);
+    assert.equal(carouselPose(0, radius).angle, 0);
   }
 });
 test('carousel turns along an arc and rebasing leaves existing books in place', () => {

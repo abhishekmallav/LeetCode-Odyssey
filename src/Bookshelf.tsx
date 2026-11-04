@@ -51,6 +51,25 @@ function surfaceTexture(pages = false) {
 const cloth = surfaceTexture();
 const paper = surfaceTexture(true);
 
+function printGrain(ctx: CanvasRenderingContext2D, id: string) {
+  const grain = document.createElement('canvas');
+  grain.width = 48; grain.height = 320;
+  const noise = grain.getContext('2d')!;
+  const pixels = noise.createImageData(grain.width, grain.height);
+  let random = Math.floor(seed(id) * 4294967296);
+  for (let i = 0; i < pixels.data.length; i += 4) {
+    random = (Math.imul(random, 1664525) + 1013904223) >>> 0;
+    const value = 40 + (random >>> 24) * .69;
+    pixels.data.set([value, value, value, 255], i);
+  }
+  noise.putImageData(pixels, 0, 0);
+  ctx.save();
+  ctx.globalCompositeOperation = 'soft-light'; ctx.globalAlpha = .2;
+  ctx.imageSmoothingEnabled = false;
+  ctx.drawImage(grain, 0, 0, ctx.canvas.width, ctx.canvas.height);
+  ctx.restore();
+}
+
 function coverTexture(problem: Problem, back = false) {
   const canvas = document.createElement('canvas');
   canvas.width = 320; canvas.height = 640;
@@ -59,6 +78,7 @@ function coverTexture(problem: Problem, back = false) {
   ctx.fillStyle = back ? look.bottom : look.top; ctx.fillRect(0, 0, 320, 640);
   ctx.fillStyle = back ? look.top : look.bottom;
   ctx.beginPath(); ctx.moveTo(0, 495); ctx.bezierCurveTo(85, 445, 230, 560, 320, 490); ctx.lineTo(320, 640); ctx.lineTo(0, 640); ctx.fill();
+  printGrain(ctx, problem.id + (back ? ':back' : ':front'));
   const ink = inkColor(back ? look.bottom : look.top);
   ctx.strokeStyle = ink; ctx.globalAlpha = .35; ctx.lineWidth = 1.5; ctx.strokeRect(22, 22, 276, 596); ctx.globalAlpha = 1;
   ctx.fillStyle = ink; ctx.textAlign = 'center';
@@ -100,6 +120,7 @@ function spineTexture(problem: Problem) {
     return path;
   });
   look.sections.forEach((section, i) => { ctx.fillStyle = section.color; ctx.fill(paths[i]); });
+  printGrain(ctx, problem.id + ':spine');
   function lettering(color: string) {
     ctx.fillStyle = color; ctx.textAlign = 'center';
     ctx.font = '30px "Architects Daughter"'; ctx.fillText(`#${problem.id}`, width / 2, 55);
@@ -183,12 +204,12 @@ function StandingBook({ problem, distance, radius, phase, selected, reduced, onS
     if (!mesh.current || !position.current) return;
     const pose = carouselPose(distance + phase.current, radius);
     position.current.position.set(pose.x, look.height / 2, pose.z);
-    position.current.rotation.set(0, pose.angle - .22, look.tilt);
+    position.current.rotation.set(0, pose.angle, 0);
     const raised = selected || (!reduced && hovered.current);
     const blend = reduced ? 1 : Math.min(delta * 10, 1);
     mesh.current.position.z += ((raised ? 1.2 : 0) - mesh.current.position.z) * blend;
     mesh.current.position.y += ((raised ? .2 : 0) - mesh.current.position.y) * blend;
-    mesh.current.rotation.y += ((raised ? -.32 : 0) - mesh.current.rotation.y) * blend;
+    mesh.current.rotation.set(0, 0, 0);
     mesh.current.scale.setScalar(mesh.current.scale.x + ((raised ? 1.07 : 1) - mesh.current.scale.x) * blend);
   });
   function hover(event: ThreeEvent<PointerEvent>, value: boolean) {

@@ -68,6 +68,12 @@ Checked the local implementation in Chromium. The curved-shelf revamp was checke
 
 ## Remaining verification limits
 
+Printed-grain and center-orientation follow-up:
+
+- Texture PASS: deterministic soft-light paper grain is painted into spine and front/back cover artwork before text. Browser inspection of an otherwise uniform patch on problem 41's spine found 15 distinct pixel colors, confirming that the printed texture is present independently of the bump map.
+- Center PASS: filtered to problem 41 and inspected its actual scene transforms. Center x, book yaw, sideways lean and inner-group yaw were all exactly zero. Hover/selection now lifts without adding yaw.
+- Curve PASS: radius increased from 5.5 to 7.5 times the shelf span; tests require edge depth below 1.8% of the span and a zero angle at the center, across phone through wide-screen layouts. All nine tests and the production build pass; editor diagnostics report no errors.
+
 Book-depth follow-up:
 
 - Construction PASS: browser scene inspection found distinct front-cover and back-cover boards, printed artwork planes, a recessed page block with a paper map, cloth bump maps, a lit standard-material spine, a shadow-casting directional light and an enabled renderer shadow map. Desktop and phone-width screenshots were inspected.
