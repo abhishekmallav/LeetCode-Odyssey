@@ -1,6 +1,6 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { bookLook, carouselLayout, carouselPose, companyLabel, contrastRatio, difficultyColors, filterProblems, inkColor, shelfCapacity, SHELF_SLOT, topicColor, topicSections, wrapIndex } from './model.ts';
+import { bookLook, carouselLayout, carouselPose, companyLabel, contrastRatio, difficultyColors, filterProblems, inkColor, motionBlend, shelfCapacity, shelfTransition, SHELF_SLOT, topicColor, topicSections, wrapIndex } from './model.ts';
 import type { Problem } from './model.ts';
 const problems: Problem[] = [
   { id: '1', title: 'Two Sum', difficulty: 'Easy', topics: ['Array', 'Hash Table'], companies: ['Amazon', 'Google'], url: '' },
@@ -76,4 +76,25 @@ test('shelf and detail navigation wrap at both ends', () => {
   assert.equal(wrapIndex(-1, 4101), 4100);
   assert.equal(wrapIndex(4101, 4101), 0);
   assert.equal(wrapIndex(0, 0), 0);
+});
+test('filter transitions retain the first survivor and preserve outgoing pose data', () => {
+  const first = { problem: problems[0], x: -4, y: 4.2, z: 1.1, scale: 1.07 };
+  const second = { problem: problems[1], x: 2, y: 3.8, z: -.2, scale: 1 };
+  const transition = shelfTransition([first, second], [problems[1], problems[0]]);
+  assert.equal(transition.start, 1);
+  assert.deepEqual(transition.outgoing, []);
+  const narrowed = shelfTransition([first, second], [problems[1]]);
+  assert.equal(narrowed.start, 0);
+  assert.equal(narrowed.outgoing[0], first);
+  assert.deepEqual(shelfTransition([first, second], []).outgoing, [first, second]);
+  assert.deepEqual(shelfTransition([], problems), { outgoing: [], start: 0 });
+});
+test('motion damping is frame-rate independent, bounded, and immediate for reduced motion', () => {
+  const oneStep = motionBlend(.032, false);
+  const twoSteps = 1 - (1 - motionBlend(.016, false)) ** 2;
+  assert.ok(Math.abs(oneStep - twoSteps) < 1e-12);
+  assert.ok(motionBlend(10, false) > 0 && motionBlend(10, false) < 1);
+  assert.equal(motionBlend(10, false), motionBlend(.05, false));
+  assert.equal(motionBlend(0, true), 1);
+  assert.equal(motionBlend(0, false), 0);
 });

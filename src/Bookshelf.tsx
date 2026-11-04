@@ -2,14 +2,16 @@ import { Component, Suspense, useCallback, useEffect, useLayoutEffect, useMemo, 
 import type { MutableRefObject, ReactNode } from 'react';
 import { Canvas, useFrame, useThree } from '@react-three/fiber';
 import type { ThreeEvent } from '@react-three/fiber';
-import { Physics, RigidBody } from '@react-three/rapier';
+import { CuboidCollider, Physics, RigidBody } from '@react-three/rapier';
 import { CanvasTexture, CatmullRomCurve3, ExtrudeGeometry, Group, PerspectiveCamera, RepeatWrapping, Shape, SRGBColorSpace, Vector3 } from 'three';
-import { bookLook, carouselLayout, carouselPose, difficultyColors, inkColor, seed, shelfCapacity, SHELF_SLOT, wrapIndex } from './model';
+import { bookLook, carouselLayout, carouselPose, difficultyColors, inkColor, motionBlend, seed, shelfCapacity, shelfTransition, SHELF_SLOT, wrapIndex } from './model';
 import type { Problem } from './model';
 
 interface Props {
   problems: Problem[];
   selectedId: string | null;
+  hoveredId: string | null;
+  holding: boolean;
   paused: boolean;
   reduced: boolean;
   step: number;
@@ -192,28 +194,39 @@ function BookShape({ problem, active = false }: { problem: Problem; active?: boo
   </group>;
 }
 
-function StandingBook({ problem, distance, radius, phase, selected, reduced, onSelect, onHover }: {
-  problem: Problem; distance: number; radius: number; phase: MutableRefObject<number>; selected: boolean; reduced: boolean;
+function StandingBook({ problem, distance, radius, phase, snapshots, selected, hovered, reduced, onSelect, onHover }: {
+  problem: Problem; distance: number; radius: number; phase: MutableRefObject<number>; snapshots: MutableRefObject<Map<string, Drop>>; selected: boolean; hovered: boolean; reduced: boolean;
   onSelect: Props['onSelect']; onHover: Props['onHover'];
 }) {
   const position = useRef<Group>(null);
   const mesh = useRef<Group>(null);
-  const hovered = useRef(false);
+  const initialized = useRef(false);
+  const worldPosition = useMemo(() => new Vector3(), []);
   const look = bookLook(problem);
   useFrame((_, delta) => {
     if (!mesh.current || !position.current) return;
     const pose = carouselPose(distance + phase.current, radius);
-    position.current.position.set(pose.x, look.height / 2, pose.z);
-    position.current.rotation.set(0, pose.angle, 0);
-    const raised = selected || (!reduced && hovered.current);
-    const blend = reduced ? 1 : Math.min(delta * 10, 1);
+    const blend = motionBlend(delta, reduced);
+    if (!initialized.current) {
+      position.current.position.set(pose.x, look.height / 2 - (reduced ? 0 : .5), pose.z);
+      position.current.rotation.set(0, pose.angle, 0);
+      initialized.current = true;
+    }
+    position.current.position.x += (pose.x - position.current.position.x) * blend;
+    position.current.position.y += (look.height / 2 - position.current.position.y) * blend;
+    position.current.position.z += (pose.z - position.current.position.z) * blend;
+    position.current.rotation.y += (pose.angle - position.current.rotation.y) * blend;
+    const raised = selected || (!reduced && hovered);
     mesh.current.position.z += ((raised ? 1.2 : 0) - mesh.current.position.z) * blend;
     mesh.current.position.y += ((raised ? .2 : 0) - mesh.current.position.y) * blend;
     mesh.current.rotation.set(0, 0, 0);
     mesh.current.scale.setScalar(mesh.current.scale.x + ((raised ? 1.07 : 1) - mesh.current.scale.x) * blend);
+    position.current.updateWorldMatrix(true, true);
+    mesh.current.getWorldPosition(worldPosition);
+    snapshots.current.set(problem.id, { problem, x: worldPosition.x, y: worldPosition.y, z: worldPosition.z, angle: position.current.rotation.y, scale: mesh.current.scale.x, key: problem.id, elapsed: 0 });
   });
   function hover(event: ThreeEvent<PointerEvent>, value: boolean) {
-    event.stopPropagation(); hovered.current = value; onHover(value ? problem : null);
+    event.stopPropagation(); onHover(value ? problem : null);
     (event.nativeEvent.target as HTMLCanvasElement).style.cursor = value ? 'pointer' : '';
   }
   return <group ref={position} name={`standing-${problem.id}`}>
@@ -227,12 +240,13 @@ function StandingBook({ problem, distance, radius, phase, selected, reduced, onS
   </group>;
 }
 
-interface Drop { problem: Problem; x: number; z: number; angle: number; key: string }
+interface Drop { problem: Problem; x: number; y: number; z: number; angle: number; scale: number; key: string; elapsed: number }
 function FallingBook({ item }: { item: Drop }) {
   const look = bookLook(item.problem);
-  return <RigidBody position={[item.x, look.height / 2, item.z + .8]} rotation={[.08, item.angle, look.tilt]}
-    colliders="cuboid" linearVelocity={[(seed(item.key) - .5) * 2, .4, .8]}
-    angularVelocity={[.4, .2, (seed(item.key + 'spin') - .5) * 4]} restitution={.15}>
+  return <RigidBody name={`falling-${item.key}`} position={[item.x, item.y, item.z]} rotation={[0, item.angle, 0]} scale={item.scale}
+    colliders={false} linearVelocity={[(seed(item.key) - .5) * .5, -.6, .25]}
+    angularVelocity={[.25, .12, (seed(item.key + 'spin') - .5) * 1.8]}>
+    <CuboidCollider args={[look.width / 2 + .08, look.height / 2 + .05, .95]} collisionGroups={0} />
     <BookShape problem={item.problem} />
   </RigidBody>;
 }
@@ -267,7 +281,8 @@ function ShelfRow(props: Props) {
   const [falling, setFalling] = useState<Drop[]>([]);
   const phase = useRef(0);
   const pendingShift = useRef(0);
-  const previous = useRef<Drop[]>([]);
+  const snapshots = useRef(new Map<string, Drop>());
+  const previousSequence = useRef(sequence);
   const generation = useRef(0);
   const left = (count - 1) * SHELF_SLOT / 2;
   const visible = Array.from({ length: count }, (_, i) => ({ problem: sequence[wrapIndex(start + i, sequence.length)], distance: i * SHELF_SLOT - left }));
@@ -281,44 +296,51 @@ function ShelfRow(props: Props) {
     perspective.updateProjectionMatrix();
   }, [camera, size.width, size.height, span]);
 
-  useEffect(() => {
-    const currentIds = new Set(props.problems.map(p => p.id));
-    const outgoing = previous.current.filter(item => !currentIds.has(item.problem.id));
+  useLayoutEffect(() => {
+    if (previousSequence.current === sequence) return;
+    previousSequence.current = sequence;
+    const transition = shelfTransition([...snapshots.current.values()].sort((a, b) => a.x - b.x), sequence);
     generation.current++;
-    if (!props.reduced && !props.paused && outgoing.length) {
-      setFalling(outgoing.map(item => ({ ...item, key: `${item.problem.id}-${generation.current}` })));
-      const timer = setTimeout(() => setFalling([]), 1800);
-      return () => clearTimeout(timer);
+    if (!props.reduced && transition.outgoing.length) {
+      setFalling(current => [...current, ...transition.outgoing.map(item => ({ ...item, key: `${item.problem.id}-${generation.current}`, elapsed: 0 }))]);
     }
-    setFalling([]);
-  }, [props.problems, props.reduced, props.paused]);
+    for (const item of transition.outgoing) snapshots.current.delete(item.problem.id);
+    phase.current = 0; pendingShift.current = 0;
+    setStart(transition.start);
+  }, [sequence, props.reduced]);
+  useEffect(() => { if (props.reduced) setFalling([]); }, [props.reduced]);
   useLayoutEffect(() => {
     // Rebase the offset only after React commits the replacement book positions.
     phase.current -= pendingShift.current * SHELF_SLOT;
     pendingShift.current = 0;
   }, [start]);
-  useEffect(() => { phase.current = 0; pendingShift.current = 0; setStart(0); }, [sequence]);
   const previousStep = useRef(props.step);
   useEffect(() => {
     const difference = props.step - previousStep.current;
     previousStep.current = props.step;
     setStart(s => s + difference * 5); phase.current = 0; pendingShift.current = 0;
   }, [props.step]);
-  useEffect(() => {
+  useLayoutEffect(() => {
     if (!props.selectedId) return;
+    if (visible.some(item => item.problem.id === props.selectedId)) return;
     const index = sequence.findIndex(p => p.id === props.selectedId);
     if (index >= 0) { setStart(index - Math.floor(count / 2)); phase.current = 0; pendingShift.current = 0; }
   }, [props.selectedId, sequence, count]);
 
   useFrame((_, delta) => {
-    previous.current = visible.map(item => ({ problem: item.problem, ...carouselPose(item.distance + phase.current, radius), key: item.problem.id }));
-    if (props.paused || props.reduced || sequence.length <= capacity) return;
+    const ids = new Set(visible.map(item => item.problem.id));
+    for (const id of snapshots.current.keys()) if (!ids.has(id)) snapshots.current.delete(id);
+    if (!props.paused && !props.reduced && falling.length) {
+      for (const item of falling) item.elapsed += Math.min(delta, .05);
+      if (falling.some(item => item.elapsed > 2.2)) setFalling(current => current.filter(item => item.elapsed <= 2.2));
+    }
+    if (props.paused || props.reduced || props.holding || props.hoveredId || sequence.length <= capacity) return;
     phase.current += Math.min(delta, .05) * .42;
     const shift = Math.trunc(phase.current / SHELF_SLOT);
     if (shift && !pendingShift.current) { pendingShift.current = shift; setStart(s => s - shift); }
   });
   return <>
-    {visible.map(item => <StandingBook key={item.problem.id} problem={item.problem} distance={item.distance} radius={radius} phase={phase} selected={props.selectedId === item.problem.id} reduced={props.reduced} onSelect={props.onSelect} onHover={props.onHover} />)}
+    {visible.map(item => <StandingBook key={item.problem.id} problem={item.problem} distance={item.distance} radius={radius} phase={phase} snapshots={snapshots} selected={props.selectedId === item.problem.id} hovered={props.hoveredId === item.problem.id} reduced={props.reduced} onSelect={props.onSelect} onHover={props.onHover} />)}
     {falling.map(item => <FallingBook key={item.key} item={item} />)}
     <CurvedShelf radius={radius} span={span} />
   </>;
@@ -347,7 +369,7 @@ function Scene({ onReady, ...props }: Props & { onReady: () => void }) {
     <directionalLight position={[12, 6, 8]} intensity={.5} />
     <directionalLight position={[0, 12, -8]} intensity={.9} />
     <Suspense fallback={null}>
-      <Physics gravity={[0, -18, 0]} paused={props.paused || props.reduced} timeStep="vary">
+      <Physics gravity={[0, -18, 0]} paused={props.paused || props.reduced} timeStep={1 / 60}>
         <SceneReady onReady={onReady} />
         <ShelfRow {...props} />
       </Physics>

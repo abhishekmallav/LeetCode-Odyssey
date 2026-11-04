@@ -68,4 +68,15 @@ export function carouselPose(distance: number, radius: number) {
   return { x: Math.sin(angle) * radius, z: (Math.cos(angle) - 1) * radius, angle };
 }
 
+export const motionBlend = (delta: number, reduced: boolean) => reduced ? 1 : 1 - Math.exp(-Math.min(delta, .05) * 12);
+
+export function shelfTransition<T extends { problem: Problem }>(previous: T[], next: Problem[]) {
+  const ids = new Set(next.map(problem => problem.id));
+  const anchor = previous.find(item => ids.has(item.problem.id));
+  return {
+    outgoing: previous.filter(item => !ids.has(item.problem.id)),
+    start: anchor ? next.findIndex(problem => problem.id === anchor.problem.id) : 0,
+  };
+}
+
 export const wrapIndex = (index: number, length: number) => length ? ((index % length) + length) % length : 0;

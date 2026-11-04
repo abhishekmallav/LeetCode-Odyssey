@@ -17,7 +17,7 @@ Checked the local implementation in Chromium. The curved-shelf revamp was checke
 - R-32 PASS: Tab reached a native filter button with a visible 2px outline. Enter opened the company disclosure, search found JPMorgan, and Escape closed it. The list view gives native problem-selection buttons.
 - R-33 PASS: interface behavior lives in the React/TypeScript source; no runtime source-patching script exists.
 - R-34 PASS: fixed black theme follows the requested reference; no nonfunctional theme toggle is present.
-- R-35 PASS: TypeScript checking, the production build and nine focused Node tests passed. Current browser interaction, responsive and carousel-continuity checks are recorded below.
+- R-35 PASS: TypeScript checking, the production build and eleven focused Node tests passed. Current browser interaction, responsive and carousel-continuity checks are recorded below.
 - R-36 PASS: no fabricated performance, security or compliance claims are displayed. No mobile frame-rate claim is made.
 - R-37 PASS: DESIGN.md was written before the interface implementation, using the reference study and the user's confirmed choices.
 - R-38 PASS: problem titles, topics, difficulty and companies come from the source CSV; absent metadata gets explicit empty text.
@@ -67,6 +67,15 @@ Checked the local implementation in Chromium. The curved-shelf revamp was checke
 - R-31 PASS: visual decisions and their purposes are recorded in DESIGN.md and this report.
 
 ## Remaining verification limits
+
+Filter/selection animation follow-up:
+
+- Filters PASS: browser assertions confirmed that hover does not remove existing drops or freeze their physics. Rapid filter changes preserve earlier bodies. The outgoing spawn positions matched the previous rendered world positions exactly (maximum measured error 0). Each falling book uses one explicit collider; physical bodies no longer kick each other apart at spawn.
+- Empty results PASS: zero-result filtering retains the same canvas and active falls. Completed drops were cleaned up after playback; the empty-state overlay remains usable.
+- Selection PASS: a clicked visible book kept its slot and the visible window count stayed stable. The measured root displacement at selection was 0.0259 world units (normal residual easing), and the selected book remained stationary with autoplay held. Reserving the scrollbar gutter prevents detail-induced viewport resizing.
+- Shelving PASS: the detail remained mounted during its exit, the book moved back toward its slot, the panel unmounted after the animation, and autoplay resumed after the return. The returned book's local depth was below 0.09 world units.
+- Reduced motion PASS: filtering created no falling bodies, selection updated its lift immediately, and Shelve it removed the panel and reset the book without waiting for animation. These transition tests used the real scene/physics and the component event handlers in Chromium; they are not a physical-device performance benchmark.
+- Regression PASS: eleven Node tests cover filter anchoring, preservation of outgoing pose objects, frame-rate-independent damping, reduced-motion snapping, existing metadata filters, appearance and navigation. The production build and editor diagnostics also pass.
 
 Printed-grain and center-orientation follow-up:
 

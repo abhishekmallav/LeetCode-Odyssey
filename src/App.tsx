@@ -98,6 +98,7 @@ export default function App() {
   const [retry, setRetry] = useState(0);
   const [filters, setFilters] = useState<Filters>(emptyFilters);
   const [selected, setSelected] = useState<Problem | null>(null);
+  const [closing, setClosing] = useState(false);
   const [hovered, setHovered] = useState<Problem | null>(null);
   const [paused, setPaused] = useState(false);
   const [reduced, setReduced] = useState(() => matchMedia('(prefers-reduced-motion: reduce)').matches);
@@ -122,15 +123,21 @@ export default function App() {
   const topics = useMemo(() => [...new Set(problems.flatMap(p => p.topics))].sort(), [problems]);
   const activeFilters = Object.values(filters).some(Boolean);
   const counts = useMemo(() => Object.fromEntries(['Easy', 'Medium', 'Hard'].map(d => [d, problems.filter(p => p.difficulty === d).length])), [problems]);
-  const open = useCallback((problem: Problem) => { setSelected(problem); setHovered(null); }, []);
+  const open = useCallback((problem: Problem) => { setClosing(false); setSelected(problem); setHovered(null); }, []);
   const onHover = useCallback((problem: Problem | null) => setHovered(problem), []);
   const fallback = useCallback(() => setListView(true), []);
-  useEffect(() => { if (selected && !filtered.some(p => p.id === selected.id)) setSelected(null); }, [filtered, selected]);
+  useEffect(() => { if (selected && !filtered.some(p => p.id === selected.id)) { setSelected(null); setClosing(false); } }, [filtered, selected]);
   useEffect(() => {
-    if (!selected) return;
-    const timer = setTimeout(() => detail.current?.scrollIntoView({ behavior: reduced ? 'instant' : 'smooth', block: 'nearest' }), 80);
+    if (!selected || closing) return;
+    const timer = setTimeout(() => detail.current?.scrollIntoView({ behavior: reduced ? 'instant' : 'smooth', block: 'nearest' }), reduced ? 0 : 220);
     return () => clearTimeout(timer);
-  }, [selected?.id, reduced]);
+  }, [selected?.id, reduced, closing]);
+  const finishClose = useCallback(() => {
+    setSelected(null); setClosing(false);
+    browse.current?.focus({ preventScroll: true });
+    browse.current?.scrollIntoView({ behavior: reduced ? 'instant' : 'smooth', block: 'center' });
+  }, [reduced]);
+  useEffect(() => { if (closing && reduced) finishClose(); }, [closing, reduced, finishClose]);
   function update<K extends keyof Filters>(name: K, value: Filters[K]) { setFilters(f => ({ ...f, [name]: value })); setHovered(null); }
   function surprise() {
     if (!problems.length) return;
@@ -141,7 +148,7 @@ export default function App() {
     if (!selected || !filtered.length) return;
     open(filtered[wrapIndex(filtered.findIndex(p => p.id === selected.id) + direction, filtered.length)]);
   }
-  function close() { setSelected(null); browse.current?.focus({ preventScroll: true }); browse.current?.scrollIntoView({ behavior: reduced ? 'instant' : 'smooth', block: 'center' }); }
+  function close() { setHovered(null); if (reduced) finishClose(); else setClosing(true); }
   return <>
     <a href="#library" className="skip-link">Skip to the shelf</a>
     <header className="site-header">
@@ -166,7 +173,10 @@ export default function App() {
     <main id="library">
       {error ? <div className="catalog-message" role="alert"><p>{error}</p><button onClick={() => setRetry(v => v + 1)}>Try again</button></div> : !problems.length ? <div className="catalog-message" role="status">Opening the library…</div> : <>
         <section className="shelves" aria-label="Problem bookshelf">
-          {!filtered.length ? <div className="empty-shelf"><span aria-hidden="true">{'{ … }'}</span><h2>A quiet corner of the library.</h2><p>No problems match these filters.</p><button onClick={() => setFilters(emptyFilters)}>Clear filters</button></div> : listView ? <ProblemList problems={filtered} onSelect={open} /> : <Suspense fallback={<div className="shelf-placeholder" role="status">Opening the shelf…</div>}><Bookshelf problems={filtered} selectedId={selected?.id || null} paused={paused || Boolean(hovered)} reduced={reduced} step={step} onSelect={open} onHover={onHover} onFallback={fallback} /></Suspense>}
+          {listView ? <ProblemList problems={filtered} onSelect={open} /> : <Suspense fallback={<div className="shelf-placeholder" role="status">Opening the shelf…</div>}>
+            <Bookshelf problems={filtered} selectedId={closing ? null : selected?.id || null} hoveredId={hovered?.id || null} holding={Boolean(selected)} paused={paused} reduced={reduced} step={step} onSelect={open} onHover={onHover} onFallback={fallback} />
+          </Suspense>}
+          {!filtered.length && <div className={`empty-shelf${listView ? '' : ' empty-shelf-on-canvas'}`}><span aria-hidden="true">{'{ … }'}</span><h2>A quiet corner of the library.</h2><p>No problems match these filters.</p><button onClick={() => setFilters(emptyFilters)}>Clear filters</button></div>}
           <div className="shelf-controls" ref={browse} tabIndex={0} aria-label="Shelf controls. Left and right arrow keys browse the shelf." onKeyDown={e => { if (e.target === e.currentTarget && ['ArrowLeft', 'ArrowRight'].includes(e.key)) { e.preventDefault(); setStep(s => s + (e.key === 'ArrowRight' ? 1 : -1)); } }}>
             <div className="shelf-hint" aria-live="polite">{hovered ? <><span className={`difficulty-text ${hovered.difficulty.toLowerCase()}`}>#{hovered.id} / {hovered.difficulty}</span><span className="hover-title">{hovered.title}</span></> : <><span>Pick a spine. Find your next challenge.</span><span className="hint-secondary">Hover to peek · click to open · browse with the arrows <DrawnArrow /></span></>}</div>
             <div className="shelf-buttons">
@@ -175,7 +185,10 @@ export default function App() {
             </div>
           </div>
         </section>
-        {selected && <div className="detail-wrap" ref={detail}><ProblemDetail problem={selected} previous={() => navigate(-1)} next={() => navigate(1)} close={close} /></div>}
+        {selected && <div className={`detail-wrap${closing ? ' detail-closing' : ''}`} ref={detail} inert={closing}
+          onAnimationEnd={event => { if (closing && event.target === event.currentTarget && event.animationName === 'desk-out') finishClose(); }}>
+          <ProblemDetail problem={selected} previous={() => navigate(-1)} next={() => navigate(1)} close={close} />
+        </div>}
       </>}
     </main>
     <footer><span>Made for the joy of figuring it out.</span><span>LeetCode Odyssey by Abhishek :)</span><a href="https://interesting-reads.vercel.app/" target="_blank" rel="noopener noreferrer">Bookshelf inspired by Interesting Reads / AevyTV ↗</a></footer>

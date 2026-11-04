@@ -20,10 +20,10 @@ Open the Local URL printed by Vite. The source catalog is [leetcode_problems.csv
 - A single shelf moves left to right along a subtle curve. Taller books turn as they travel, with textured front/back covers, page edges, highlights, shadows and short solid spacers. The visible density targets 25 books at 1920px and proportionally fewer on smaller screens; two additional edge-buffer books and a dark blurred fade keep the scrolling boundary out of view.
 - Each topic has a permanent color. Wavy sections divide each spine in stable random proportions; black/white lettering adapts to each section. Bottom E/M/H stickers use green, yellow and red for difficulty.
 - Hover to see the full title, or click a book to open its details below the shelf. The arrows move through the shelf; List view provides keyboard-accessible selection of every problem.
-- Filtering drops unrelated visible books with Rapier physics. A moving window limits rendered books; the whole catalog remains accessible.
+- Filtering drops unrelated visible books from their current positions with Rapier physics, while matching books slide into place. Rapid changes and empty results preserve active falls until they finish. A moving window limits rendered books; the whole catalog remains accessible.
 - Surprise me picks from the full catalog and clears active filters.
 - Previous/Next follow the active filtered results. Copy URL copies the LeetCode URL. Shelve it closes the detail view; it does not save a bookmark.
-- Pause stops shelf movement and physics. The system's reduced-motion preference disables automatic motion. A list view remains available if WebGL is unsupported.
+- Hover and selection hold shelf autoplay without freezing falling books. Shelve it returns the book and closes the detail before autoplay resumes. Pause stops autoplay and physics; reduced motion makes selection/return immediate and disables falling effects. A list view remains available if WebGL is unsupported.
 
 The company associations and topics come from the CSV. Empty company cells mean the sources have no company match, rather than a claim that the question has never been asked.
 
