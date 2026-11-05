@@ -19,7 +19,7 @@ function SocialLinks() {
     { label: 'LinkedIn', href: 'https://www.linkedin.com/in/abhishekmallav/', icon: <><rect x="3" y="3" width="18" height="18" rx="2" /><path d="M7.5 10v7m0-10v.01M11.5 17v-7m0 3a2.75 2.75 0 0 1 5.5 0v4" /></> },
     { label: 'Email Abhishek', href: 'mailto:abhimallav1439@gmail.com', icon: <><rect x="3" y="5" width="18" height="14" rx="2" /><path d="m3 6 9 7 9-7" /></> },
     { label: 'Twitter / X', href: 'https://x.com/abhishekmallav', icon: <path d="M4 3h4.5L20 21h-4.5ZM20 3 4 21" /> },
-    { label: 'Instagram', href: 'https://www.instagram.com/mallav/', icon: <><rect x="3" y="3" width="18" height="18" rx="5" /><circle cx="12" cy="12" r="4" /><circle cx="17.5" cy="6.5" r=".8" fill="currentColor" stroke="none" /></> },
+    { label: 'Instagram', href: 'https://www.instagram.com/abhishekmallav/', icon: <><rect x="3" y="3" width="18" height="18" rx="5" /><circle cx="12" cy="12" r="4" /><circle cx="17.5" cy="6.5" r=".8" fill="currentColor" stroke="none" /></> },
   ];
   return <nav className="social-links" aria-label="Social links and source code">
     {links.map(({ label, href, icon }) => <a key={href} href={href} aria-label={label} title={label}
