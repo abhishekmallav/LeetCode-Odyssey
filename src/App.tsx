@@ -13,6 +13,22 @@ function Dice() {
   return <svg viewBox="0 0 24 24" width="17" height="17" fill="none" aria-hidden="true"><rect x="4" y="4" width="16" height="16" rx="4" transform="rotate(-12 12 12)" stroke="currentColor" strokeWidth="1.3" /><circle cx="8" cy="8" r="1.1" fill="currentColor" /><circle cx="16" cy="16" r="1.1" fill="currentColor" /><circle cx="12" cy="12" r="1.1" fill="currentColor" /></svg>;
 }
 
+function SocialLinks() {
+  const links = [
+    { label: 'GitHub repository', href: 'https://github.com/abhishekmallav/LeetCode-Odyssey', icon: <path fill="currentColor" stroke="none" d="M12 2a10 10 0 0 0-3.16 19.49c.5.09.68-.22.68-.48v-1.86c-2.78.6-3.37-1.18-3.37-1.18-.45-1.16-1.11-1.47-1.11-1.47-.91-.62.07-.61.07-.61 1 .07 1.53 1.03 1.53 1.03.89 1.53 2.34 1.09 2.91.83.09-.65.35-1.09.64-1.34-2.22-.25-4.56-1.11-4.56-4.94 0-1.09.39-1.98 1.03-2.68-.1-.25-.45-1.27.1-2.65 0 0 .84-.27 2.75 1.02a9.6 9.6 0 0 1 5 0c1.91-1.29 2.75-1.02 2.75-1.02.55 1.38.2 2.4.1 2.65.64.7 1.03 1.59 1.03 2.68 0 3.84-2.34 4.69-4.57 4.94.36.31.68.92.68 1.85v2.75c0 .27.18.58.69.48A10 10 0 0 0 12 2Z" /> },
+    { label: 'LinkedIn', href: 'https://www.linkedin.com/in/abhishekmallav/', icon: <><rect x="3" y="3" width="18" height="18" rx="2" /><path d="M7.5 10v7m0-10v.01M11.5 17v-7m0 3a2.75 2.75 0 0 1 5.5 0v4" /></> },
+    { label: 'Email Abhishek', href: 'mailto:abhimallav1439@gmail.com', icon: <><rect x="3" y="5" width="18" height="14" rx="2" /><path d="m3 6 9 7 9-7" /></> },
+    { label: 'Twitter / X', href: 'https://x.com/abhishekmallav', icon: <path d="M4 3h4.5L20 21h-4.5ZM20 3 4 21" /> },
+    { label: 'Instagram', href: 'https://www.instagram.com/mallav/', icon: <><rect x="3" y="3" width="18" height="18" rx="5" /><circle cx="12" cy="12" r="4" /><circle cx="17.5" cy="6.5" r=".8" fill="currentColor" stroke="none" /></> },
+  ];
+  return <nav className="social-links" aria-label="Social links and source code">
+    {links.map(({ label, href, icon }) => <a key={href} href={href} aria-label={label} title={label}
+      target={href.startsWith('https://') ? '_blank' : undefined} rel="noopener noreferrer">
+      <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">{icon}</svg>
+    </a>)}
+  </nav>;
+}
+
 function CompanyPicker({ companies, value, onChange }: { companies: string[]; value: string; onChange: (v: string) => void }) {
   const [search, setSearch] = useState('');
   const details = useRef<HTMLDetailsElement>(null);
@@ -151,6 +167,7 @@ export default function App() {
   function close() { setHovered(null); if (reduced) finishClose(); else setClosing(true); }
   return <>
     <a href="#library" className="skip-link">Skip to the shelf</a>
+    <SocialLinks />
     <header className="site-header">
       <div className="heading-row"><h1>LeetCode Odyssey<span className="byline">by Abhishek :)<DrawnArrow /></span></h1><span className="header-doodle" aria-hidden="true">{'{ }'}<span>one problem<br />at a time.</span></span></div>
       <div className="library-summary"><p>{problems.length ? problems.length.toLocaleString() : '…'} problems on the shelf</p><button className="surprise-button" onClick={surprise} disabled={!problems.length} aria-label="Surprise me: open a random problem from the full catalog"><Dice /> Surprise me</button></div>

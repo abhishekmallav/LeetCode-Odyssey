@@ -22,6 +22,15 @@ main{padding-top:0}.shelves{position:relative}.shelf-canvas,.shelf-placeholder{h
 .shelf-vignette:after{right:0;mask-image:linear-gradient(270deg,#000,transparent);-webkit-mask-image:linear-gradient(270deg,#000,transparent)}
 .shelf-canvas,.shelf-placeholder{height:540px}
 html{scrollbar-gutter:stable}
+.social-links{position:absolute;top:16px;right:20px;display:flex;flex-direction:column;gap:6px;z-index:10}
+.social-links a{display:grid;place-items:center;width:36px;height:36px;border-radius:6px;color:var(--muted);text-decoration:none;transition:color .18s,background .18s}
+.social-links a:hover{color:var(--cream);background:#eee5d315}
+@media(max-width:639px){.social-links{right:20px;gap:4px}.social-links a{width:44px;height:44px}.site-header{padding-top:74px}}
+.problem-list li button{grid-template-columns:44px minmax(0,1fr) auto;min-height:76px;padding-block:15px}
+.list-title{font-size:18px}.list-number{font-size:14px}.problem-list .difficulty-text{font-size:13px}.list-pagination{font-size:14px}
+footer{font-size:14px;line-height:1.6}footer>span:first-child{font-size:16px}footer a{font-size:13px}
+@media(min-width:640px) and (max-width:1200px){.site-header{padding-right:80px}}
+@media(max-width:639px){.site-header{padding-top:25px}.heading-row{min-height:228px;padding-right:60px}.header-doodle{display:none}}
 .detail-desk{animation-duration:.35s}.detail-closing{animation:desk-out .32s ease-in both;pointer-events:none}
 .empty-shelf-on-canvas{position:absolute;top:0;left:0;right:0;min-height:540px;z-index:2;pointer-events:none;animation:empty-reveal .25s .35s both}.empty-shelf-on-canvas button{pointer-events:auto}
 @keyframes desk-out{to{opacity:0;transform:translateY(15px) scale(.985)}}
